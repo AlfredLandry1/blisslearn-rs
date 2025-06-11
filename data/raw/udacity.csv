@@ -1,0 +1,571 @@
+Name of he course ,Link,Rating,Duration,Level
+Data Analyst,https://www.udacity.com/course/data-analyst-nanodegree--nd002,1184,1 day, Discovery
+Introduction to Programming,https://www.udacity.com/course/intro-to-programming-nanodegree--nd000,1309,1 day, Discovery
+Deep Learning,https://www.udacity.com/course/deep-learning-nanodegree--nd101,909,1 day, Discovery
+AI Programming with Python,https://www.udacity.com/course/ai-programming-python-nanodegree--nd089,592,1 day, Discovery
+Digital Marketing,https://www.udacity.com/course/digital-marketing-nanodegree--nd018,957,1 day, Discovery
+Data Engineering with AWS,https://www.udacity.com/course/data-engineer-nanodegree--nd027,1132,1 day, Discovery
+Business Analytics,https://www.udacity.com/course/business-analytics-nanodegree--nd098,1194,1 day, Discovery
+iOS Development with SwiftUI and SwiftData,https://www.udacity.com/course/ios-developer-nanodegree--nd003,225,1 day, Discovery
+Programming for Data Science with Python,https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104,807,1 day, Discovery
+Data Scientist,https://www.udacity.com/course/data-scientist-nanodegree--nd025,781,1 day, Discovery
+React,https://www.udacity.com/course/react-nanodegree--nd019,523,1 day, Discovery
+Product Manager,https://www.udacity.com/course/product-manager-nanodegree--nd036,588,1 day, Discovery
+C++,https://www.udacity.com/course/c-plus-plus-nanodegree--nd213,729,1 day, Discovery
+Full Stack Web Developer,https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044,449,1 day, Discovery
+Data Structures and Algorithms,https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256,498,1 day, Discovery
+Front End Web Developer,https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011,802,1 day, Discovery
+AI for Trading,https://www.udacity.com/course/ai-for-trading--nd880,496,1 day, Discovery
+User Experience,https://www.udacity.com/course/ux-designer-nanodegree--nd578,672,1 day, Discovery
+Natural Language Processing,https://www.udacity.com/course/natural-language-processing-nanodegree--nd892,275,1 day, Discovery
+Cloud DevOps Engineer,https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991,416,1 day, Discovery
+Computer Vision,https://www.udacity.com/course/computer-vision-nanodegree--nd891,450,1 day, Discovery
+Cloud Developer,https://www.udacity.com/course/cloud-developer-nanodegree--nd9990,398,1 day, Fluency
+Introduction to Self-Driving Cars,https://www.udacity.com/course/intro-to-self-driving-cars--nd113,363,1 day, Discovery
+Deep Reinforcement Learning,https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893,328,1 day, Beginner
+Robotics Software Engineer,https://www.udacity.com/course/robotics-software-engineer--nd209,300,1 day,Beginner
+Discovering Artificial Intelligence and Machine Learning,https://www.udacity.com/course/discovering-ai-ml--cd2019,,1 day,Beginner
+Java Web Developer,https://www.udacity.com/course/java-developer-nanodegree--nd035,269,1 day, Beginner
+AI Product Manager,https://www.udacity.com/course/ai-product-manager-nanodegree--nd088,268,1 day, Beginner
+Introduction to Machine Learning with Pytorch,https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229,235,1 day, Beginner
+Predictive Analytics for Business,https://www.udacity.com/course/predictive-analytics-for-business-nanodegree--nd008t,272,1 day, Intermediate
+SQL,https://www.udacity.com/course/learn-sql--nd072,265,1 day, Beginner
+Introduction to Machine Learning with TensorFlow,https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230,256,1 day, Intermediate
+Artificial Intelligence,https://www.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898,162,1 day, Intermediate
+AWS Cloud Architect,https://www.udacity.com/course/aws-cloud-architect-nanodegree--nd063,174,1 day, Beginner
+Sensor Fusion,https://www.udacity.com/course/sensor-fusion-engineer-nanodegree--nd313,175,1 day, Beginner
+Introducing Generative AI with AWS,https://www.udacity.com/course/generative-AI-with-AWS--cd13232,,1 day, Beginner
+Marketing Analytics,https://www.udacity.com/course/marketing-analytics-nanodegree--nd028,223,1 day, Beginner
+Intermediate Python,https://www.udacity.com/course/intermediate-python-nanodegree--nd303,93,1 day, Beginner
+Data Product Manager,https://www.udacity.com/course/data-product-manager-nanodegree--nd030,164,1 day, Beginner
+Data Analysis and Visualization with Microsoft Power BI,https://www.udacity.com/course/data-analysis-and-visualization-with-power-BI-nanodegree--nd331,88,1 day, Beginner
+Android Kotlin Developer,https://www.udacity.com/course/android-kotlin-developer-nanodegree--nd940,311,1 day, Beginner
+Data Streaming,https://www.udacity.com/course/data-streaming-nanodegree--nd029,127,1 day, Beginner
+Data Visualization,https://www.udacity.com/course/data-visualization-nanodegree--nd197,124,1 month, Beginner
+AI for Healthcare,https://www.udacity.com/course/ai-for-healthcare-nanodegree--nd320,126,1 month, Intermediate
+DevOps Fluency,https://www.udacity.com/course/dev-ops-fluency--cd5234,,1 month, Beginner
+Discovering Data Science,https://www.udacity.com/course/discovering-data-science--cd2018,,1 month, Beginner
+Introduction to Cybersecurity,https://www.udacity.com/course/intro-to-cybersecurity-nanodegree--nd545,115,1 month, Beginner
+AI For Business Leaders,https://www.udacity.com/course/ai-for-business-leaders--nd054,81,1 month, Beginner
+AWS Machine Learning Engineer Nanodegree,https://www.udacity.com/course/aws-machine-learning-engineer-nanodegree--nd189,41,1 month, Advanced
+Java Programming,https://www.udacity.com/course/java-programming-nanodegree--nd079,85,1 month, Beginner
+Flying Car and Autonomous Flight Engineer,https://www.udacity.com/course/flying-car-nanodegree--nd787,115,1 month, Beginner
+Generative AI,https://www.udacity.com/course/generative-ai--nd608,na,1 month, Beginner
+Machine Learning DevOps Engineer,https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821,87,1 month, Beginner
+Discovering Quantum Computing,https://www.udacity.com/course/discovering-quantum-computing--cd13463,na,1 month, Beginner
+Full Stack JavaScript Developer,https://www.udacity.com/course/full-stack-javascript-developer-nanodegree--nd0067,75,1 month, Beginner
+Agile Software Developer,https://www.udacity.com/course/agile-software-development-nanodegree--nd144,81,1 month, Advanced
+Self Driving Car Engineer,https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd0013,34,1 month, Intermediate
+Data Architect,https://www.udacity.com/course/data-architect-nanodegree--nd038,80,1 month, Intermediate
+Discovering Ethical AI,https://www.udacity.com/course/discovering-ethical-AI--cd13462,na,1 month, Beginner
+Intermediate JavaScript,https://www.udacity.com/course/intermediate-javascript-nanodegree--nd032,119,1 month, Intermediate
+Discovering Digital Transformation,https://www.udacity.com/course/discovering-digital-transformation--cd2704,na,1 month, Intermediate
+Cloud Developer using Microsoft Azure,https://www.udacity.com/course/cloud-developer-using-microsoft-azure-nanodegree--nd081,34,1 month, Advanced
+Machine Learning Engineer with Microsoft Azure,https://www.udacity.com/course/machine-learning-engineer-for-microsoft-azure-nanodegree--nd00333,67,1 month, Beginner
+Digital Transformation for Business Leaders,https://www.udacity.com/course/digital-transformation-for-business-leaders--nd055,na,1 month, Beginner
+Growth Product Manager,https://www.udacity.com/course/growth-product-manager-nanodegree--nd037,39,1 month, Intermediate
+Cloud Native Application Architecture,https://www.udacity.com/course/cloud-native-application-architecture-nanodegree--nd064,47,1 month, Intermediate
+Discovering Business Analytics,https://www.udacity.com/course/discovering-business-analytics--cd11523,na,1 month, Intermediate
+Cloud DevOps using Microsoft Azure,https://www.udacity.com/course/cloud-devops-using-microsoft-azure-nanodegree--nd082,62,1 month, Intermediate
+Discovering Data Analysis and Visualization,https://www.udacity.com/course/discovering-data-analysis-and-visualization--cd2703,na,1 month, Intermediate
+Programming for Data Science with R,https://www.udacity.com/course/programming-for-data-science-nanodegree-with-R--nd118,47,1 month, Intermediate
+Ethical Hacker,https://www.udacity.com/course/ethical-hacker-nanodegree--nd350,17,1 month, Intermediate
+Security Engineer,https://www.udacity.com/course/security-engineer-nanodegree--nd698,32,1 month, Intermediate
+Data Science for Business Leaders,https://www.udacity.com/course/data-science-for-business-leaders--nd045,65,1 month, Intermediate
+Data Analysis and Visualization Fluency,https://www.udacity.com/course/data-analysis-and-visualization-fluency--cd5224,na,1 month, Intermediate
+Introduction to Python,https://www.udacity.com/course/introduction-to-python--cd0024,na,1 month, Intermediate
+Discovering Data Literacy,https://www.udacity.com/course/discovering-data-literacy--cd12066,na,1 week, Intermediate
+Introduction to Data,https://www.udacity.com/course/introduction-to-data-analytics-for-business--cd0022,na,1 week, Fluency
+Data Engineering with Microsoft Azure,https://www.udacity.com/course/data-engineering-with-microsoft-azure-nanodegree--nd0277,2,1 week, Fluency
+Introduction to AI/ML Fluency,https://www.udacity.com/course/intro-to-ai-ml-fluency--cd1930,na,1 week, Fluency
+Cloud Architect using Microsoft Azure,https://www.udacity.com/course/cloud-architect-using-microsoft-azure-nanodegree--nd090,4,1 week, Fluency
+Digital Project Management,https://www.udacity.com/course/digital-project-management-nanodegree--nd043,11,1 week, Fluency
+Business Analytics Fluency,https://www.udacity.com/course/business-analytics-fluency--cd11524,na,1 week, Intermediate
+Discovering Cybersecurity,https://www.udacity.com/course/discovering-cybersecurity--cd2017,na,1 week, Beginner
+How to Use ChatGPT Fluency,https://www.udacity.com/course/how-to-use-chatgpt--cd13054,na,1 week, Fluency
+Discovering Agile,https://www.udacity.com/course/discovering-agile--cd2020,na,1 week, Fluency
+Data Science Fluency,https://www.udacity.com/course/intro-to-data-science-fluency--cd1880,na,1 week, Fluency
+Site Reliability Engineer,https://www.udacity.com/course/site-reliability-engineer-nanodegree--nd087,9,1 week, Advanced
+Discovering Cloud Computing,https://www.udacity.com/course/discovering-cloud-computing--cd2021,na,1 week, Advanced
+Agile Fluency,https://www.udacity.com/course/agile-fluency--cd1939,na,1 week, Fluency
+Programming with Python Fluency,https://www.udacity.com/course/intro-to-programming-with-python-fluency--cd5227,na,1 week, Beginner
+Security Analyst,https://www.udacity.com/course/security-analyst-nanodegree--nd324,27,1 week, Intermediate
+Product Management Fluency,https://www.udacity.com/course/product-management-fluency--cd5226,na,1 week, Beginner
+Cloud Computing for Business Leaders,https://www.udacity.com/course/cloud-computing-for-business-leaders-nanodegree--nd046,13,1 week, Intermediate
+Digital Freelancer,https://www.udacity.com/course/digital-freelancer-nanodegree--nd083,16,1 week, Beginner
+Discovering Product Management,https://www.udacity.com/course/discovering-product-management--cd2705,na,1 week, Advanced
+Go Language (Golang),https://www.udacity.com/course/golang--cd11970,na,1 week, Advanced
+Generative AI for Business Leaders,https://www.udacity.com/course/generative-AI-for-business-leaders--cd13230,na,1 week, Beginner
+Introduction to SQL,https://www.udacity.com/course/introduction-to-sql--cd0021,na,1 week, Fluency
+AI Engineer using Microsoft Azure,https://www.udacity.com/course/ai-engineer-using-microsoft-azure--nd073,1,1 week, Intermediate
+Security Architect,https://www.udacity.com/course/security-architect-nanodegree--nd992,9,1 week, Beginner
+Discovering Design Thinking,https://www.udacity.com/course/discovering-design-thinking--cd12315,na,1 week, Beginner
+Discovering Digital Project Management,https://www.udacity.com/course/discovering-digital-project-management--cd2842,na,1 week, Beginner
+Generative AI Fluency,https://www.udacity.com/course/generative-ai-fluency--cd13224,na,1 week, Beginner
+Cybersecurity Foundations Fluency,https://www.udacity.com/course/cybersecurity-fundamentals-fluency--cd1865,na,1 week, Beginner
+Building a Custom OpenAI Chatbot,https://www.udacity.com/course/build-a-custom-chatbot-with-openAI-api--cd12792,na,1 week, Beginner
+Discovering DevOps,https://www.udacity.com/course/discovering-devops--cd2845,na,1 week, Beginner
+SQL Fluency,https://www.udacity.com/course/sql-fluency--cd5228,na,1 week, Beginner
+Statistics for Data Analysis,https://www.udacity.com/course/statistics-for-data-analysis-nanodegree--nd588,na,1 week, Beginner
+Cloud Fundamentals Fluency,https://www.udacity.com/course/cloud-fundamentals-fluency--cd1866,na,1 week, Beginner
+Discovering Programming,https://www.udacity.com/course/discovering-programming--cd11594,na,1 week, Beginner
+Introduction to Programming with Python I,https://www.udacity.com/course/intro-to-programming-with-python-one--cd0228,na,1 week, Beginner
+Large Language Models (LLMs) & Text Generation,https://www.udacity.com/course/large-language-models-and-text-generation--cd13318,na,1 week, Beginner
+Product Strategy for Product Managers,https://www.udacity.com/course/product-strategy--cd0020,na,1 week, Beginner
+GitHub Copilot,https://www.udacity.com/course/github-copilot--cd12892,na,1 week, Beginner
+Discovering UX Design,https://www.udacity.com/course/discovering-ux-design--cd12314,na,1 week, Beginner
+Enterprise Security,https://www.udacity.com/course/enterprise-security-nanodegree--nd0035,1,1 week, Beginner
+UX Design Fluency,https://www.udacity.com/course/ux-design-fluency--cd5238,na,1 week, Beginner
+Generative AI Fundamentals,https://www.udacity.com/course/generative-ai-fundamentals--cd13303,na,1 week, Beginner
+Business Intelligence Analytics,https://www.udacity.com/course/business-intelligence-analytics-nanodegree--nd429,na,1 week, Beginner
+Data Storytelling,https://www.udacity.com/course/data-storytelling--cd0233,na,1 week, Beginner
+Discovering Blockchain,https://www.udacity.com/course/discovering-blockchain--cd12331,na,1 week, Beginner
+Introduction to Javascript,https://www.udacity.com/course/intro-to-javascript--cd2073,na,1 week, Beginner
+Data Governance,https://www.udacity.com/course/data-governance--cd0033,na,1 week, Beginner
+Advanced Data Analysis with Power BI,https://www.udacity.com/course/advanced-data-analysis-with-power-bi--cd0014,na,1 week, Beginner
+Using SQL for Data Analysis,https://www.udacity.com/course/sql-for-data-analysis--cd0023,na,1 week, Beginner
+Digital Project Management Fluency,https://www.udacity.com/course/digital-project-management-fluency--cd5231,na,1 week, Beginner
+Advanced Python Techniques,https://www.udacity.com/course/advanced-python-techniques--cd0010,na,1 week, Beginner
+Discovering Autonomous Systems,https://www.udacity.com/course/discovering-autonomous-systems--cd2708,na,11 hours, Beginner
+Cybersecurity for Business Leaders,https://www.udacity.com/course/cybersecurity-for-business-leaders--nd1202,6,11 hours, Discovery
+Discovering RPA,https://www.udacity.com/course/discovering-RPA--cd2843,na,17 hours, Discovery
+Microservices at Scale using AWS and Kubernetes,https://www.udacity.com/course/microservices-at-scale--cd12355,na,17 hours, Discovery
+RNNs and Transformers,https://www.udacity.com/course/rnns-and-transformers--cd1822,na,2 days, Discovery
+Building Generative AI Solutions with Vector Databases,https://www.udacity.com/course/building-generative-ai-solutions-with-vector-databases--cd12952,na,2 days, Discovery
+Building Generative AI Solutions,https://www.udacity.com/course/intro-to-building-generative-AI-solutions--cd13267,na,2 days, Discovery
+API Development and Documentation,https://www.udacity.com/course/api-development-and-documentation--cd0037,na,2 days, Discovery
+Data Modeling Fluency,https://www.udacity.com/course/data-modeling-fluency--cd12590,na,2 days, Discovery
+Data Engineering,https://www.udacity.com/course/data-engineering-for-data-scientists--cd0018,na,2 days, Discovery
+Digital Arts and AI Tools Fluency,https://www.udacity.com/course/digital-arts-and-ai-tools-fluency--cd12879,na,2 days, Advanced
+AWS Cloud Fundamentals,https://www.udacity.com/course/cloud-fundamentals--cd12097,na,2 days, Beginner
+Introduction to Python for AI Programmers,https://www.udacity.com/course/introduction-to-python-for-ai-programmers--cd0184,na,2 days, Beginner
+Ethical AI,https://www.udacity.com/course/ethical-ai--cd1827,na,2 days, Beginner
+Small Datasets in Machine Learning,https://www.udacity.com/course/small-data--cd12528,na,2 days, Beginner
+Supervised Learning,https://www.udacity.com/course/supervised-machine-learning--cd0025,na,2 days, Beginner
+Introduction to Version Control,https://www.udacity.com/course/introduction-to-version-control--cd0419,na,2 months, Intermediate
+Intro to Web Development Fluency,https://www.udacity.com/course/intro-to-web-development-fluency--cd5233,na,2 months, Intermediate
+Data Visualization in Tableau,https://www.udacity.com/course/data-visualization-with-tableau--cd0337,na,2 months, Beginner
+Spark and Data Lakes,https://www.udacity.com/course/spark-and-data-lakes--cd12441,na,2 months, Beginner
+Product Design,https://www.udacity.com/course/product-design--cd0027,na,2 months, Intermediate
+Introduction to Data Analytics,https://www.udacity.com/course/intro-to-data-analytics--cd12032,na,2 months, Beginner
+Introduction to Programming with Python II,https://www.udacity.com/course/intro-to-programming-with-python-two--cd0229,na,2 months, Advanced
+Building Generative Adversarial Networks,https://www.udacity.com/course/building-generative-adversarial-networks--cd1823,na,2 months, Advanced
+Discovering Digital Marketing,https://www.udacity.com/course/discovering-digital-marketing--cd2841,na,2 months, Intermediate
+Data Stewardship Fluency,https://www.udacity.com/course/data-stewardship-fluency--cd12589,na,2 months, Intermediate
+"Build CI/CD Pipelines, Monitoring, and Logging",https://www.udacity.com/course/building-a-continuous-integration-pipeline--cd12354,na,2 months, Advanced
+Creating Visualizations with Power BI,https://www.udacity.com/course/creating-visualizations-with-power-bi--cd0013,na,2 months, Intermediate
+Java Fundamentals,https://www.udacity.com/course/java-fundamentals--cd0282,na,2 months, Intermediate
+Delivering Value with Agile Planning and Prioritization,https://www.udacity.com/course/delivering-value-with-agile-planning-and-prioritization--cd0042,na,2 months, Intermediate
+Blockchain Fluency,https://www.udacity.com/course/blockchain-fluency--cd12332,na,2 months, Intermediate
+Introduction to Deep Learning,https://www.udacity.com/course/introduction-to-deep-learning--cd1818,na,2 months, Intermediate
+Preparing and Modeling Data with Power BI,https://www.udacity.com/course/preparing-and-modeling-data--cd0012,na,2 months, Advanced
+Digital Marketing Fluency,https://www.udacity.com/course/digital-marketing-fluency--cd5230,na,2 months, Advanced
+Server Deployment and Containerization,https://www.udacity.com/course/server-deployment-and-containerization--cd0157,na,2 months, Beginner
+Advanced Computer Vision and Deep Learning,https://www.udacity.com/course/advanced-computer-vision-and-deep-learning--cd0361,na,2 months, Beginner
+Advanced Data Wrangling,https://www.udacity.com/course/advanced-data-wrangling--cd12531,na,2 months, Beginner
+Preparing and Modeling Data with Power BI Fluency,https://www.udacity.com/course/preparing-and-modeling-data-with-power-BI-fluency--cd12043,na,2 months, Advanced
+Cybersecurity Foundations,https://www.udacity.com/course/cybersecurity-foundations--cd0001,na,2 months, Beginner
+Dashboard Design,https://www.udacity.com/course/dashboard-designs--cd0232,na,2 months, Beginner
+Computer Vision and Generative AI,https://www.udacity.com/course/computer-vision-and-generative-AI--cd13331,na,2 months, Beginner
+Introduction to Data Analysis with Pandas and NumPy,https://www.udacity.com/course/intro-to-data-analysis--cd12529,na,2 months, Beginner
+Introduction to Web Development,https://www.udacity.com/course/intro-to-web-development--cd0038,na,2 months, Advanced
+Blockchain Developer,https://www.udacity.com/course/blockchain-developer--nd1310,na,2 months, Advanced
+RPA Fluency,https://www.udacity.com/course/rpa-fluency--cd5232,na,2 months, Advanced
+Data Modeling,https://www.udacity.com/course/data-modeling--cd0029,na,2 months, Advanced
+Zero Trust Security,https://www.udacity.com/course/zero-trust-security--cd11535,na,2 months, Advanced
+Embedded Systems Fundamentals,https://www.udacity.com/course/embedded-systems-fundamentals--nd790,na,2 weeks, Beginner
+Foundations of Agile and Agile Frameworks,https://www.udacity.com/course/foundations-of-agile-and-agile-frameworks--cd0043,na,2 weeks, Fluency
+Building a Reproducible Model Workflow,https://www.udacity.com/course/building-a-reproducible-model-workflow--cd0581,na,2 weeks, Fluency
+Introduction to Data Science,https://www.udacity.com/course/introduction-to-data-science--cd0017,na,2 weeks, Fluency
+Data Privacy,https://www.udacity.com/course/data-privacy--cd1826,na,2 weeks, Intermediate
+Introduction to Artificial Intelligence,https://www.udacity.com/course/intro-to-artificial-intelligence--cd0327,na,2 weeks, Fluency
+Advanced Java Programming Techniques,https://www.udacity.com/course/advanced-java-programming-techniques--cd0381,na,2 weeks, Fluency
+Data Architecture Foundations,https://www.udacity.com/course/data-architecture-foundations--cd0041,na,2 weeks, Intermediate
+Multi-Cloud Computing,https://www.udacity.com/course/multi-cloud-computing--cd11573,na,2 weeks, Beginner
+Monolith to Microservices at Scale,https://www.udacity.com/course/monolith-to-microservices-at-scale--cd0354,na,2 weeks, Fluency
+Backend Development with Node.js,https://www.udacity.com/course/backend-development-with-node-js--cd0292,na,2 weeks, Fluency
+Unsupervised Learning,https://www.udacity.com/course/unsupervised-learning--cd0026,na,2 weeks, Intermediate
+Convolutional Neural Networks,https://www.udacity.com/course/convolutional-neural-networks--cd1821,na,2 weeks, Intermediate
+Data lakes and Lakehouses with Spark and Azure Databricks,https://www.udacity.com/course/data-lakes-and-lakehouses-with-spark-and-azure-databricks--cd11531,na,2 weeks, Fluency
+Social Media Marketing,https://www.udacity.com/course/social-media-marketing--cd0692,na,2 weeks, Intermediate
+Automate Data Pipelines,https://www.udacity.com/course/automate-data-pipelines--cd12380,na,2 weeks, Beginner
+Embedded Systems and Robotics Fluency,https://www.udacity.com/course/embedded-systems-and-robotics-fluency--cd12202,na,2 weeks, Intermediate
+Introduction to Machine Learning,https://www.udacity.com/course/introduction-to-machine-learning--cd0385,na,2 weeks, Beginner
+Full Stack Apps on AWS,https://www.udacity.com/course/full-stack-apps-on-aws--cd0353,na,2 weeks, Fluency
+Predictive Data Analysis,https://www.udacity.com/course/predictive-data-analysis--cd12034,na,2 weeks, Intermediate
+Java Application Deployment,https://www.udacity.com/course/java-application-deployment--cd0384,na,2 weeks, Intermediate
+Azure Applications,https://www.udacity.com/course/azure-applications--cd1756,na,2 weeks, Intermediate
+Data Ingestion with Kafka and Kafka Streaming,https://www.udacity.com/course/data-ingestion-with-kafka-and-kafka-streaming--cd0236,na,2 weeks, Beginner
+React Native,https://www.udacity.com/course/react-native--cd0444,na,2 weeks, Intermediate
+Introduction to Natural Language Processing,https://www.udacity.com/course/intro-to-natural-language-processing--cd0377,na,2 weeks, Beginner
+Large Python Codebases with Libraries,https://www.udacity.com/course/large-codebases-with-libraries--cd0011,na,2 weeks, Intermediate
+Object Tracking and Localization,https://www.udacity.com/course/object-tracking-and-localization--cd0359,na,2 weeks, Advanced
+Introduction to Airflow,https://www.udacity.com/course/introduction-to-airflow--cd12932,na,2 weeks, Intermediate
+Introduction to Neural Networks with PyTorch,https://www.udacity.com/course/introduction-to-neural-networks-with-pytorch--cd0281,na,2 weeks, Intermediate
+Experimental Design and Recommendations,https://www.udacity.com/course/experimental-design-and-recommendations--cd0019,na,2 weeks, Beginner
+React Fundamentals,https://www.udacity.com/course/react-fundamentals--cd0546,na,2 weeks, Intermediate
+Design for Performance and Scalability,https://www.udacity.com/course/design-for-performance-and-scalability--cd0345,na,2 weeks, Advanced
+Search Engine Optimization (SEO),https://www.udacity.com/course/search-engine-optimization-essentials--cd0693,na,2 weeks, Intermediate
+Product Development,https://www.udacity.com/course/product-development--cd12366,na,2 weeks, Beginner
+Digital Arts Foundations,https://www.udacity.com/course/digital-arts-foundation--nd549,na,2 weeks, Beginner
+Big Data Systems,https://www.udacity.com/course/big-data-systems--cd0034,na,2 weeks, Intermediate
+"Governance, Risk, and Compliance",https://www.udacity.com/course/governance-risk-and-compliance--cd0004,na,2 weeks, Intermediate
+Cloud Data Warehouses,https://www.udacity.com/course/cloud-data-warehouses--cd12440,na,2 weeks, Advanced
+"Embedded Systems, IoT, and AIoT",https://www.udacity.com/course/embedded-systems-IoT-and-AIoT--cd12870,na,2 weeks, Fluency
+Advanced Data Storytelling,https://www.udacity.com/course/advanced-data-storytelling--cd0234,na,2 weeks, Intermediate
+Multi-Backend Deep Learning with Keras,https://www.udacity.com/course/multi-backend-deep-learning-with-keras--cd13370,na,2 weeks, Beginner
+Contrastive Language-Image Pretraining (CLIP) Fluency,https://www.udacity.com/course/contrastive-language-image-pretraining--cd13296,na,2 weeks, Intermediate
+Marketing Fundamentals,https://www.udacity.com/course/marketing-fundamentals--cd0690,na,2 weeks, Beginner
+Applying AI to EHR Data,https://www.udacity.com/course/applying-ai-to-ehr-data--cd0372,na,2 weeks, Advanced
+Designing Data Systems,https://www.udacity.com/course/designing-data-systems--cd0032,na,2 weeks, Beginner
+Programming with Swift,https://www.udacity.com/course/programming-with-swift--cd13099,na,2 weeks, Intermediate
+UX Fundamentals & Design Research,https://www.udacity.com/course/ux-fundamentals-and-design-research--cd0301,na,2 weeks, Beginner
+Data Pipelines with Azure,https://www.udacity.com/course/data-pipelines-with-azure--cd11532,na,2 weeks, Beginner
+UX Fundamentals & Design Research,https://www.udacity.com/course/ux-fundamentals-and-design-research--cd0156,na,2 weeks, Beginner
+Applying Data Science to Product Management,https://www.udacity.com/course/applying-data-science-to-product-management--cd0158,na,2 weeks, Beginner
+Product Launch,https://www.udacity.com/course/product-launch--cd0045,na,2 weeks, Beginner
+Computing With Natural Language,https://www.udacity.com/course/computing-with-natural-language--cd0379,na,2 weeks, Beginner
+Data Structures,https://www.udacity.com/course/data-structures--cd0328,na,2 weeks, Beginner
+"Progress, Communication, and Organizational Agility",https://www.udacity.com/course/progress-communication-and-organizational-agility--cd0006,na,2 weeks, Beginner
+"AI Governance, Policy, and the Public Good",https://www.udacity.com/course/AI-governance-and-the-public-good--cd13383,na,2 weeks, Beginner
+Fundamentals of Probabilistic Graphical Models,https://www.udacity.com/course/fundamentals-of-probabilistic-graphical-models--cd0348,na,2 weeks, Beginner
+Marketing Data and Technology,https://www.udacity.com/course/marketing-data-and-technology--cd0691,na,2 weeks, Beginner
+Introduction to Circuits,https://www.udacity.com/course/introduction-to-circuits--cd13305,na,2 weeks, Beginner
+Digital Advertising,https://www.udacity.com/course/digital-advertising--cd0695,na,2 weeks, Beginner
+Data Security,https://www.udacity.com/course/data-security--cd0376,na,2 weeks, Beginner
+Discovering APIs,https://www.udacity.com/course/discovering-APIs--cd13386,na,2 weeks, Beginner
+"Understanding Connectivity, 5G and NextG",https://www.udacity.com/course/understanding-connectivity-5G-and-nextG--cd12721,na,2 weeks, Beginner
+iOS User Interfaces with Swift UI,https://www.udacity.com/course/iOS-user-interfaces-with-swift--cd13100,na,2 weeks, Beginner
+Developing your First ML Workflow,https://www.udacity.com/course/developing-your-first-ml-workflow--cd0386,na,2 weeks, Beginner
+Data Preparation and Modeling,https://www.udacity.com/course/data-preparation-and-modeling--cd12033,na,2 weeks, Beginner
+Generative AI Products,https://www.udacity.com/course/generative-ai-products--cd13582,na,2 weeks, Beginner
+Develop and Deploy Serverless Apps,https://www.udacity.com/course/develop-and-deploy-serverless-apps--cd12101,na,2 weeks, Beginner
+iOS Application Data with SwiftData,https://www.udacity.com/course/iOS-application-data-with-swiftdata--cd13102,na,2 weeks, Beginner
+Introduction to Computer Vision,https://www.udacity.com/course/introduction-to-computer-vision--cd0360,na,2 weeks, Beginner
+Azure API Management,https://www.udacity.com/course/azure-api-management--cd13426,na,2 weeks, Beginner
+Communicating with Natural Language,https://www.udacity.com/course/communicating-with-natural-language--cd0380,na,2 weeks, Beginner
+Planning and Publishing iOS Apps,https://www.udacity.com/course/planning-and-publishing-iOS-apps--cd13103,na,2 weeks, Beginner
+Data Visualization with Matplotlib and Seaborn,https://www.udacity.com/course/data-visualization-with-matplotlib-and-seaborn--cd12532,na,2 weeks, Beginner
+Introduction to Neural Networks with TensorFlow,https://www.udacity.com/course/introduction-to-neural-networks-with-tensorflow--cd0375,na,2 weeks, Beginner
+SQL and Data Modeling for the Web,https://www.udacity.com/course/sql-and-data-modeling-for-the-web--cd0046,na,2 weeks, Beginner
+Blockchain Fundamentals,https://www.udacity.com/course/blockchain-fundamentals--cd13281,na,2 weeks, Beginner
+Networking and Concurrency for iOS Apps,https://www.udacity.com/course/networking-and-concurrency-for-iOS-apps--cd13101,na,2 weeks, Beginner
+Search Engine Marketing (SEM),https://www.udacity.com/course/search-engine-marketing--cd0694,na,2 weeks, Beginner
+Defending and Securing Systems,https://www.udacity.com/course/defending-and-securing-systems--cd0002,na,2 weeks, Beginner
+Deploy Infrastructure as Code (IAC),https://www.udacity.com/course/deploy-infrastructure-as-code--cd12352,na,2 weeks, Beginner
+Introduction to Ethical Hacking,https://www.udacity.com/course/intro-to-ethical-hacking--cd1725,na,2 weeks, Beginner
+Deep Learning Topics with Computer Vision and NLP,https://www.udacity.com/course/deep-learning-topics-with-computer-vision-and-nlp--cd0387,na,2 weeks, Beginner
+Design for Security,https://www.udacity.com/course/design-for-security--cd0344,na,2 weeks, Beginner
+Deploying a Machine Learning Model with FastAPI,https://www.udacity.com/course/deploying-a-machine-learning-model-with-FastAPI--cd12902,na,2 weeks, Beginner
+Email Marketing,https://www.udacity.com/course/email-marketing--cd0696,na,2 weeks, Beginner
+React and Redux,https://www.udacity.com/course/react-and-redux--cd0547,na,2 weeks, Beginner
+Application Security,https://www.udacity.com/course/application-security--cd0633,na,2 weeks, Beginner
+Establishing Data Infrastructure,https://www.udacity.com/course/establishing-data-infrastructure--cd0159,na,2 weeks, Beginner
+Self Healing Architectures,https://www.udacity.com/course/self-healing-architectures--cd1900,na,2 weeks, Beginner
+Leveraging Data in Iterative Product Design,https://www.udacity.com/course/leveraging-data-in-iterative-product-design--cd0040,na,2 weeks, Beginner
+Penetration Testing and Red Teaming,https://www.udacity.com/course/penetration-testing-and-red-teaming-operations--cd1726,na,2 weeks, Intermediate
+Cloud Data Warehouses with Azure,https://www.udacity.com/course/cloud-data-warehouses-with-azure--cd11530,na,20 hours, Beginner
+Infrastructure and Network Security Architecture Planning and Design,https://www.udacity.com/course/infrastructure-and-network-security-architecture-planning-and-design--cd0396,na,22 hours, Beginner
+Building NLP and Conversational AI Solutions with Azure,https://www.udacity.com/course/building-nlp-and-conversational-ai-solutions-with-azure--cd0462,na,3 days, Fluency
+Freelancing 101 and Preparing to Market Yourself,https://www.udacity.com/course/freelancing-101-and-preparing-to-market-yourself--cd0389,na,3 days, Beginner
+Streaming API Development and Documentation,https://www.udacity.com/course/data-streaming-api-development-and-documentation--cd0036,na,3 days, Beginner
+Blockchain With Solidity,https://www.udacity.com/course/blockchain-with-solidity--cd13282,na,3 days, Beginner
+Azure Cloud Security,https://www.udacity.com/course/security--cd0356,na,3 days, Beginner
+Intro to Digital Arts Fluency,https://www.udacity.com/course/digital-arts-fluency--cd12201,na,3 days, Beginner
+JavaScript & the DOM,https://www.udacity.com/course/java-script-and-the-dom--cd0428,na,3 days, Beginner
+Security Architecture Planning and Design,https://www.udacity.com/course/security-architecture-planning-and-design--cd0394,na,3 days, Beginner
+Introduction to R Programming,https://www.udacity.com/course/introduction-to-r-programming--cd0382,na,3 days, Beginner
+Operationalizing Machine Learning on SageMaker,https://www.udacity.com/course/operationalizing-machine-learning-on-sagemaker--cd0378,na,3 days, Beginner
+Management of Relational and Non-relational Databases,https://www.udacity.com/course/management-of-relational-and-non-relational-databases--cd0362,na,3 days, Beginner
+Cost Optimization and Monitoring,https://www.udacity.com/course/cost-optimization-and-monitoring--cd0358,na,3 days, Beginner
+Systems Security,https://www.udacity.com/course/system-security--cd0631,na,3 days, Intermediate
+Concept to Low-Fidelity Prototyping,https://www.udacity.com/course/concept-to-low-fidelity-prototyping--cd0044,na,3 days, Beginner
+Identity Access Management,https://www.udacity.com/course/identity-access-management--cd0039,na,3 days, Beginner
+Fundamentals of Embedded Systems,https://www.udacity.com/course/fundamentals-of-embedded-systems--cd12737,na,3 days, Beginner
+Establishing a foundation in observability,https://www.udacity.com/course/establishing-a-foundation-in-observability--cd1898,na,3 days, Beginner
+Discovering World Models,https://www.udacity.com/course/discovering-world-models--cd13388,na,3 days, Beginner
+Analyzing Security Threats,https://www.udacity.com/course/analyzing-security-threats--cd0289,na,3 days, Beginner
+"Threats, Vulnerabilities, and Incident Response",https://www.udacity.com/course/threats-vulnerabilities-and-incident-response--cd0003,na,3 days, Beginner
+GitHub Actions,https://www.udacity.com/course/github-actions--cd13461,na,3 days, Intermediate
+"Monitoring, Logging and Responding to Incidents",https://www.udacity.com/course/monitoring-logging-and-responding-to-incidents--cd0291,na,3 months, Intermediate
+Next Generation Data Management: User Models and Suprasystems,https://www.udacity.com/course/next-generation-data-management--cd13384,na,3 months, Beginner
+Introduction to Next Gen Connectivity,https://www.udacity.com/course/intro-to-next-gen-connectivity--cd13309,na,3 months, Beginner
+Cloud for Modern Business,https://www.udacity.com/course/cloud-for-modern-business--cd13161,na,3 months, Intermediate
+Managing Freelancing Projects,https://www.udacity.com/course/managing-freelancing-projects--cd0390,na,3 months, Intermediate
+Designing Infrastructure and Managing Migration,https://www.udacity.com/course/designing-infrastructure-and-managing-migration--cd0357,na,3 months, Intermediate
+Adversarial Search,https://www.udacity.com/course/adversarial-search--cd0349,na,3 months, Intermediate
+"Design for Availability, Reliability, and Resiliency",https://www.udacity.com/course/design-for-availability-reliability-and-resiliency--cd1908,na,3 months, Intermediate
+Enterprise Perimeter and Network Security,https://www.udacity.com/course/enterprise-perimeter-and-network-security--cd0391,na,3 months, Advanced
+Infrastructure Security,https://www.udacity.com/course/infrastructure-security--cd0632,na,3 months, Advanced
+Security Engineering Fundamentals,https://www.udacity.com/course/security-engineering-fundamentals--cd0630,na,3 months, Intermediate
+Building Computer Vision Solutions with Azure,https://www.udacity.com/course/building-computer-vision-solutions-with-azure--cd0461,na,3 months, Intermediate
+Connecting to Hardware,https://www.udacity.com/course/connecting-to-hardware--nd001-embsys,na,3 months, Advanced
+Planning for High Availability and Incident Response,https://www.udacity.com/course/planning-for-high-availability-and-incident-response--cd1899,na,3 months, Beginner
+Designing Game User Interfaces,https://www.udacity.com/course/designing-game-user-interfaces--cd12766,na,3 months, Beginner
+Video Editing,https://www.udacity.com/course/video-editing--cd12763,na,3 months, Beginner
+Assessing Vulnerabilities and Reducing Risk,https://www.udacity.com/course/assessing-vulnerabilities-and-reducing-risk--cd0290,na,3 months, Intermediate
+Enterprise Identity and Access Control,https://www.udacity.com/course/enterprise-identity-and-access-control--cd0395,na,3 months, Advanced
+Value-Based Methods,https://www.udacity.com/course/value-based-methods--cd0373,na,3 months, Intermediate
+Site Reliability Engineering (SRE) Fluency,https://www.udacity.com/course/site-reliability-engineering-fluency--cd13456,na,3 months, Beginner
+Building a Machine Learning Pipeline,https://www.udacity.com/course/building-a-machine-learning-pipeline--cd12903,na,3 months, Advanced
+Elements of Design,https://www.udacity.com/course/elements-of-design--cd12755,na,3 months, Beginner
+"Incident Response and Business Continuity Architecture Planning, Design and Implementation",https://www.udacity.com/course/incident-response-and-business-continuity-architecture-planning-design-and-implementation--cd0397,na,3 months, Intermediate
+Enterprise-Wide Application Security,https://www.udacity.com/course/enterprise-wide-application-security--cd0392,na,3 months, Beginner
+Google Cloud: AI Fundamentals,https://www.udacity.com/course/google-cloud-AI-fundamentals--cd13366,na,3 months, Advanced
+Connecting and Programming Embedded Systems,https://www.udacity.com/course/connecting-and-programming-embedded-systems--cd12739,na,3 months, Intermediate
+Robotics and Embedded Systems,https://www.udacity.com/course/robotics-and-embedded-systems--nd003-embsys,na,3 months, Intermediate
+Web Design,https://www.udacity.com/course/web-design--cd12760,na,3 months, Advanced
+Embedded Systems Design and Debugging,https://www.udacity.com/course/embedded-systems-design-and-debugging--cd12742,na,3 months, Intermediate
+Computer Literacy Fundamentals,https://www.udacity.com/course/computer-literacy--nd001-comp-literacy,na,3 months, Beginner
+Fundamentals of Defending Systems,https://www.udacity.com/course/fundamentals-of-defending-systems--cd0288,na,3 months, Intermediate
+Google Cloud Fundamentals,https://www.udacity.com/course/google-cloud-fundamentals--cd12971,na,3 months, Beginner
+Composition,https://www.udacity.com/course/composition--cd12757,na,3 months, Beginner
+Networking,https://www.udacity.com/course/networking--cd12196,na,3 months, Intermediate
+Android Basics: User Interface,https://www.udacity.com/course/android-basics-user-interface--cd0342,na,3 months, Intermediate
+Knowledge Mining With Azure Cognitive Search,https://www.udacity.com/course/knowledge-mining-with-azure-cognitive-search--cd0463,na,3 months, Intermediate
+Android Basics: Multi-Screen Apps,https://www.udacity.com/course/android-basics-multi-screen-apps--cd0341,na,3 months, Intermediate
+Elements of Design and Composition,https://www.udacity.com/course/elements-of-design-and-composition--cd12756,na,3 weeks, Intermediate
+Combination Gates and Multiplexers,https://www.udacity.com/course/combination-gate-and-multiplexers--cd12738,na,3 weeks, Intermediate
+Android Basics: User Input,https://www.udacity.com/course/android-basics-user-input--cd0343,na,3 weeks, Beginner
+Establishing a Culture of Reliability,https://www.udacity.com/course/establishing-a-culture-of-reliability--cd1901,na,3 weeks, Advanced
+Android Basics: Networking,https://www.udacity.com/course/android-basics-networking--cd0340,na,3 weeks, Intermediate
+Enhancing Motor Control Skills,https://www.udacity.com/course/enhancing-motor-control-skills--cd12745,na,3 weeks, Intermediate
+Enterprise Endpoint Security,https://www.udacity.com/course/enterprise-endpoint-security--cd0393,na,3 weeks, Intermediate
+2D Game Design and Development with Unity,https://www.udacity.com/course/2D-game-design-and-development--nd003-digitalarts,na,3 weeks, Beginner
+Introduction to Robotics,https://www.udacity.com/course/introduction-to-robotics--nd002-embsys,na,3 weeks, Intermediate
+Discover Software,https://www.udacity.com/course/discover-software--cd12239,na,3 weeks, Intermediate
+Implementing Privacy in Software Applications,https://www.udacity.com/course/implementing-privacy-in-software-applications--cd0455,na,3 weeks, Beginner
+Photo Editing and Web Design,https://www.udacity.com/course/digital-arts--nd001-digitalarts,na,3 weeks, Intermediate
+Mastering Character Animation,https://www.udacity.com/course/mastering-character-animation--cd12762,na,3 weeks, Beginner
+Digital Animation Fundamentals,https://www.udacity.com/course/digital-animation-fundamentals--cd12761,na,3 weeks, Beginner
+2D Animation and Video Editing,https://www.udacity.com/course/2D-animation-and-video-editing--nd002-digitalarts,na,3 weeks, Intermediate
+Discover Hardware,https://www.udacity.com/course/discover-hardware--cd12240,na,3 weeks, Intermediate
+Organizational Privacy Engineering,https://www.udacity.com/course/organizational-privacy-engineering--cd0454,na,3 weeks, Beginner
+Game Development Essentials,https://www.udacity.com/course/game-development-essentials--cd12764,na,3 weeks, Intermediate
+DC Motors & Encoders,https://www.udacity.com/course/DC-motors-encoders--cd12744,na,3 weeks, Intermediate
+Discover Multimedia,https://www.udacity.com/course/discover-multimedia--cd12242,na,3 weeks, Intermediate
+Creating Game Environments,https://www.udacity.com/course/creating-game-environments--cd12765,na,3 weeks, Intermediate
+Raster Design and Branding,https://www.udacity.com/course/raster-design-and-branding--cd12759,na,3 weeks, Intermediate
+Raster Design,https://www.udacity.com/course/raster-design--cd12758,na,3 weeks, Intermediate
+Embedded Systems Essentials: Digital Output Devices and Analog Signals,https://www.udacity.com/course/digital-output-devices-and-analog-signals--cd12740,na,3 weeks, Advanced
+Discover Programming,https://www.udacity.com/course/discover-programming--cd12241,na,3 weeks, Beginner
+"Voltage, ADCs and Signal Processing",https://www.udacity.com/course/voltage-ADCs-and-signal-processing--cd12741,na,3 weeks, Advanced
+Discover Data and Presentation Software,https://www.udacity.com/course/discover-data-presentation-software--cd12244,na,3 weeks, Beginner
+Discover Networks,https://www.udacity.com/course/discover-networks--cd12243,na,3 weeks, Advanced
+Efficient I2C Communication and Sensor Integration,https://www.udacity.com/course/efficient-I2C-communication-and-sensor-integration--cd12748,na,3 weeks, Beginner
+Mastering Stepper Motors in Embedded Systems,https://www.udacity.com/course/mastering-stepper-motors-in-embedded-systems--cd12746,na,3 weeks, Beginner
+Essential Control Techniques,https://www.udacity.com/course/essential-control-techniques--cd12743,na,3 weeks, Intermediate
+Programming Transformer Neural Networks with PyTorch,https://www.udacity.com/course/programming-transformer-neural-networks-with-PyTorch--cd13905,na,3 weeks, Beginner
+Embedded Systems: Sensor Integration and Communication,https://www.udacity.com/course/sensor-integration-and-communication--cd12747,na,3 weeks, Intermediate
+How to Build a Startup,https://www.udacity.com/course/how-to-build-a-startup--ep245,na,3 weeks, Advanced
+Introduction to Python Programming,https://www.udacity.com/course/introduction-to-python--ud1110,na,3 weeks, Beginner
+Intro to Machine Learning,https://www.udacity.com/course/intro-to-machine-learning--ud120,na,3 weeks, Beginner
+Intro to Statistics,https://www.udacity.com/course/intro-to-statistics--st101,na,3 weeks, Beginner
+Intro to Artificial Intelligence,https://www.udacity.com/course/intro-to-artificial-intelligence--cs271,na,3 weeks, Intermediate
+Product Design,https://www.udacity.com/course/product-design--ud509,na,3 weeks, Intermediate
+Intro to Java: Functional Programming,https://www.udacity.com/course/java-programming-basics--ud282,na,3 weeks, Beginner
+SQL for Data Analysis,https://www.udacity.com/course/sql-for-data-analysis--ud198,na,3 weeks, Beginner
+Intro to Data Analysis,https://www.udacity.com/course/intro-to-data-analysis--ud170,na,3 weeks, Advanced
+Intro to JavaScript,https://www.udacity.com/course/intro-to-javascript--ud803,na,3 weeks, Intermediate
+Intro to TensorFlow for Deep Learning,https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187,na,3 weeks, Intermediate
+Intro to Algorithms,https://www.udacity.com/course/intro-to-algorithms--cs215,na,3 weeks, Intermediate
+Developing Android Apps with Kotlin,https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012,na,3 weeks, Beginner
+Introduction to HTML and CSS,https://www.udacity.com/course/intro-to-html-and-css--ud001,na,3 weeks, Beginner
+Artificial Intelligence for Robotics,https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373,na,3 weeks, Intermediate
+Intro to Hadoop and MapReduce,https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617,na,3 weeks, Intermediate
+Version Control with Git,https://www.udacity.com/course/version-control-with-git--ud123,na,3 weeks, Advanced
+Kotlin Bootcamp for Programmers,https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011,na,3 weeks, Intermediate
+Build Native Mobile Apps with Flutter,https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905,na,3 weeks, Advanced
+Responsive Web Design Fundamentals,https://www.udacity.com/course/responsive-web-design-fundamentals--ud893,na,3 weeks, Intermediate
+Design of Computer Programs,https://www.udacity.com/course/design-of-computer-programs--cs212,na,3 weeks, Advanced
+Machine Learning,https://www.udacity.com/course/machine-learning--ud262,na,3 weeks, Intermediate
+Machine Learning for Trading,https://www.udacity.com/course/machine-learning-for-trading--ud501,na,3 weeks, Intermediate
+UX Design for Mobile Developers,https://www.udacity.com/course/ux-design-for-mobile-developers--ud849,na,3 weeks, Beginner
+Computer Networking,https://www.udacity.com/course/computer-networking--ud436,na,3 weeks, Beginner
+Intro to Inferential Statistics,https://www.udacity.com/course/intro-to-inferential-statistics--ud201,na,3 weeks, Intermediate
+Data Analysis with R,https://www.udacity.com/course/data-analysis-with-r--ud651,na,3 weeks, Beginner
+Introduction to Computer Vision,https://www.udacity.com/course/introduction-to-computer-vision--ud810,na,3 weeks, Intermediate
+A/B Testing,https://www.udacity.com/course/ab-testing--ud257,na,3 weeks, Beginner
+Introduction to Operating Systems,https://www.udacity.com/course/introduction-to-operating-systems--ud923,na,3 weeks, Advanced
+C++ For Programmers,https://www.udacity.com/course/c-for-programmers--ud210,na,3 weeks, Intermediate
+Intro to Relational Databases,https://www.udacity.com/course/intro-to-relational-databases--ud197,na,3 weeks, Beginner
+Intro to iOS App Development with Swift,https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585,na,3 weeks, Intermediate
+Interactive 3D Graphics,https://www.udacity.com/course/interactive-3d-graphics--cs291,na,3 weeks, Beginner
+Scalable Microservices with Kubernetes,https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615,na,3 weeks, Advanced
+Applied Cryptography,https://www.udacity.com/course/applied-cryptography--cs387,na,3 weeks, Beginner
+Data Wrangling with MongoDB,https://www.udacity.com/course/data-wrangling-with-mongodb--ud032,na,3 weeks, Beginner
+Intro to Physics,https://www.udacity.com/course/intro-to-physics--ph100,na,3 weeks, Intermediate
+Statistics,https://www.udacity.com/course/statistics--st095,na,3 weeks, Beginner
+Intro to Psychology,https://www.udacity.com/course/intro-to-psychology--ps001,na,3 weeks, Beginner
+Intro to Deep Learning with PyTorch,https://www.udacity.com/course/deep-learning-pytorch--ud188,na,3 weeks, Beginner
+Software Development Process,https://www.udacity.com/course/software-development-process--ud805,na,3 weeks, Beginner
+Full Stack Foundations,https://www.udacity.com/course/full-stack-foundations--ud088,na,3 weeks, Beginner
+Designing RESTful APIs,https://www.udacity.com/course/designing-restful-apis--ud388,na,3 weeks, Beginner
+Reinforcement Learning,https://www.udacity.com/course/reinforcement-learning--ud600,na,3 weeks, Beginner
+Linear Algebra Refresher Course,https://www.udacity.com/course/linear-algebra-refresher-course--ud953,na,3 weeks, Beginner
+Software Architecture & Design,https://www.udacity.com/course/software-architecture-design--ud821,na,3 weeks, Beginner
+Data Visualization and D3.js,https://www.udacity.com/course/data-visualization-and-d3js--ud507,na,3 weeks, Beginner
+Object Oriented Programming in Java,https://www.udacity.com/course/object-oriented-programming-in-java--ud283,na,3 weeks, Beginner
+Firebase in a Weekend (Android),https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352,na,3 weeks, Beginner
+JavaScript Design Patterns,https://www.udacity.com/course/javascript-design-patterns--ud989,na,3 weeks, Beginner
+Intro to Backend,https://www.udacity.com/course/intro-to-backend--ud171,na,3 weeks, Intermediate
+JavaScript Promises,https://www.udacity.com/course/javascript-promises--ud898,na,4 days, Fluency
+Software Debugging,https://www.udacity.com/course/software-debugging--cs259,na,4 days, Fluency
+Web Accessibility,https://www.udacity.com/course/web-accessibility--ud891,na,4 days, Intermediate
+HTML5 Canvas,https://www.udacity.com/course/html5-canvas--ud292,na,4 days, Advanced
+Differential Equations in Action,https://www.udacity.com/course/differential-equations-in-action--cs222,na,4 days, Fluency
+Responsive Images,https://www.udacity.com/course/responsive-images--ud882,na,4 days, Intermediate
+Swift for Beginners,https://www.udacity.com/course/swift-for-beginners--ud1022,na,4 days, Beginner
+Intro to jQuery,https://www.udacity.com/course/intro-to-jquery--ud245,na,4 days, Intermediate
+Networking for Web Developers,https://www.udacity.com/course/networking-for-web-developers--ud256,na,4 days, Beginner
+Intro to AJAX,https://www.udacity.com/course/intro-to-ajax--ud110,na,4 days, Beginner
+Shell Workshop,https://www.udacity.com/course/shell-workshop--ud206,na,4 days, Beginner
+Intro to Theoretical Computer Science,https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313,na,4 days, Beginner
+Intro to Information Security,https://www.udacity.com/course/intro-to-information-security--ud459,na,4 days, Beginner
+Intro to Progressive Web Apps,https://www.udacity.com/course/intro-to-progressive-web-apps--ud811,na,4 days, Beginner
+Intro to Point & Click App Development,https://www.udacity.com/course/intro-to-point-click-app-development--ud162,na,4 days, Beginner
+Browser Rendering Optimization,https://www.udacity.com/course/browser-rendering-optimization--ud860,na,4 days, Beginner
+Introduction to Virtual Reality,https://www.udacity.com/course/introduction-to-virtual-reality--ud1012,na,4 months, Beginner
+Database Systems Concepts & Design,https://www.udacity.com/course/database-systems-concepts-design--ud150,na,4 months, Intermediate
+Advanced Operating Systems,https://www.udacity.com/course/advanced-operating-systems--ud189,na,4 months, Beginner
+Machine Learning: Unsupervised Learning,https://www.udacity.com/course/machine-learning-unsupervised-learning--ud741,na,4 months, Advanced
+Configuring Linux Web Servers,https://www.udacity.com/course/configuring-linux-web-servers--ud299,na,4 months, Intermediate
+Problem Solving with Advanced Analytics,https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976,na,4 months, Intermediate
+ES6,https://www.udacity.com/course/es6-javascript-improved--ud356,na,4 months, Beginner
+Kotlin for Android Developers,https://www.udacity.com/course/kotlin-for-android-developers--ud888,na,4 months, Advanced
+Data and Visual Analytics,https://www.udacity.com/course/data-analysis-and-visualization--ud404,na,4 months, Intermediate
+Offline Web Applications,https://www.udacity.com/course/offline-web-applications--ud899,na,4 months, Advanced
+Authentication & Authorization: OAuth,https://www.udacity.com/course/authentication-authorization-oauth--ud330,na,4 months, Intermediate
+High Performance Computer Architecture,https://www.udacity.com/course/high-performance-computer-architecture--ud007,na,4 months, Intermediate
+Get Your Startup Started,https://www.udacity.com/course/get-your-startup-started--ud806,na,4 months, Intermediate
+Artificial Intelligence,https://www.udacity.com/course/artificial-intelligence--ud954,na,4 weeks, Beginner
+Object-Oriented JavaScript,https://www.udacity.com/course/object-oriented-javascript--ud711,na,4 weeks, Beginner
+Client-Server Communication,https://www.udacity.com/course/client-server-communication--ud897,na,4 weeks, Beginner
+Advanced Android with Kotlin,https://www.udacity.com/course/advanced-android-with-kotlin--ud940,na,4 weeks, Beginner
+App Marketing,https://www.udacity.com/course/app-marketing--ud719,na,4 weeks, Beginner
+Rapid Prototyping,https://www.udacity.com/course/rapid-prototyping--ud723,na,4 weeks, Intermediate
+Writing READMEs,https://www.udacity.com/course/writing-readmes--ud777,na,4 weeks, Intermediate
+GT - Network Security,https://www.udacity.com/course/network-security--ud199,na,4 weeks, Intermediate
+GT - Embedded Systems,https://www.udacity.com/course/embedded-systems--ud169,na,4 weeks, Beginner
+"Computability, Complexity & Algorithms",https://www.udacity.com/course/computability-complexity-algorithms--ud061,na,4 weeks, Intermediate
+Learn Swift Programming Syntax,https://www.udacity.com/course/learn-swift-programming-syntax--ud902,na,4 weeks, Beginner
+Time Series Forecasting,https://www.udacity.com/course/time-series-forecasting--ud980,na,4 weeks, Advanced
+Real-Time Analytics with Apache Storm,https://www.udacity.com/course/real-time-analytics-with-apache-storm--ud381,na,4 weeks, Intermediate
+Knowledge-Based AI: Cognitive Systems,https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409,na,4 weeks, Advanced
+Web Tooling & Automation,https://www.udacity.com/course/web-tooling-automation--ud892,na,4 weeks, Intermediate
+HTTP & Web Servers,https://www.udacity.com/course/http-web-servers--ud303,na,4 weeks, Intermediate
+App Monetization,https://www.udacity.com/course/app-monetization--ud518,na,4 weeks, Intermediate
+High Performance Computing,https://www.udacity.com/course/high-performance-computing--ud281,na,4 weeks, Intermediate
+Spark,https://www.udacity.com/course/learn-spark-at-udacity--ud2002,na,4 weeks, Beginner
+How to Make an iOS App,https://www.udacity.com/course/how-to-make-an-ios-app--ud607,na,4 weeks, Beginner
+Introduction to TensorFlow Lite,https://www.udacity.com/course/intro-to-tensorflow-lite--ud190,na,4 weeks, Intermediate
+Data Science Interview Preparation,https://www.udacity.com/course/data-science-interview-prep--ud944,na,4 weeks, Advanced
+Self-Driving Car Fundamentals: Featuring Apollo,https://www.udacity.com/course/self-driving-car-fundamentals-featuring-apollo--ud0419,na,4 weeks, Advanced
+Building High Conversion Web Forms,https://www.udacity.com/course/building-high-conversion-web-forms--ud890,na,4 weeks, Beginner
+Model Building and Validation,https://www.udacity.com/course/model-building-and-validation--ud919,na,4 weeks, Beginner
+2D Game Development with libGDX,https://www.udacity.com/course/2d-game-development-with-libgdx--ud405,na,4 weeks, Advanced
+UIKit Fundamentals,https://www.udacity.com/course/uikit-fundamentals--ud788,na,4 weeks, Intermediate
+Microsoft Power Platform,https://www.udacity.com/course/microsoft-power-platform--ud091,na,4 weeks, Intermediate
+CSE 8803 Special Topics: Big Data,https://www.udacity.com/course/big-data-analytics-in-healthcare--ud758,na,4 weeks, Beginner
+Human-Computer Interaction,https://www.udacity.com/course/human-computer-interaction--ud400,na,4 weeks, Beginner
+Localization Essentials,https://www.udacity.com/course/localization-essentials--ud610,na,4 weeks, Advanced
+A/B Testing for Business Analysts,https://www.udacity.com/course/ab-testing-business-analysts--ud979,na,4 weeks, Intermediate
+JavaScript and the DOM,https://www.udacity.com/course/javascript-and-the-dom--ud117,na,4 weeks, Intermediate
+Introduction to Graduate Algorithms,https://www.udacity.com/course/introduction-to-graduate-algorithms--ud401,na,4 weeks, Advanced
+Creating an Analytical Dataset,https://www.udacity.com/course/creating-an-analytical-dataset--ud977,na,4 weeks, Intermediate
+What is Programming?,https://www.udacity.com/course/what-is-programming--ud994,na,4 weeks, Advanced
+Compilers: Theory and Practice,https://www.udacity.com/course/compilers-theory-and-practice--ud168,na,4 weeks, Intermediate
+CS 6340: Software Analysis & Testing,https://www.udacity.com/course/software-analysis-testing--ud333,na,4 weeks, Beginner
+Swift for Developers,https://www.udacity.com/course/swift-for-developers--ud1025,na,4 weeks, Beginner
+Asynchronous JavaScript Requests,https://www.udacity.com/course/asynchronous-javascript-requests--ud109,na,4 weeks, Intermediate
+Machine Learning Interview Preparation,https://www.udacity.com/course/machine-learning-interview-prep--ud1001,na,4 weeks, Intermediate
+Passwordless Login Solutions for Android,https://www.udacity.com/course/passwordless-login-solutions-for-android--ud357,na,4 weeks, Intermediate
+Firebase Analytics: Android,https://www.udacity.com/course/firebase-analytics-android--ud354,na,4 weeks, Beginner
+AI Fundamentals,https://www.udacity.com/course/ai-fundamentals--ud099,na,4 weeks, Beginner
+GT - Refresher - Advanced OS,https://www.udacity.com/course/gt-refresher-advanced-os--ud098,na,4 weeks, Intermediate
+AWS Machine Learning Foundations,https://www.udacity.com/course/aws-machine-learning-foundations--ud065,na,4 weeks, Intermediate
+Classification Models,https://www.udacity.com/course/classification-models--ud978,na,4 weeks, Intermediate
+Secure and Private AI,https://www.udacity.com/course/secure-and-private-ai--ud185,na,4 weeks, Intermediate
+Cyber-Physical Systems Security,https://www.udacity.com/course/cyber-physical-systems-security--ud279,na,4 weeks, Intermediate
+iOS Persistence and Core Data,https://www.udacity.com/course/ios-persistence-and-core-data--ud325,na,4 weeks, Intermediate
+Segmentation and Clustering,https://www.udacity.com/course/segmentation-and-clustering--ud981,na,4 weeks, Intermediate
+Product Manager Interview Preparation Course,https://www.udacity.com/course/product-manager-interview-preparation--ud034,na,4 weeks, Intermediate
+Deploying a Hadoop Cluster,https://www.udacity.com/course/deploying-a-hadoop-cluster--ud1000,na,4 weeks, Intermediate
+Android Interview Preparation,https://www.udacity.com/course/android-interview-prep--ud241,na,4 weeks, Intermediate
+Full-Stack Interview Preparation,https://www.udacity.com/course/full-stack-interview-prep--ud252,na,5 days, Intermediate
+Introduction to Machine Learning with Azure,https://www.udacity.com/course/introduction-to-machine-learning-using-microsoft-azure--ud00333,na,5 days, Beginner
+Front-End Interview Preparation,https://www.udacity.com/course/front-end-interview-prep--ud250,na,5 months, Advanced
+Deploying Web Applications with Heroku,https://www.udacity.com/course/deploying-applications-with-heroku--ud272,na,5 months, Intermediate
+Mobile Design and Usability for Android,https://www.udacity.com/course/mobile-design-and-usability-for-android--ud358,na,5 months, Advanced
+Eigenvectors and Eigenvalues,https://www.udacity.com/course/eigenvectors-and-eigenvalues--ud104,na,6 days, Fluency
+Data Structures & Algorithms in Swift,https://www.udacity.com/course/data-structures-and-algorithms-in-swift--ud1011,na,6 days, Fluency
+Firebase in a Weekend (iOS),https://www.udacity.com/course/firebase-in-a-weekend-by-google-ios--ud0351,na,6 days, Fluency
+Introduction to Generative AI with Google Cloud,https://www.udacity.com/course/introduction-generative-ai-google-cloud--cd12957,na,6 days, Beginner
+Objective-C for Swift Developers,https://www.udacity.com/course/objective-c-for-swift-developers--ud1009,na,6 days, Beginner
+Xcode Debugging,https://www.udacity.com/course/xcode-debugging--ud774,na,6 days, Beginner
+AutoLayout,https://www.udacity.com/course/auto-layout--ud1026,na,6 days, Beginner
+AWS DeepRacer Course,https://www.udacity.com/course/aws-deepracer--ud014,na,6 days, Beginner
+Core ML: Machine Learning for iOS,https://www.udacity.com/course/core-ml--ud1038,na,6 days, Beginner
+Server-Side Swift,https://www.udacity.com/course/server-side-swift--ud1031,na,6 days, Beginner
+Managing a Remote Workforce,https://www.udacity.com/course/managing-remote-teams-with-upwork--ud942,na,6 days, Beginner
+Passwordless Login Solutions for iOS,https://www.udacity.com/course/passwordless-login-solutions-for-ios--ud1028,na,6 months, Beginner
+Dynamic Web Applications with Sinatra,https://www.udacity.com/course/dynamic-web-applications-with-sinatra--ud268,na,6 months, Intermediate
+Mobile Design and Usability for iOS,https://www.udacity.com/course/mobile-design-and-usability-for-ios--ud1034,na,7 months, Advanced
+Engagement & Monetization | Mobile Games,https://www.udacity.com/course/engagement-monetization-mobile-games--ud407,na,7 months, Intermediate
+The MVC Pattern in Ruby,https://www.udacity.com/course/the-mvc-pattern-in-ruby--ud270,na,8 months,Advanced
+Grand Central Dispatch (GCD),https://www.udacity.com/course/grand-central-dispatch-gcd--ud576,na,8 months,Advanced
+Cyber-Physical Systems Design & Analysis,https://www.udacity.com/course/cyber-physical-systems-design-analysis--ud9876,na,8 months,Advanced
+Cloud Native Foundations Course,https://www.udacity.com/course/cloud-native-fundamentals--ud064,na,8 months,Advanced
+Getting Started with Google Workspace,https://www.udacity.com/course/getting-started-with-google-workspace--ud300,na,8 months,Advanced
+Mobile Design Patterns,https://www.udacity.com/course/ios-design-patterns--ud1029,na,8 months,Advanced
+Continuous Integration and Deployment,https://www.udacity.com/course/continuous-integration-and-deployment--ud1030,na,8 months,Advanced
+Firebase Analytics: iOS,https://www.udacity.com/course/firebase-analytics-ios--ud353,na,8 months,Advanced
+WeChat Mini Program Development,https://www.udacity.com/course/wechat-mini-programs--ud667,na,8 months,Advanced
+Transformer Models and BERT Model with Google Cloud,https://www.udacity.com/course/transformer-models-bert-model-google-cloud--cd12969,na,9 months, Advanced
+iOS Interview Preparation,https://www.udacity.com/course/ios-interview-prep--ud240,na,na,na
+Introduction to Large Language Models with Google Cloud,https://www.udacity.com/course/introduction-large-language-models-google-cloud--cd12959,na,na,Beginner
+LLMOps: Building Real-World Applications With Large Language Models,https://www.udacity.com/course/building-real-world-applications-with-large-language-models--cd13455,na,na,Beginner
+Introduction to Image Generation with Google Cloud,https://www.udacity.com/course/introduction-image-generation-google-cloud--cd12982,na,na,Intermediate
+Introduction to Digital Project Management,https://www.udacity.com/course/introduction-to-digital-project-management--ud043,na,na,na
+Attention Mechanism with Google Cloud,https://www.udacity.com/course/attention-mechanism-google-cloud--cd12963,na,na,na
+Google Sheets,https://www.udacity.com/course/google-sheets--cd12517,na,na,na
+Generative AI Fundamentals with Google Cloud,https://www.udacity.com/course/generative-ai-fundamentals-for-google-cloud--cd13291,na,na,na
+VR Interview Preparation,https://www.udacity.com/course/vr-interview-prep--ud251,na,na,na
+Create Image Captioning Models with Google Cloud,https://www.udacity.com/course/create-image-captioning-models-google-cloud--cd12986,na,na,na
+Encoder-Decoder Architecture with Google Cloud,https://www.udacity.com/course/encoder-decoder-architecture-google-cloud--cd12988,na,na,na
+Introduction to Gen AI Studio with Google Cloud,https://www.udacity.com/course/introduction-to-generative-ai-studio-with-google-cloud--cd13292,na,na,na
+Introduction to Responsible AI with Google Cloud,https://www.udacity.com/course/introduction-to-responsible-ai-with-google-cloud--cd13067,na,na,na
+Google Docs,https://www.udacity.com/course/google-docs--cd12516,na,na,na
+AIoT Foundations,https://www.udacity.com/course/aiot-foundations--ud074,na,na,na
+Google Sheets - Advanced Topics,https://www.udacity.com/course/google-sheet-advanced-topics--cd12520,na,na,na
+Google Drive,https://www.udacity.com/course/google-drive--cd12515,na,na,na
+Gmail,https://www.udacity.com/course/gmail--cd12513,na,na,na
+Strengthen Your LinkedIn Profile,https://www.udacity.com/course/strengthen-your-linkedIn-profile--cd13150,na,na,na
+Google Calendar,https://www.udacity.com/course/google-calendar--cd12514,na,na,na
+Refresh Your Resume,https://www.udacity.com/course/refresh-your-resume--cd13149,na,na,na
+Google Slides,https://www.udacity.com/course/google-slides--cd12518,na,na,na
+Google Chat,https://www.udacity.com/course/google-chat--cd13081,na,na,na
+Google Meet,https://www.udacity.com/course/google-meet--cd12519,na,na,na
+Data Structures & Algorithms Interview Prep,https://www.udacity.com/course/data-structures-and-algorithms-interview-prep--cd13172,na,na,na
+Optimize Your GitHub Profile,https://www.udacity.com/course/optimize-your-github-profile--cd13151,na,na,na
+Zero-Shot and Few-Shot Learning,https://www.udacity.com/course/zero-shot-and-few-shot-learnings--cd12893,na,na,na
+Self-Reflection On Your Career Pathway,https://www.udacity.com/course/self-reflection-on-your-career-pathway--cd13154,na,na,na
+Operationalizing Cloud Security with Deepfence ThreatMapper,https://www.udacity.com/course/operationalizing-cloud-security-with-deepfence-threatmapper--cd12926,na,na,na
+Craft Your Cover Letter,https://www.udacity.com/course/craft-your-cover-letter--cd13152,na,na,na
+Threads,https://www.udacity.com/course/threads--cd13163,na,na,na
+Exploring Data Transformation with Google Cloud,https://www.udacity.com/course/exploring-data-transformation-with-google-cloud--cd13561,na,na,na
+Scaling with Google Cloud Operations,https://www.udacity.com/course/scaling-with-google-cloud-operations--cd13565,na,na,na
+Gemini in Google Sheets,https://www.udacity.com/course/duet-AI-in-google-sheets--cd13542,na,na,na
+Innovating with Google Cloud Artificial Intelligence,https://www.udacity.com/course/innovating-with-google-cloud-artificial-intelligence--cd13562,na,na,na
+Gemini in Gmail,https://www.udacity.com/course/duet-AI-in-gmail--cd13518,na,na,na
+Responsible AI: Applying AI Principles with Google Cloud,https://www.udacity.com/course/responsible-AI-applying-AI-principles-with-google-cloud--cd13516,na,na,na
+Introduction to Gemini for Google Workspace,https://www.udacity.com/course/introduction-to-duet-AI-in-google-workspace--cd13517,na,na,na
+Digital Transformation with Google Cloud,https://www.udacity.com/course/digital-transformation-with-google-cloud--cd13595,na,na,na
+Gemini in Google Slides,https://www.udacity.com/course/duet-AI-in-google-slides--cd13543,na,na,na
+Gemini in Google Meet,https://www.udacity.com/course/duet-AI-in-google-meet--cd13540,na,na,na
+Trust and Security with Google Cloud,https://www.udacity.com/course/trust-and-security-with-google-cloud--cd13564,na,na,na
+Modernize Infrastructure and Applications with Google Cloud,https://www.udacity.com/course/modernize-infrastructure-and-applications-with-google-cloud--cd13563,na,na,na
+Gemini in Google Docs,https://www.udacity.com/course/gemini-in-google-docs--cd13677,na,na,na
+Discovering Predictive Analytics with Alteryx,https://www.udacity.com/course/discovering-predictive-analytics-with-alteryx--cd13535,na,na,na
+Hedera Hashgraph,https://www.udacity.com/course/hedera-hashgraph--cd13594,na,na,na
+Gemini API by Google,https://www.udacity.com/course/gemini-API-by-google--cd13416,na,na,na

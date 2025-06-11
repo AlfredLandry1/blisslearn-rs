@@ -1,0 +1,35 @@
+2025-06-11 04:49:51,407 - main - INFO - Chargement et prétraitement des données...
+2025-06-11 04:49:52,266 - main - INFO - Nombre total de cours : 27742
+2025-06-11 04:49:52,266 - main - INFO - Initialisation du système de recommandation...
+2025-06-11 04:49:58,251 - main - INFO - Système de recommandation initialisé avec succès
+2025-06-11 04:51:22,286 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "D:\Licence projects\blisslearn\public\dataset\.venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-06-11 04:52:47,997 - main - INFO - Génération de recommandations pour test
+2025-06-11 04:52:47,998 - main - INFO - Objectifs : ['Python', 'Machine Learning']
+2025-06-11 04:52:48,044 - main - INFO - 10 recommandations générées
+2025-06-11 05:01:42,614 - main - INFO - Génération de recommandations pour test
+2025-06-11 05:01:42,615 - main - INFO - Objectifs : ['JavaScript', 'React', 'Node.js', 'MongoDB', 'Web Development']
+2025-06-11 05:01:42,650 - main - INFO - 5 recommandations générées
+2025-06-11 05:07:07,764 - main - INFO - Arrêt du système...
+2025-06-11 05:07:16,472 - main - INFO - Chargement et prétraitement des données...
+2025-06-11 05:07:17,709 - main - INFO - Nombre total de cours : 27742
+2025-06-11 05:07:17,710 - main - INFO - Initialisation du système de recommandation...
+2025-06-11 05:07:38,026 - main - INFO - Système de recommandation initialisé avec succès
+2025-06-11 05:09:46,763 - main - INFO - Arrêt du système...
+2025-06-11 05:09:52,670 - main - INFO - Chargement et prétraitement des données...
+2025-06-11 05:09:53,435 - main - INFO - Nombre total de cours : 27742
+2025-06-11 05:09:53,436 - main - INFO - Initialisation du système de recommandation...
+2025-06-11 05:09:59,397 - main - INFO - Système de recommandation initialisé avec succès
+2025-06-11 05:13:22,640 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "D:\Licence projects\blisslearn\public\dataset\.venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-06-11 05:13:23,324 - main - INFO - Génération de recommandations pour test
+2025-06-11 05:13:23,325 - main - INFO - Objectifs : ['Mobile Development', 'React Native', 'Flutter', 'iOS Development', 'Android Development']
+2025-06-11 05:13:23,366 - main - INFO - 5 recommandations générées

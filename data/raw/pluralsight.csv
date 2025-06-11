@@ -1,0 +1,918 @@
+Link,Type,Name,Instructure,Level,Duration,Date created,Rating
+https://www.pluralsight.com/courses/oracle-database-12c-fundamentals,courses,Oracle Database 12c Fundamentals,by Tim Warner,Beginner,3h 42m,01-Oct-21,357
+https://www.pluralsight.com/courses/oracle-database-12c-disaster-recovery,courses,Oracle Database 12c Disaster Recovery and Data Movement,by Tim Warner,Intermediate,3h 26m,01-Oct-21,65
+https://www.pluralsight.com/courses/oracle-database-12c-installation-upgrade,courses,Oracle Database 12c: Installation and Upgrade,by Tim Warner,Beginner,2h 47m,01-Oct-21,152
+https://www.pluralsight.com/courses/microsoft-azure-solutions-architect-design-databases,courses,Microsoft Azure Solutions Architect: Design for Databases,by John Savill,Advanced,1h 10m,04-Nov-20,35
+https://www.pluralsight.com/courses/microsoft-azure-solutions-architect-implement-sql-databases-strategy,courses,Microsoft Azure Solutions Architect: Implement an Azure SQL Databases Strategy,by Aaron Sampson,Advanced,1h 17m,17-Nov-20,35
+https://www.pluralsight.com/courses/microsoft-access-2016,courses,Microsoft Access (2016),by Patricia Ciszek,Beginner,4h 27m,08-Sep-16,55
+https://www.pluralsight.com/courses/setting-up-cloud-databases-tables-snowflake,courses,Setting up Cloud Databases and Tables with Snowflake,by Thomas LeBlanc,Intermediate,57m,29-Apr-22,11
+https://www.pluralsight.com/courses/aws-database-migration-service-migrating,courses,Migrating Databases with AWS Database Migration Service,by Michael Brown,Intermediate,1h 30m,09-Jul-19,32
+https://www.pluralsight.com/courses/foundations-document-databases-mongodb,courses,Foundations of Document Databases with MongoDB,by Pinal Dave,Beginner,2h 28m,06-May-20,221
+https://www.pluralsight.com/courses/executing-basic-queries-elasticsearch,courses,Executing Basic Queries with Elasticsearch,by Thomas Henson,Beginner,1h 24m,24-Mar-21,53
+https://www.pluralsight.com/courses/querying-data-mongodb,courses,Querying Data from MongoDB,by Dan Geabunea,Beginner,1h 45m,11-Jun-20,85
+https://www.pluralsight.com/courses/aws-databases-big-picture,courses,AWS Databases: The Big Picture,by Craig Golightly,Beginner,1h 49m,26-Nov-20,49
+https://www.pluralsight.com/courses/querying-data-aws-databases,courses,Querying Data in AWS Databases,by Jeff Hopper,Intermediate,34m,21-May-20,16
+https://www.pluralsight.com/courses/microsoft-azure-databases-access-securing,courses,Securing Access to Microsoft Azure Databases,by John Savill,Beginner,1h 24m,12-Feb-20,26
+https://www.pluralsight.com/courses/enterprise-database-migration-3,courses,Enterprise Database Migration,by Google Cloud,Beginner,3h 36m,21-Aug-23,NA
+https://www.pluralsight.com/courses/ssis-database-maintenance-playbook,courses,SSIS Database Maintenance Playbook,by Gerald Britton,Advanced,1h 10m,26-Jun-20,NA
+https://www.pluralsight.com/courses/go-accessing-relational-databases,courses,Accessing Relational Databases in Go,by Pinal Dave,Intermediate,1h 4m,21-Jul-22,40
+https://www.pluralsight.com/courses/understanding-database-architecture-oracle,courses,Understanding Database Architecture with Oracle,by Agaba Philip,Beginner,2h 49m,14-Jan-22,16
+https://www.pluralsight.com/courses/working-databases-php,courses,Working with Databases in PHP 8,by Reza Salehi,Intermediate,2h 1m,07-Mar-22,24
+https://www.pluralsight.com/courses/python-3-working-databases,courses,Working with Databases in Python 3,by Douglas Starnes,Intermediate,2h 43m,09-May-23,28
+https://www.pluralsight.com/courses/apache-airflow-integrate-databases,courses,Integrate Databases with Apache Airflow,by Pinal Dave,Intermediate,14m,07-Jun-24,10
+https://www.pluralsight.com/courses/data-engineers-database-design,courses,Database Design for Data Engineers,by Russ Thomas,Beginner,48m,31-May-24,NA
+https://www.pluralsight.com/courses/vector-databases-embeddings-developers,courses,Vector Databases & Embeddings for Developers,by JS Padoan,Advanced,31m,13-Mar-24,19
+https://www.pluralsight.com/courses/relational-databases-big-picture,courses,Relational Databases: The Big Picture,by Tom Taulli,Beginner,1h 56m,25-Apr-23,10
+https://www.pluralsight.com/courses/sqlite-dao-room-database-creating,courses,"Creating a Database with SQLite, DAO, and Room",by Anthony Alampi,Advanced,1h 10m,18-Jun-21,34
+https://www.pluralsight.com/courses/managing-database-instances-oracle-cert,courses,Managing Database Instances with Oracle,by Agaba Philip,Intermediate,38m,14-Mar-22,NA
+https://www.pluralsight.com/courses/firebase-android-cloud-firestore,courses,Firebase on Android: Cloud Firestore,by Mitch Tabian,Intermediate,2h 14m,16-May-18,52
+https://www.pluralsight.com/courses/microsoft-azure-database-playbook-monitoring,courses,Microsoft Azure Database Monitoring Playbook,by John Savill,Intermediate,1h 27m,12-Feb-20,23
+https://www.pluralsight.com/courses/microsoft-azure-nosql-databases-implementing,courses,Implementing NoSQL Databases in Microsoft Azure,by Reza Salehi,Intermediate,3h 56m,09-Jun-20,93
+https://www.pluralsight.com/courses/aws-amazon-neptune-graph-database,courses,Managing a Graph Database with Amazon Neptune,by Jeff Hopper,Intermediate,1h 19m,30-Apr-19,17
+https://www.pluralsight.com/courses/sql-server-databases-powershell,courses,Accessing SQL Server Databases from Windows PowerShell,by Vlad Catrinescu,Beginner,55m,09-Apr-20,66
+https://www.pluralsight.com/courses/oracle-database-12c-performance-tuning-optimization,courses,Oracle Database 12c Performance Tuning and Optimization,by Tim Warner,Beginner,2h 57m,01-Oct-21,88
+https://www.pluralsight.com/courses/querying-data-postgresql,courses,Querying Data from PostgreSQL,"by Jason Browning, Ph.D.",Beginner,1h 28m,22-May-20,255
+https://www.pluralsight.com/courses/posgresql-functions-playbook,courses,PostgreSQL Functions Playbook,by Gerald Britton,Advanced,2h 29m,10-Dec-19,35
+https://www.pluralsight.com/courses/managing-modern-databases-generative-ai,courses,Managing Modern Databases with Generative AI,by Pinal Dave,Beginner,13m,26-Jun-24,NA
+https://www.pluralsight.com/courses/go-accessing-non-relational-databases,courses,Accessing Non-relational Databases in Go,by Pinal Dave,Intermediate,47m,05-Oct-22,16
+https://www.pluralsight.com/courses/managing-mysql-databases-stored-procedures,courses,Managing MySQL Databases and Stored Procedures,by Biswanath Halder,Beginner,1h 52m,29-Nov-23,NA
+https://www.pluralsight.com/courses/apex-academy-soql-working-databases,courses,Apex Academy: SOQL and Working with Databases,by Scott Lee,Beginner,1h 17m,31-Aug-23,NA
+https://www.pluralsight.com/courses/servicenow-asset-management-database-implementing,courses,Implementing the ServiceNow Asset Management Database,by Catalin Popa,Intermediate,1h 21m,18-Jun-24,NA
+https://www.pluralsight.com/courses/spring-data-mongo-getting-started,courses,Spring Data Mongo: Getting Started,by Kesha Williams,Intermediate,1h 11m,07-May-19,35
+https://www.pluralsight.com/courses/building-business-applications-vuejs,courses,Building Business Applications with Vue.js and MongoDB,by Mark Scott,Intermediate,3h 18m,17-Jul-18,59
+https://www.pluralsight.com/courses/azure-sql-database-diagnosing-performance-issues-dmvs,courses,Azure SQL Database: Diagnosing Performance Issues with DMVs,by Glenn Berry,Intermediate,1h 30m,05-Sep-19,18
+https://www.pluralsight.com/courses/sqlserver-2017-diagnosing-performance-issues-dmvs,courses,SQL Server 2017: Diagnosing Performance Issues with DMVs,by Glenn Berry,Intermediate,2h 44m,10-Jan-19,25
+https://www.pluralsight.com/courses/oracle-database-program-plsql-creating-compound-ddl-event-database-triggers-cert,courses,"Oracle Database Program with PL/SQL Exam Number: 1Z0-149 - Creating Compound, DDL, and Event Database Triggers",by Agaba Philip,Intermediate,41m,23-Feb-22,NA
+https://www.pluralsight.com/courses/sql-server-databases-docker-developing,courses,Developing SQL 14 Server Databases with Docker 20,by Chris Behrens,Intermediate,1h 52m,08-Jun-22,46
+https://www.pluralsight.com/courses/comptia-itf-plus-software-development-databases-cert,courses,CompTIA ITF+: Software Development and Databases,by Michael Brown,Beginner,2h 20m,19-Aug-22,NA
+https://www.pluralsight.com/courses/ocp-upgrade-oracle-database-12c-management,courses,OCP Upgrade to Oracle Database 12c Management,by Tim Boles,Advanced,2h 39m,01-Oct-21,11
+https://www.pluralsight.com/courses/amazon-quantum-ledger-database-service-introduction,courses,Amazon Quantum Ledger Database (QLDB) Service Introduction,by AWS,Beginner,7m,08-Feb-21,NA
+https://www.pluralsight.com/courses/importing-data-relational-databases-r,courses,Importing Data from Relational Databases in R 3,by Dan Tofan,Intermediate,1h 44m,19-Apr-22,NA
+https://www.pluralsight.com/courses/accessing-oracle-database-oracle-supplied-tools,courses,Accessing an Oracle Database with Oracle Supplied Tools,by Tim Boles,Intermediate,1h 1m,24-Dec-21,NA
+https://www.pluralsight.com/courses/schema-modeling-patterns-best-practices-document-databases,courses,Schema Modeling Patterns and Best Practices for Document Databases,by Nuri Halperin,Intermediate,1h 46m,18-Dec-19,38
+https://www.pluralsight.com/courses/android-database-application-sqlite-building-your-first,courses,Building Your First Android Database Application with SQLite,by Simone Alessandria,Intermediate,3h,13-Jan-17,32
+https://www.pluralsight.com/courses/asp-dot-net-core-6-webapi-using-nosql-databases,courses,Using ASP.NET Core Web API and NoSQL Databases,by Edward Curren,Intermediate,1h 57m,12-Apr-24,21
+https://www.pluralsight.com/courses/microsoft-azure-solutions-architect-implement-nosql-databases-strategy,courses,Microsoft Azure Solutions Architect: Implement a NoSQL Databases Strategy,by Jurgen Kevelaers,Advanced,56m,10-Nov-20,29
+https://www.pluralsight.com/courses/oracle-database-program-declaring-variables,courses,Oracle Database Program with PL/SQL Exam Number: 1Z0-149 - Declaring PL/SQL Variables,by Esteban Herrera,Beginner,1h 11m,03-Jan-22,13
+https://www.pluralsight.com/courses/oracle-database-program-writing-executable-statements,courses,Oracle Database Program with PL/SQL Exam Number: 1Z0-149 - Writing Executable Statements,by Saravanan Dhandapani,Beginner,59m,30-Nov-21,NA
+https://www.pluralsight.com/courses/android-firebase-database-cloud-storage,courses,Firebase on Android: Real-time Database and Cloud Storage,by Mitch Tabian,Intermediate,2h 3m,20-Nov-17,39
+https://www.pluralsight.com/courses/sql-server-performance-every-developer-should-know,courses,What Every Developer Should Know About SQL Server Performance,by David Berry,Beginner,3h 22m,08-Sep-16,358
+https://www.pluralsight.com/courses/oracle-database-program-managing-plsql-code-cert,courses,Oracle Database Program with PL/SQL Exam Number: 1Z0-149 - Managing PL/SQL Code,by Pankaj Jain,Intermediate,1h 26m,04-Mar-22,NA
+https://www.pluralsight.com/courses/sql-server-configuring-troubleshooting-database-mirroring,courses,"SQL Server: Understanding, Configuring and Troubleshooting Database Mirroring",by Glenn Berry,Intermediate,2h 31m,09-Feb-18,10
+https://www.pluralsight.com/courses/oracle-database-program-plsql-creating-packages-cert,courses,Oracle Database Program with PL/SQL Exam Number: 1Z0-149 - Creating Packages,by Pankaj Jain,Advanced,1h 7m,11-Jan-22,NA
+https://www.pluralsight.com/courses/administering-amazon-aurora-amazon-rds,courses,Administering Amazon Aurora on Amazon RDS,by Aaron Medacco,Intermediate,3h 25m,16-Jan-19,51
+https://www.pluralsight.com/courses/representing-processing-preparing-data,courses,"Representing, Processing, and Preparing Data",by Janani Ravi,Beginner,2h 45m,07-Aug-20,145
+https://www.pluralsight.com/courses/oracle-database-program-handling-exceptions,courses,Oracle Database Program with PL/SQL Exam Number: 1Z0-149 - Handling Exceptions,by Elias Fofanov,Intermediate,56m,18-Jan-22,NA
+https://www.pluralsight.com/courses/oracle-database-program-using-compile,courses,Oracle Database Program with PL/SQL Exam Number: 1Z0-149 - Using the PL/SQL Compiler,by Esteban Herrera,Intermediate,1h 20m,26-Apr-22,NA
+https://www.pluralsight.com/courses/oracle-database-program-plsql-using-dynamic-sql-cert,courses,Oracle Database Program with PL/SQL Exam Number: 1Z0-149 - Using Dynamic SQL,by Alexandru Huiban,Advanced,51m,14-Mar-22,NA
+https://www.pluralsight.com/courses/aws-database-amazon-elasticache,courses,Connecting and Deploying Amazon ElastiCache,by Tom Compagno,Intermediate,1h 36m,15-May-19,26
+https://www.pluralsight.com/courses/oracle-database-program-design-considerations-code-cert,courses,Oracle Database Program with PL/SQL Exam Number: 1Z0-149 - Design Considerations for PL/SQL Code,by Pankaj Jain,Advanced,1h 44m,15-Apr-22,NA
+https://www.pluralsight.com/courses/oracle-database-program-plsql-working-packages-cert,courses,Oracle Database Program with PL/SQL Exam Number: 1Z0-149 - Working with Packages,by Pankaj Jain,Advanced,1h 5m,24-Jan-22,NA
+https://www.pluralsight.com/courses/oracle-database-program-creating-functions-cert,courses,Oracle Database Program with PL/SQL Exam Number: 1Z0-149 - Creating Functions,by Elias Fofanov,Advanced,1h 4m,20-Jan-22,NA
+https://www.pluralsight.com/courses/oracle-database-program-using-plsql-subprograms-cert,courses,Oracle Database Program with PL/SQL Exam Number: 1Z0-149 - Using PL/SQL Subprograms,by Lucian Lazar,Intermediate,49m,04-Mar-22,NA
+https://www.pluralsight.com/courses/oracle-database-program-managing-dependencies-cert,courses,Oracle Database Program with PL/SQL Exam Number: 1Z0-149 - Managing Dependencies,by Alexandru Huiban,Intermediate,1h 3m,22-Jun-22,NA
+https://www.pluralsight.com/courses/oracle-database-program-plsql-writing-sql-in-plsql-cert,courses,Oracle Database Program with PL/SQL Exam Number: 1Z0-149 - Writing SQL in PL/SQL,by Ed Freitas,Intermediate,1h 18m,22-Feb-22,NA
+https://www.pluralsight.com/courses/oracle-database-program-plsql-use-explicit-cursors-cert,courses,Oracle Database Program with PL/SQL Exam Number: 1Z0-149 - Use Explicit Cursors,by Saravanan Dhandapani,Beginner,51m,10-Feb-22,NA
+https://www.pluralsight.com/courses/oracle-database-program-procedures-parameters-cert,courses,Oracle Database Program with PL/SQL Exam Number: 1Z0-149 - Creating Procedures and Using Parameters,by Mike McQuillan,Intermediate,1h 6m,29-Nov-21,NA
+https://www.pluralsight.com/courses/oracle-database-program-writing-control-structures-cert,courses,Oracle Database Program with PL/SQL Exam Number: 1Z0-149 - Writing Control Structures,by Pankaj Jain,Intermediate,1h 8m,13-Dec-21,NA
+https://www.pluralsight.com/courses/sql-extensibility-features-snowflake,courses,SQL Extensibility Features with Snowflake 5,by Pinal Dave,Intermediate,1h 2m,21-Mar-22,25
+https://www.pluralsight.com/courses/sqlserver-improving-storage-subsystem-performance,courses,SQL Server: Improving Storage Subsystem Performance,by Glenn Berry,Intermediate,2h 13m,08-Sep-16,54
+https://www.pluralsight.com/courses/oracle-database-program-working-composite-data-types-cert,courses,Oracle Database Program with PL/SQL Exam Number: 1Z0-149 - Working with Composite Data Types,by Lucian Lazar,Intermediate,47m,17-Jun-22,NA
+https://www.pluralsight.com/courses/java-persistence-api-21,courses,Java Persistence API 2.2,by Antonio Goncalves,Intermediate,4h 16m,10-May-19,551
+https://www.pluralsight.com/courses/microsoft-azure-migrating-physical-virtual-servers-update,courses,Migrating Physical and Virtual Servers to Microsoft Azure,by Tim Warner,Advanced,57m,24-Jun-20,58
+https://www.pluralsight.com/courses/database-applications-jdbc-applications-java-se-11-developer-certification-1z0-819,courses,Database Applications with JDBC in Java SE Applications (Java SE 11 Developer Certification 1Z0-819),by Kevin Jones,Intermediate,1h 34m,01-Apr-21,49
+https://www.pluralsight.com/courses/aws-amazon-rds,courses,"Creating, Connecting, and Monitoring Databases with Amazon RDS",by Jeff Hopper,Intermediate,1h 49m,20-Feb-19,29
+https://www.pluralsight.com/courses/servicenow-configuration-management-data-base-building,courses,Building the ServiceNow Configuration Management Database (CMDB),by Pluralsight,Intermediate,58m,30-Jun-22,19
+https://www.pluralsight.com/courses/sql-server-platform-designing-data-warehouse,courses,Designing a Data Warehouse on the Microsoft SQL Server Platform,by Ana Voicu,Beginner,4h 35m,01-Aug-19,152
+https://www.pluralsight.com/courses/microsoft-azure-storage-connecting,courses,Microsoft Azure Developer: Connecting to Storage,by Warner Chaves,Beginner,1h 11m,21-Jul-20,53
+https://www.pluralsight.com/courses/aws-redshift-data-warehousing,courses,Data Warehousing with Amazon Redshift,by John Montgomery,Intermediate,1h 30m,22-Sep-20,52
+https://www.pluralsight.com/courses/combining-filtering-data-mariadb,courses,Combining and Filtering Data with MariaDB,by Pinal Dave,Beginner,2h 36m,08-Nov-19,12
+https://www.pluralsight.com/courses/sqlalchemy-core-python-getting-started,courses,SQLAlchemy Core 1 in Python: Getting Started,by Christopher Venturini,Beginner,1h 2m,08-Jun-22,23
+https://www.pluralsight.com/courses/troubleshooting-optimizing-ssrs-reporting,courses,Troubleshooting and Optimizing SSRS Reporting,by Viktor Suha,Advanced,2h 54m,22-Oct-20,NA
+https://www.pluralsight.com/courses/aws-dynamodb-fundamentals,courses,AWS DynamoDB Fundamentals,by Stefan Roman,Beginner,2h 17m,25-Jun-19,63
+https://www.pluralsight.com/courses/android-sqlite-fundamentals,courses,Android: SQLite Fundamentals,by Annapurna Siddhartha,Beginner,1h 59m,25-Nov-19,21
+https://www.pluralsight.com/courses/microsoft-azure-data-integrity-testing-performing,courses,Microsoft Azure Developer: Performing Data Integrity Testing,by Aram Koukia,Advanced,1h 3m,28-Nov-18,14
+https://www.pluralsight.com/courses/querying-data-mariadb,courses,Querying Data from MariaDB,by Pinal Dave,Beginner,59m,07-Nov-19,16
+https://www.pluralsight.com/courses/mariadb-functions-playbook,courses,MariaDB Functions Playbook,by Pinal Dave,Advanced,1h 41m,13-Nov-19,11
+https://www.pluralsight.com/courses/mongodb-nodejs,courses,Using MongoDB with Node.js,by Jonathan Mills,Beginner,1h 18m,23-Dec-19,98
+https://www.pluralsight.com/courses/modifying-data-in-mongodb,courses,Modifying Data in MongoDB 4,by Douglas Starnes,Intermediate,2h 4m,18-May-22,17
+https://www.pluralsight.com/courses/ssrs-building-interactive-reports,courses,Building Interactive SSRS Reports,by Alexandra Santiago,Intermediate,2h 59m,15-Jul-19,30
+https://www.pluralsight.com/courses/querying-data-map-reduce-mongodb,courses,Querying Data Using Map-reduce in MongoDB,by Buddhini Samarakkody,Intermediate,1h 40m,20-Aug-20,22
+https://www.pluralsight.com/courses/searching-for-text-mongodb,courses,Searching for Text in MongoDB 4,by Axel Sirota,Beginner,1h 39m,02-Mar-22,22
+https://www.pluralsight.com/courses/tsql-functions-playbook,courses,T-SQL Functions Playbook,by Andrew McSwiggan,Intermediate,3h 4m,23-Jan-20,71
+https://www.pluralsight.com/courses/managing-ssis-projects,courses,Managing SSIS Projects,by Robert Cain,Intermediate,2h 18m,04-May-20,24
+https://www.pluralsight.com/courses/introduction-amazon-dynamodb,courses,Introduction to Amazon DynamoDB,by AWS,Beginner,11m,10-Sep-20,34
+https://www.pluralsight.com/courses/querying-geospatial-data-mongodb,courses,Querying Geospatial Data from MongoDB 4,by Esteban Herrera,Beginner,1h 31m,17-May-22,16
+https://www.pluralsight.com/courses/sqlserver-2016-upgrading-migrating,courses,SQL Server: Upgrading and Migrating to SQL Server 2016,by Glenn Berry,Intermediate,2h 12m,23-Jan-18,37
+https://www.pluralsight.com/courses/php-started,courses,PHP 8: Getting Started,by Christian Wenz,Beginner,3h 2m,05-May-22,31
+https://www.pluralsight.com/courses/nosql-big-pic,courses,NoSQL: The Big Picture,by Andrew Brust,Beginner,1h 10m,08-Sep-16,792
+https://www.pluralsight.com/courses/introduction-aws-application-discovery-service,courses,Introduction to AWS Application Discovery Service,by AWS,Beginner,20m,22-Sep-20,NA
+https://www.pluralsight.com/courses/experience-summit-empathy-design,courses,This is Such a Pain: The Role of Empathy in Design,by Experience Summit,Beginner,23m,07-Aug-20,NA
+https://www.pluralsight.com/courses/access-2019-pro,courses,Access 2019 Pro,by Shari Oswald,Advanced,3h 10m,06-Nov-19,NA
+https://www.pluralsight.com/courses/microsoft-azure-app-refactoring,courses,Refactoring an App to Microsoft Azure Apps,by Michael Teske,Intermediate,1h 7m,11-Dec-19,26
+https://www.pluralsight.com/courses/access-2019-power-users,courses,Access 2019 Power Users,by Shari Oswald,Intermediate,1h 50m,05-Sep-19,16
+https://www.pluralsight.com/courses/amazon-rds-service-introduction,courses,Amazon RDS Service Introduction,by AWS,Beginner,5m,03-Sep-20,10
+https://www.pluralsight.com/courses/amazon-aurora-best-practices,courses,Amazon Aurora: Best Practices,by Kim Schmidt,Advanced,4h,07-Oct-20,18
+https://www.pluralsight.com/courses/mariadb-data-manipulation-playbook,courses,MariaDB Data Manipulation Playbook,by Pinal Dave,Intermediate,1h 34m,12-Nov-19,11
+https://www.pluralsight.com/courses/microsoft-azure-optimizing-data-solutions,courses,Optimizing Microsoft Azure Data Solutions,by John Savill,Intermediate,2h 46m,19-Feb-20,19
+https://www.pluralsight.com/courses/amazon-dynamodb-service-introduction,courses,Amazon DynamoDB Service Introduction,by AWS,Beginner,5m,03-Sep-20,14
+https://www.pluralsight.com/courses/sql-server-configuring-troubleshooting-log-shipping,courses,"SQL Server: Understanding, Configuring, and Troubleshooting Log Shipping",by Glenn Berry,Beginner,1h 33m,23-Jan-18,26
+https://www.pluralsight.com/courses/microsoft-azure-deploying-sql-server-containers,courses,Deploying SQL Server Containers in Microsoft Azure,by John Savill,Advanced,2h 21m,01-May-20,40
+https://www.pluralsight.com/courses/solution-detail-internet-tracking,courses,Solution Detail: Internet of Tracking,by AWS,Beginner,7m,08-Feb-21,NA
+https://www.pluralsight.com/courses/managing-ssas-models,courses,Managing SSAS Models,by Patrick Neborg,Intermediate,3h 21m,10-Mar-21,NA
+https://www.pluralsight.com/courses/adding-user-resource-rails-application,courses,Adding a User Resource to a Rails Application,by Raphael Alampay,Intermediate,1h 39m,02-Mar-21,12
+https://www.pluralsight.com/courses/microsoft-azure-monthly-update-march-2021-episode-2,courses,"Microsoft Azure Monthly Update: March 2021, Episode 2",by John Savill,Beginner,24m,02-Mar-21,NA
+https://www.pluralsight.com/courses/amazon-neptune-best-practices,courses,Amazon Neptune: Best Practices,by Anthony Sequeira,Advanced,3h,01-Oct-20,NA
+https://www.pluralsight.com/courses/optimizing-data-warehouse-microsoft-sql-server-platform,courses,Optimizing a Data Warehouse on the Microsoft SQL Server Platform,by Thomas LeBlanc,Intermediate,3h 4m,01-Apr-20,13
+https://www.pluralsight.com/courses/microsoft-azure-data-infrastructure-security-configuring,courses,Configuring Microsoft Azure Data Infrastructure Security,by Sahil Malik,Advanced,3h,27-May-20,18
+https://www.pluralsight.com/courses/c-sharp-10-data-access-fundamentals,courses,Data Access in C# Fundamentals,by Filip Ekberg,Intermediate,4h 18m,08-Mar-24,75
+https://www.pluralsight.com/courses/java-basic-web-app,courses,Java: Creating a Basic Web App (Interactive),by Sarah Holderness,Beginner,1h 18m,28-Oct-21,25
+https://www.pluralsight.com/courses/enterprise-data-modeling-getting-started,courses,Enterprise Data Modeling: Getting Started,by Joseph Cline,Beginner,1h 38m,16-Aug-19,153
+https://www.pluralsight.com/courses/data-modeling-partitioning-patterns-azure-cosmos-db,courses,Data Modeling and Partitioning Patterns in Azure Cosmos DB,by Leonard Lobel,Intermediate,1h 47m,25-Mar-20,121
+https://www.pluralsight.com/courses/sqlserver-2016-installing-configuring,courses,SQL Server: Installing and Configuring SQL Server 2016,by Glenn Berry,Beginner,2h 1m,09-Jan-18,111
+https://www.pluralsight.com/courses/java-core-libraries-jdbc,courses,Java Core Libraries: JDBC 4,by Richard Monson-Haefel,Beginner,1h 48m,08-Jun-22,97
+https://www.pluralsight.com/courses/combining-filtering-data-tsql,courses,Combining and Filtering Data with T-SQL 2019,by Tamara Pattinson,Beginner,3h 27m,08-Jun-22,213
+https://www.pluralsight.com/courses/working-local-data-xamarin-forms,courses,Working with Local Data in Xamarin.Forms 4,by John Kuefler,Beginner,1h 45m,21-Apr-22,34
+https://www.pluralsight.com/courses/capturing-logic-custom-functions-postgresql,courses,Capturing Logic with Custom Functions in PostgreSQL,by Gerald Britton,Intermediate,1h 54m,20-Mar-20,13
+https://www.pluralsight.com/courses/caching-javascript-rest-api-data-local-storage,courses,Caching JavaScript REST API Data with Local Storage,by James Millar,Intermediate,1h 29m,09-Oct-20,19
+https://www.pluralsight.com/courses/amazon-redshift-data-warehouse,courses,Building Your First Amazon Redshift Data Warehouse,by Russ Thomas,Intermediate,2h 40m,09-Mar-18,69
+https://www.pluralsight.com/courses/moving-data-snowflake,courses,Moving Data with Snowflake,by Mohit Batra,Beginner,1h 22m,22-Nov-21,41
+https://www.pluralsight.com/courses/exchange-server-managing-messaging-infrastructure,courses,Managing Microsoft Exchange Server Messaging Infrastructure,by Paul Cunningham,Intermediate,5h 18m,23-Jul-19,35
+https://www.pluralsight.com/courses/sql-server-hierarchies-working,courses,Working with Hierarchies in SQL Server,by Pinal Dave,Beginner,49m,24-Aug-23,15
+https://www.pluralsight.com/courses/spring-boot-3-fundamentals,courses,Spring Boot 3 Fundamentals,by Jesper de Jong,Beginner,2h 35m,20-Jul-23,50
+https://www.pluralsight.com/courses/entity-framework-enterprise-update,courses,Entity Framework 6 in the Enterprise,by Julie Lerman,Intermediate,4h 42m,28-Apr-22,215
+https://www.pluralsight.com/courses/querying-data-using-tsql,courses,Querying Data Using T-SQL,by Ami Levin,Beginner,2h 7m,19-Sep-19,541
+https://www.pluralsight.com/courses/entity-framework-applications-integration-testing,courses,Integration Testing of Entity Framework 6 Applications,by Michael Perry,Intermediate,2h 22m,17-Jun-22,53
+https://www.pluralsight.com/courses/core-python-robust-resource-error-handling,courses,Core Python 3: Robust Resource and Error Handling,by Austin Bingham,Intermediate,1h 14m,15-Jul-22,53
+https://www.pluralsight.com/courses/build-your-first-data-visualization-chartblocks,courses,Build Your First Data Visualization with ChartBlocks,by Pinal Dave,Beginner,35m,01-Dec-20,15
+https://www.pluralsight.com/courses/effective-reporting-power-bi,courses,Effective Reporting with Power BI,by Tim Boles,Intermediate,2h 20m,12-Feb-19,150
+https://www.pluralsight.com/courses/ssis-design-patterns-data-warehousing,courses,SSIS Design Patterns for Data Warehousing,by Robert Cain,Intermediate,2h 50m,08-Sep-16,252
+https://www.pluralsight.com/courses/monitoring-key-systems-prometheus-exporters,courses,Monitoring Key Systems with Prometheus Exporters,by Craig Golightly,Intermediate,45m,13-Aug-20,25
+https://www.pluralsight.com/courses/serverless-analytics-aws,courses,Serverless Analytics on AWS,by Kim Schmidt,Intermediate,2h 40m,20-Aug-19,57
+https://www.pluralsight.com/courses/postgresql-data-manipulation-playbook,courses,PostgreSQL Data Manipulation Playbook,by Ami Levin,Intermediate,2h 34m,22-May-20,75
+https://www.pluralsight.com/courses/react-express-full-stack-app-building,courses,Building a Full Stack App with React 16 and Express 4,by Daniel Stern,Advanced,3h 14m,08-Jun-22,154
+https://www.pluralsight.com/courses/combining-shaping-data,courses,Combining and Shaping Data,by Janani Ravi,Beginner,3h 28m,11-Aug-20,54
+https://www.pluralsight.com/courses/python-it-pros-sysadmins-introduction,courses,Introduction to Python for IT Pros and Sysadmins,by Ed Freitas,Beginner,1h 21m,13-Oct-23,15
+https://www.pluralsight.com/courses/django-models,courses,Working with Django Models,by Reindert-Jan Ekker,Intermediate,2h 34m,05-Mar-21,56
+https://www.pluralsight.com/courses/nodejs-microservices-fundamentals,courses,Node.js Microservices Fundamentals,by James Millar,Beginner,1h 52m,20-Dec-23,15
+https://www.pluralsight.com/courses/java-se-17-building-application,courses,Building an Application Using Java SE,by Sander Mak,Intermediate,3h 6m,28-Jun-24,56
+https://www.pluralsight.com/courses/docker-building-running-first-app,courses,Building and Running Your First Docker App,by Dan Wahlin,Beginner,2h 9m,22-Mar-21,351
+https://www.pluralsight.com/courses/implementing-event-log-kafka,courses,Implementing an Event Log with Kafka,by Ivan Mushketyk,Advanced,3h 35m,04-Sep-20,58
+https://www.pluralsight.com/courses/working-date-time-php,courses,Working with Date and Time in PHP,by Annapurna Siddhartha,Beginner,2h 16m,25-Jun-21,15
+https://www.pluralsight.com/courses/amazon-redshift-best-practices,courses,Amazon Redshift: Best Practices,by Anthony Sequeira,Advanced,3h 9m,23-Dec-20,19
+https://www.pluralsight.com/courses/sqlserver-diagnosing-configuration-issues-dmv,courses,SQL Server 2017: Diagnosing Configuration Issues with DMVs,by Glenn Berry,Intermediate,1h 46m,19-Jul-18,21
+https://www.pluralsight.com/courses/serverless-data-processing-dataflow-foundations,courses,Serverless Data Processing with Dataflow: Foundations,by Google Cloud,Intermediate,42m,30-Jul-24,NA
+https://www.pluralsight.com/courses/microsoft-azure-creating-configuring-storage-accounts,courses,Creating and Configuring Microsoft Azure Storage Accounts,by Neil Morrissey,Intermediate,3h 54m,26-Feb-20,128
+https://www.pluralsight.com/courses/building-multidimensional-models-ssas,courses,Building Multidimensional Models in SSAS,by Stacia Misner Varga,Beginner,3h 52m,26-Dec-19,22
+https://www.pluralsight.com/courses/microsoft-azure-data-security-policy-managing,courses,Managing Data Security and Policy in Microsoft Azure,by John Savill,Intermediate,1h 17m,24-Jun-19,17
+https://www.pluralsight.com/courses/architecting-cisco-secure-communications,courses,Architecting Cisco Secure Communications,by Martin Brown,Intermediate,2h,09-Jan-20,11
+https://www.pluralsight.com/courses/implementing-ssrs-report-layouts,courses,Implementing SSRS Report Layouts,by Jared Westover,Beginner,2h 16m,28-Aug-20,NA
+https://www.pluralsight.com/courses/ocp-12c-performing-backup-recovery-using-new-features-rman,courses,OCP 12c Performing Backup and Recovery Using New Features of RMAN,by Tim Boles,Advanced,2h 40m,04-May-17,18
+https://www.pluralsight.com/courses/building-cloud-native-solutions-azure-visual-studio,courses,Building Cloud-native Solutions for Azure with Visual Studio,by Barry Luijbregts,Beginner,1h 6m,14-May-19,37
+https://www.pluralsight.com/courses/heroku-application-reliability-performance,courses,Ensuring Application Reliability and Performance on Heroku,by Soham Kamani,Intermediate,1h 23m,02-Dec-20,NA
+https://www.pluralsight.com/courses/storing-data-aws,courses,Storing Data on AWS,by Fernando Medina Corey,Intermediate,2h 51m,25-Jul-20,27
+https://www.pluralsight.com/courses/nodejs-express-web-applications-building,courses,Building Web Applications with Node.js and Express,by Jonathan Mills,Intermediate,2h 51m,25-May-21,121
+https://www.pluralsight.com/courses/data-executive-briefing,courses,Data: Executive Briefing,by Simon Allardice,Beginner,37m,16-Sep-22,607
+https://www.pluralsight.com/courses/analyzing-data-aws,courses,Analyzing Data on AWS,by Clarke Bishop,Intermediate,2h 12m,10-Nov-20,30
+https://www.pluralsight.com/courses/microsoft-azure-data-storage-monitoring,courses,Monitoring Microsoft Azure Data Storage,by John Savill,Intermediate,1h 8m,31-May-19,17
+https://www.pluralsight.com/courses/google-cloud-platform-leveraging-architectural-design-patterns,courses,Leveraging Architectural Design Patterns on the Google Cloud,by Janani Ravi,Advanced,2h 30m,10-Jan-19,19
+https://www.pluralsight.com/courses/collecting-data-aws,courses,Collecting Data on AWS,by Fernando Medina Corey,Intermediate,2h 18m,11-Jun-20,33
+https://www.pluralsight.com/courses/ocp-12c-dba-enhancements,courses,OCP 12c Enhancements for the DBA,by Tim Boles,Advanced,2h 15m,27-Dec-17,NA
+https://www.pluralsight.com/courses/ocp-12c-performance-enhancements-using,courses,OCP 12c Using Performance Enhancements in Oracle 12c,by Tim Boles,Advanced,2h 9m,29-Aug-17,NA
+https://www.pluralsight.com/courses/loading-data-ssis,courses,Loading Data with SSIS,by Mike McQuillan,Beginner,3h,02-Sep-20,16
+https://www.pluralsight.com/courses/dimensional-modeling-microsoft-sql-server-platform,courses,Dimensional Modeling on the Microsoft SQL Server Platform,by Christopher Smith,Intermediate,3h 9m,12-Aug-19,49
+https://www.pluralsight.com/courses/amazon-elasticache-best-practices,courses,Amazon ElastiCache: Best Practices,by Raj Saha,Advanced,2h 21m,12-Apr-21,17
+https://www.pluralsight.com/courses/microsoft-azure-solutions-architect-implement-storage-strategy,courses,Microsoft Azure Solutions Architect: Implement a Storage Strategy,by Neil Morrissey,Advanced,1h 13m,31-Mar-21,36
+https://www.pluralsight.com/courses/aws-storage-big-data-managing,courses,Managing Big Data with AWS Storage Options,by Nertil Poci,Advanced,1h 38m,10-Mar-21,17
+https://www.pluralsight.com/courses/snowflake-architecture-overview-getting-started,courses,Snowflake Architecture and Overview: Getting Started,by Alejandro Romero,Beginner,1h 16m,24-Dec-21,88
+https://www.pluralsight.com/courses/big-data-aws-big-picture,courses,Big Data on AWS: The Big Picture,by Andrew Brust,Beginner,1h 32m,22-Oct-19,67
+https://www.pluralsight.com/courses/storing-managing-data-postgres-heroku,courses,Storing and Managing Data with Postgres on Heroku,by Pinal Dave,Intermediate,2h 27m,30-Sep-20,18
+https://www.pluralsight.com/courses/amazon-rds-best-practices,courses,Amazon RDS: Best Practices,by Ian Fogelman,Advanced,3h 22m,12-Mar-21,18
+https://www.pluralsight.com/courses/getting-started-entity-framework-core,courses,Entity Framework Core 3.1: Getting Started,by Julie Lerman,Beginner,3h 44m,08-Mar-21,208
+https://www.pluralsight.com/courses/sql-server-security-fundamentals,courses,SQL Server Security Fundamentals,by Pinal Dave,Beginner,1h 29m,19-Jul-23,13
+https://www.pluralsight.com/courses/up-running-mysql,courses,Up and Running with MySQL,by Jeff Iannucci,Intermediate,48m,04-Oct-23,NA
+https://www.pluralsight.com/courses/entity-framework-core-2-getting-started,courses,Entity Framework Core 2: Getting Started,by Julie Lerman,Beginner,2h 42m,06-Aug-19,260
+https://www.pluralsight.com/courses/spring-framework-6-persistence-spring-data-jdbc-3,courses,Persistence Using Spring Data JDBC 3.0.0 and Spring Framework 6,by Bryan Hansen,Intermediate,2h 32m,08-Sep-23,11
+https://www.pluralsight.com/courses/ef-core-6-big-picture,courses,EF Core: The Big Picture,by Julie Lerman,Beginner,1h 2m,17-Jan-24,83
+https://www.pluralsight.com/courses/access-2019-essentials,courses,Access 2019 Essentials,by Shari Oswald,Beginner,1h 39m,03-Oct-19,27
+https://www.pluralsight.com/courses/ef-core-6-fundamentals,courses,EF Core 6 Fundamentals,by Julie Lerman,Beginner,7h 45m,03-May-22,176
+https://www.pluralsight.com/courses/ef-core-testing,courses,Testing with EF Core 2,by Kevin Dockx,Intermediate,1h 13m,19-May-22,97
+https://www.pluralsight.com/courses/sql-server-data-manipulation-essentials,courses,SQL Server Data Manipulation Essentials,by Pinal Dave,Beginner,27m,13-Feb-24,11
+https://www.pluralsight.com/courses/mysql-administration,courses,MySQL Administration,by Pinal Dave,Beginner,2h 1m,07-Aug-23,NA
+https://www.pluralsight.com/courses/ruby-rails-7-active-record-models,courses,Ruby on Rails 7 Active Record Models,by Raphael Alampay,Intermediate,2h 22m,16-Jun-23,NA
+https://www.pluralsight.com/courses/connecting-sql-server-databricks,courses,Connecting to SQL Server from Databricks,by Kishan Iyer,Advanced,55m,23-Mar-22,NA
+https://www.pluralsight.com/courses/configuring-net-services-oracle-cert,courses,Configuring Net Services with Oracle,by Agaba Philip,Advanced,50m,14-Jul-22,NA
+https://www.pluralsight.com/courses/amazon-dynamodb-best-practices,courses,Amazon DynamoDB: Best Practices,by Raj Saha,Advanced,3h 18m,14-Oct-20,27
+https://www.pluralsight.com/courses/ef-core-8-fundamentals,courses,EF Core 8 Fundamentals,by Julie Lerman,Beginner,8h 11m,16-Jan-24,37
+https://www.pluralsight.com/courses/microsoft-azure-solutions-architect-design-storage-accounts,courses,Microsoft Azure Solutions Architect: Design Storage Accounts,by John Savill,Advanced,1h 2m,29-Oct-20,21
+https://www.pluralsight.com/courses/h2-java-applications,courses,Using H2 1 in Your Java Applications: Getting Started,by Nicolae Caprarescu,Beginner,1h 40m,19-Apr-22,15
+https://www.pluralsight.com/courses/implementing-etl-pipelines-microsoft-sql-server-platform,courses,Implementing ETL Pipelines on the Microsoft SQL Server Platform,by Thomas LeBlanc,Beginner,2h 1m,02-Oct-20,15
+https://www.pluralsight.com/courses/fundamentals-mongoose-for-node-mongodb,courses,Fundamentals of Mongoose for Node and MongoDB,by Mark Scott,Intermediate,1h 56m,29-Nov-18,56
+https://www.pluralsight.com/courses/aspdotnet-core-6-entity-framework-6-tailwindcss-vue-3-building-web-app,courses,"Building a Web App with ASP.NET Core, MVC, Entity Framework, TailwindCSS, and Vue",by Shawn Wildermuth,Advanced,8h 21m,03-Jan-24,25
+https://www.pluralsight.com/courses/pulumi-getting-started,courses,Getting Started with Pulumi,by Floyd May,Beginner,1h 32m,30-Apr-21,25
+https://www.pluralsight.com/courses/php-web-application-security,courses,PHP 8 Web Application Security,by Christian Wenz,Intermediate,5h 19m,05-May-22,50
+https://www.pluralsight.com/courses/scaling-sqlserver2012-2014-part2,courses,SQL Server: Scaling SQL Server 2012 and 2014: Part 2,by Glenn Berry,Intermediate,2h 46m,08-Sep-16,24
+https://www.pluralsight.com/courses/exploring-apache-beam-sdk-modeling-streaming-data-processing,courses,Exploring the Apache Beam SDK for Modeling Streaming Data for Processing,by Janani Ravi,Beginner,3h 29m,18-Sep-20,NA
+https://www.pluralsight.com/courses/amazon-elasticache-service-introduction,courses,Amazon ElastiCache Service Introduction,by AWS,Beginner,5m,03-Sep-20,NA
+https://www.pluralsight.com/courses/managing-enterprise-snowflake-data-platform,courses,Managing an Enterprise Snowflake Data Platform,by Warner Chaves,Intermediate,2h 27m,20-Oct-20,33
+https://www.pluralsight.com/courses/amazon-redshift-high-performance-data-warehousing,courses,High-performance Data Warehousing with Amazon Redshift,by Russ Thomas,Intermediate,2h 34m,08-Aug-18,20
+https://www.pluralsight.com/courses/introduction-aws-data-pipeline,courses,Introduction to AWS Data Pipeline,by AWS,Beginner,12m,24-Sep-20,13
+https://www.pluralsight.com/courses/understanding-cloud-spanner,courses,Understanding Cloud Spanner,by Google Cloud,Beginner,9m,01-Dec-23,NA
+https://www.pluralsight.com/courses/create-data-models-json,courses,Create Data Models in JSON,by Kishan Iyer,Beginner,1h 29m,18-Jul-20,32
+https://www.pluralsight.com/courses/laravel-php-framework-getting-started-models-data,courses,Getting Started with Laravel (PHP Framework) 7: Models and Data,by Max Schwarzmueller,Beginner,2h 22m,29-Jun-22,106
+https://www.pluralsight.com/courses/android-fundamentals-realm,courses,Android Realm Fundamentals,by Sriyank Siddhartha,Beginner,2h 29m,21-Apr-17,40
+https://www.pluralsight.com/courses/introduction-azure-data-migration-service,courses,Introduction to the Azure Data Migration Service,by Robert Cain,Beginner,45m,25-Mar-20,16
+https://www.pluralsight.com/courses/sequelize-orm-nodejs-introduction,courses,Introduction to Sequelize ORM for Node.js 6,by Patrick Schroeder,Intermediate,2h 28m,08-Jun-22,37
+https://www.pluralsight.com/courses/sql-tables-selecting-inserting-deleting-data,courses,"SQL: Creating Tables, Selecting, Inserting, and Deleting Data (Interactive)",by Chari Clark,Beginner,42m,28-Oct-21,163
+https://www.pluralsight.com/courses/hibernate-fundamentals,courses,Hibernate Fundamentals,by Catalin Tudose,Beginner,2h 39m,07-Mar-24,NA
+https://www.pluralsight.com/courses/troubleshooting-sql-server-performance-problems,courses,Troubleshooting SQL Server Performance Problems,by Viktor Suha,Beginner,1h 47m,02-Jul-20,44
+https://www.pluralsight.com/courses/code-school-super-sweet-android-time,courses,Code School: Super Sweet Android Time,by Sarah Holderness,Intermediate,50m,02-Apr-18,NA
+https://www.pluralsight.com/courses/sql-server-tools-effective-query-analysis,courses,Effective Query Analysis with SQL Server Tools,by Thomas LeBlanc,Beginner,44m,18-Mar-24,NA
+https://www.pluralsight.com/courses/visual-studio-code-aspdotnet-projects,courses,Using Visual Studio Code for ASP.NET Core 2 Projects,by Shawn Wildermuth,Intermediate,2h 26m,14-Jun-22,76
+https://www.pluralsight.com/courses/asp-dot-net-core-entity-framework-working-user-data,courses,ASP.NET Core: Using Entity Framework and Working with User Data (Interactive),by Eric Fisher,Beginner,56m,28-Oct-21,NA
+https://www.pluralsight.com/courses/android-fundamentals-content-providers,courses,Android Fundamentals: Content Providers,by Sriyank Siddhartha,Beginner,3h 26m,17-Oct-17,39
+https://www.pluralsight.com/courses/code-school-from-form-to-table-with-laravel,courses,Code School: From Form to Table with Laravel,by Hampton Paulk,Intermediate,43m,02-Apr-18,11
+https://www.pluralsight.com/courses/software-dev-sec-cissp-cert,courses,Software Development Security for CISSP®,by Kevin Henry,Intermediate,3h 8m,24-Apr-24,NA
+https://www.pluralsight.com/courses/designing-apis-microservices,courses,Designing APIs for Microservices,by Esteban Herrera,Beginner,1h 16m,04-Jun-24,NA
+https://www.pluralsight.com/courses/comptia-cloud-plus-cloud-architecture,courses,CompTIA Cloud+ (CV0-004): Cloud Architecture,by Michael Brown,Intermediate,5h 18m,23-Jul-24,NA
+https://www.pluralsight.com/courses/how-to-build-new-skills-in-oracle-digital-assistant-leveraging-bots,courses,How to Build New Skills in Oracle Digital Assistant - Leveraging Bots,by Tim Boles,Intermediate,1h 23m,10-Jan-20,NA
+https://www.pluralsight.com/courses/drupal-10-optimization-security,courses,Drupal 10 Optimization and Security,by James Millar,Intermediate,1h 56m,15-Sep-23,NA
+https://www.pluralsight.com/courses/sql-server-integration-services-data-cleansing,courses,Mastering ETL: Data Cleansing with SQL Server Integration Services,by Ana Voicu,Beginner,32m,22-Mar-24,NA
+https://www.pluralsight.com/courses/clojure-fundamentals,courses,Clojure Fundamentals,by Zachary Bennett,Beginner,2h 30m,05-Dec-23,NA
+https://www.pluralsight.com/courses/architecting-web-applications-spring,courses,Architecting Web Applications with Spring,by Kevin Jones,Intermediate,1h 58m,02-Jun-20,132
+https://www.pluralsight.com/courses/cobol-big-picture,courses,COBOL Big Picture,by Tom Taulli,Beginner,1h 10m,30-Nov-21,NA
+https://www.pluralsight.com/courses/mulesoft4-fundamentals,courses,MuleSoft 4 Fundamentals,by Axel Sirota,Beginner,2h 21m,24-Mar-22,27
+https://www.pluralsight.com/courses/snowflake-scale-data,courses,Scale Data in Snowflake,by Pinal Dave,Intermediate,17m,08-Aug-24,NA
+https://www.pluralsight.com/courses/fundamentals-php,courses,PHP Fundamentals,by Christian Wenz,Beginner,3h 12m,09-Aug-24,NA
+https://www.pluralsight.com/courses/deep-dive-documentdb,courses,Deep Dive into DocumentDB,by AWS,Beginner,14m,08-Sep-20,NA
+https://www.pluralsight.com/courses/langchain-development,courses,LangChain Development,by Tom Taulli,Intermediate,2h 55m,03-Oct-23,13
+https://www.pluralsight.com/courses/snowflake-performance-optimization,courses,Performance Optimization in Snowflake,by Pinal Dave,Intermediate,15m,02-Jul-24,NA
+https://www.pluralsight.com/courses/data-show-tell-crafting-ideal-basketball-team-python,courses,Data Show and Tell: Crafting the Ideal Basketball Team with Python,by Pinal Dave,Advanced,9m,25-Jun-24,12
+https://www.pluralsight.com/courses/preparing-data-generative-ai,courses,Preparing Data with Generative AI,by Pinal Dave,Beginner,9m,28-May-24,NA
+https://www.pluralsight.com/courses/snowflake-query-data,courses,Query Data with Snowflake,by Pinal Dave,Intermediate,36m,23-Jul-24,NA
+https://www.pluralsight.com/courses/sql-server-advanced-triggers-optimize-troubleshoot,courses,Advanced SQL Server Triggers: Optimizing and Troubleshooting,by Lucian Lazar,Beginner,32m,15-Apr-24,NA
+https://www.pluralsight.com/courses/podman-containerized-applications-managing-cert,courses,Managing Containerized Applications with Podman,by Andrei Balint,Intermediate,1h 20m,17-May-24,NA
+https://www.pluralsight.com/courses/solarwinds-big-picture,courses,SolarWinds: The Big Picture,by Gladson,Beginner,1h 59m,12-Apr-22,NA
+https://www.pluralsight.com/courses/moving-data-oracle,courses,Moving Data with Oracle,by Agaba Philip,Intermediate,15m,02-Sep-22,NA
+https://www.pluralsight.com/courses/integration-services-fundamentals-part-two,courses,Integration Services Fundamentals Part 2,by Stacia Misner Varga,Beginner,3h 55m,06-Jun-22,NA
+https://www.pluralsight.com/courses/configuring-deploying-data-warehouse-microsoft-sql-server-platform,courses,Configuring and Deploying a Data Warehouse on the Microsoft SQL Server Platform,by Dayo Bamikole,Advanced,1h 57m,13-Nov-20,NA
+https://www.pluralsight.com/courses/powershell-continuous-monitoring,courses,Continuous Monitoring with PowerShell,by Liam Cleary,Beginner,3h 38m,23-Dec-22,NA
+https://www.pluralsight.com/courses/firebase-build-fundamentals,courses,Firebase Build Fundamentals,by Majid Hajian,Beginner,7h 39m,01-Jun-23,NA
+https://www.pluralsight.com/courses/fastapi-fundamentals,courses,FastAPI Fundamentals,by Reindert-Jan Ekker,Beginner,3h 26m,05-May-22,73
+https://www.pluralsight.com/courses/azure-serverless-applications,courses,Building Serverless Applications in Azure,by Mark Heath,Beginner,4h 7m,15-Aug-17,47
+https://www.pluralsight.com/courses/microsoft-azure-data-explorer-starting,courses,How to Start with Microsoft Azure Data Explorer,by Xavier Morera,Beginner,4h 6m,29-Jun-20,18
+https://www.pluralsight.com/courses/amazon-quicksight-visualizing-data,courses,Visualizing Data with Amazon QuickSight,by Aaron Medacco,Intermediate,3h 2m,19-Jan-18,30
+https://www.pluralsight.com/courses/spring-data-2022-big-picture,courses,Spring Data 2022: The Big Picture,by Catalin Tudose,Beginner,54m,29-Sep-23,NA
+https://www.pluralsight.com/courses/phoenix-getting-started,courses,Getting Started with Phoenix 1,by Nate Taylor,Beginner,2h 52m,20-Apr-22,37
+https://www.pluralsight.com/courses/firebase-build-big-picture,courses,Firebase Build: The Big Picture,by Colin Matthews,Beginner,41m,28-Jul-22,NA
+https://www.pluralsight.com/courses/sql-server-work-dynamic-data-patterns,courses,Work with Dynamic Data Patterns in SQL Server,by Ana Voicu,Beginner,32m,21-May-24,NA
+https://www.pluralsight.com/courses/mongodb-persistence-using-spring-data-mongodb,courses,MongoDB Persistence Using Spring Data MongoDB,by Dan Geabunea,Intermediate,2h 43m,22-Dec-23,NA
+https://www.pluralsight.com/courses/volt-typhoon-credential-dumping-emulation,courses,Volt Typhoon: T1003.003 Credential Dumping Emulation,by Matthew Lloyd Davies,Intermediate,7m,03-May-24,NA
+https://www.pluralsight.com/courses/amazon-neptune-service-introduction,courses,Amazon Neptune Service Introduction,by AWS,Beginner,5m,03-Sep-20,NA
+https://www.pluralsight.com/courses/models-django,courses,Django Models,by Reindert-Jan Ekker,Intermediate,2h 33m,26-Apr-24,NA
+https://www.pluralsight.com/courses/developing-applications-cloud-functions-google-cloud,courses,Developing Applications with Cloud Functions on Google Cloud,by Google Cloud,Intermediate,1h 26m,27-Jan-23,NA
+https://www.pluralsight.com/courses/power-bi-build-reports,courses,Build Power BI Reports,by Ana Voicu,Intermediate,55m,14-Aug-24,NA
+https://www.pluralsight.com/courses/authenticating-users-firebase-authentication-service-playbook,courses,Authenticating Users with Firebase Authentication Service Playbook,by Todd Shelton,Intermediate,3h 39m,14-May-18,NA
+https://www.pluralsight.com/courses/building-highly-connected-applications-amazon-neptune,courses,Building Highly Connected Applications using Amazon Neptune,by AWS,Beginner,29m,08-Sep-20,NA
+https://www.pluralsight.com/courses/amazon-documentdb-service-introduction,courses,Amazon DocumentDB Service Introduction,by AWS,Beginner,5m,03-Sep-20,NA
+https://www.pluralsight.com/courses/laravel-9-big-picture,courses,Laravel: The Big Picture,by Steve Buchanan,Beginner,1h 1m,18-Mar-24,12
+https://www.pluralsight.com/courses/java-dates-times-programming,courses,Programming with Dates and Times in Java,by Maurice Naftalin,Intermediate,2h 11m,10-Aug-21,48
+https://www.pluralsight.com/courses/amazon-aurora-service-introduction,courses,Amazon Aurora Service Introduction,by AWS,Beginner,5m,01-Sep-20,14
+https://www.pluralsight.com/courses/innovating-data-google-cloud-6,courses,Innovating with Data and Google Cloud,by Google Cloud,Beginner,1h 26m,21-Mar-23,NA
+https://www.pluralsight.com/courses/windows-powershell-wmi-managing,courses,Managing with Windows PowerShell and WMI,by Adam Bertram,Intermediate,1h 5m,22-Mar-24,NA
+https://www.pluralsight.com/courses/cobol-fundamentals,courses,COBOL Fundamentals,by Tom Taulli,Beginner,2h 27m,22-Jul-22,NA
+https://www.pluralsight.com/courses/microsoft-azure-sdk-fundamentals-go-developers,courses,Microsoft Azure SDK Fundamentals for GO Developers,by Ashish Minocha,Beginner,2h 7m,29-Jun-21,NA
+https://www.pluralsight.com/courses/data-management-tools-databricks,courses,Data Management Tools on Databricks,by Kishan Iyer,Intermediate,1h 25m,30-Aug-22,NA
+https://www.pluralsight.com/courses/flutter-fundamentals,courses,Flutter Fundamentals,by Simone Alessandria,Beginner,3h 43m,13-Jun-24,NA
+https://www.pluralsight.com/courses/julia-1-fundamentals,courses,Julia 1 Fundamentals,by Dan Tofan,Beginner,3h 13m,17-May-22,NA
+https://www.pluralsight.com/courses/info-systems-operations-business-resilience-isaca-cert,courses,Information Systems Operations and Business Resilience: Information Systems Operations,by Kevin Henry,Beginner,2h 24m,13-Aug-24,NA
+https://www.pluralsight.com/courses/octopus-deploy-getting-started,courses,Getting Started with Octopus Deploy,by Chris Behrens,Intermediate,2h 6m,08-Apr-21,32
+https://www.pluralsight.com/courses/amazon-athena-advanced-operations,courses,Advanced Operations with Amazon Athena,by Sadequl Hussain,Advanced,2h 18m,25-Jun-19,NA
+https://www.pluralsight.com/courses/scaffolding-spring-boot-and-angular-with-jhipster,courses,Scaffolding Spring Boot and Angular Web Apps with JHipster 4,by Michael Hoffman,Intermediate,2h 31m,20-Jun-22,26
+https://www.pluralsight.com/courses/php-unit-testing,courses,PHP Unit Testing,by Travis Thomsen,Intermediate,3h 15m,22-May-24,NA
+https://www.pluralsight.com/courses/building-scalable-java-microservices-spring-boot-spring-cloud-4,courses,Building Scalable Java Microservices with Spring Boot and Spring Cloud,by Google Cloud,Intermediate,26m,12-Aug-24,NA
+https://www.pluralsight.com/courses/react-17-building-essential-ui-data-elements,courses,Building Essential UI Data Elements in React 17,by Peter Kellner,Intermediate,3h 28m,01-Dec-21,18
+https://www.pluralsight.com/courses/flutter-firebase-creating-full-stack-app,courses,Creating a Full Stack App with Flutter and Firebase,by Majid Hajian,Intermediate,4h 49m,21-Jun-24,NA
+https://www.pluralsight.com/courses/microsoft-azure-architecture-aws-architects-update,courses,Microsoft Azure Architecture for AWS Architects,by John Savill,Intermediate,3h 7m,24-Sep-20,NA
+https://www.pluralsight.com/courses/murachs-mainframe-cobol,courses,Murach’s Mainframe COBOL,by Tom Taulli,Beginner,5h 55m,20-Aug-21,NA
+https://www.pluralsight.com/courses/azure-devops-server-2020-fundamentals,courses,Azure DevOps Server 2020 Fundamentals,by Benjamin Day,Beginner,5h 40m,09-Feb-22,22
+https://www.pluralsight.com/courses/gartner-ea-fundamentals,courses,Gartner EA Fundamentals,by Pluralsight,Beginner,39m,29-Nov-23,NA
+https://www.pluralsight.com/courses/crash-course-google-cloud-platform,courses,Crash Course on Google Cloud Platform,by Mattias Andersson,Beginner,2h 37m,09-Jun-23,NA
+https://www.pluralsight.com/courses/microsoft-tpl-dataflow,courses,Advanced Data and Stream Processing with Microsoft TPL Dataflow,by Szymon Warda,Advanced,2h 54m,25-Feb-21,64
+https://www.pluralsight.com/courses/html5-creating-offline-first-mobile-apps,courses,Creating Offline-first Mobile Apps with HTML5,by Chris Minnick,Beginner,2h 35m,24-Apr-17,27
+https://www.pluralsight.com/courses/database-admin-fundamentals,courses,Microsoft MTA: Database Administration Fundamentals,by Don Jones,Beginner,4h 35m,25-Mar-21,533
+https://www.pluralsight.com/courses/microsoft-azure-workloads-migrating,courses,Migrating Workloads to Microsoft Azure,by Michael Teske,Intermediate,1h 20m,21-Oct-19,15
+https://www.pluralsight.com/courses/becoming-better-communicator,courses,Becoming a Better Communicator,by Jason Alba,Beginner,1h 16m,13-Jan-23,50
+https://www.pluralsight.com/courses/running-large-solution-at-scale,courses,Running a Large Solution at Scale,by Tommy van Schaik,Advanced,2h 3m,21-Jan-21,15
+https://www.pluralsight.com/courses/business-analysis-techniques-toolkit,courses,The Business Analysis Techniques Toolkit,by Casey Ayers,Intermediate,2h 44m,22-Oct-19,25
+https://www.pluralsight.com/courses/public-speaking-effective-presentations,courses,The Art of Public Speaking and Effective Presentations,by John Papa,Beginner,2h 27m,10-May-17,510
+https://www.pluralsight.com/courses/building-successful-change-strategy,courses,Building a Successful Change Strategy,by Alice Meredith,Intermediate,28m,15-Jul-20,75
+https://www.pluralsight.com/courses/prioritizing-tasks-managing-time-greater-productivity,courses,Prioritizing Tasks and Managing Time for Greater Productivity,by Jason Alba,Beginner,2h 18m,07-Oct-20,357
+https://www.pluralsight.com/courses/using-office-365-groups,courses,Using Office 365 Groups,by Heather Fitzpatrick,Beginner,30m,11-Jun-19,15
+https://www.pluralsight.com/courses/tracing-leveraging-requirements,courses,Tracing and Leveraging Requirements,by Jamie Champagne,Intermediate,1h 2m,28-Apr-20,15
+https://www.pluralsight.com/courses/building-healthy-interpersonal-relationships-work,courses,Building Healthy Interpersonal Relationships at Work,by Stephen Haunts,Beginner,2h 17m,12-Feb-20,45
+https://www.pluralsight.com/courses/lean-agile-it-management,courses,Lean Agile IT Management,by Frederico Aranha,Beginner,1h 17m,30-Aug-21,15
+https://www.pluralsight.com/courses/workplace-stress-anxiety,courses,Dealing with Stress and Anxiety in the Workplace,by Alan Ackmann,Beginner,1h 26m,25-Jun-20,35
+https://www.pluralsight.com/courses/powerpoint-2019-power-users,courses,PowerPoint 2019 Power Users,by Bill Kulterman,Intermediate,2h 37m,16-Apr-19,25
+https://www.pluralsight.com/courses/building-successful-virtual-teams,courses,Building Successful Virtual Teams,by Chase DeHan,Beginner,1h 48m,11-Jun-20,85
+https://www.pluralsight.com/courses/voip-web-calls-better-remote-communication,courses,VoIP and Web Calls: Tips for Better Remote Communications,by Amber Israelsen,Beginner,1h 23m,24-Feb-17,65
+https://www.pluralsight.com/courses/developing-team-culture,courses,Developing a Team and Its Culture,by Tony Curtis,Beginner,1h 17m,17-Dec-21,85
+https://www.pluralsight.com/courses/speaking-fundamentals,courses,Speaking Fundamentals,by Rob Conery,Beginner,4h 9m,03-Apr-17,156
+https://www.pluralsight.com/courses/microsoft-365-office-online,courses,Microsoft 365: Office Online,by ClipTraining,Beginner,5h 47m,06-Apr-21,56
+https://www.pluralsight.com/courses/using-outlook-2016,courses,Using Outlook (2016),by Shari Oswald,Beginner,3h 20m,08-Sep-16,45
+https://www.pluralsight.com/courses/icagile-icp-fdo-continuous-delivery,courses,ICAgile (ICP-FDO): Continuous Delivery,by Chris Behrens,Intermediate,1h 37m,09-Nov-21,NA
+https://www.pluralsight.com/courses/icagile-icp-fdo-operations,courses,ICAgile (ICP-FDO): Operations,by Chris Behrens,Intermediate,1h 8m,22-Nov-21,NA
+https://www.pluralsight.com/courses/ms-project-2013-intro,courses,An Introduction to Microsoft Project 2010 and 2013,by Ben Howard,Beginner,2h 37m,03-Jan-20,420
+https://www.pluralsight.com/courses/appsheet-administration,courses,AppSheet Administration,by Google Cloud,Intermediate,1h 17m,30-Nov-23,NA
+https://www.pluralsight.com/courses/cultivating-communication-excellence,courses,Cultivating Communication Excellence,by Jo Harder,Intermediate,27m,13-Jan-21,30
+https://www.pluralsight.com/courses/project-2019-online-power-users,courses,Project 2019 Online Power Users,by Diane McSorley,Intermediate,1h 30m,06-Nov-19,NA
+https://www.pluralsight.com/courses/techskillsday-interview-rachel-higham,courses,"Interview with Rachel Higham, Managing Director of IT for BT Technology",by #TechSkillsDay,Beginner,16m,04-May-20,NA
+https://www.pluralsight.com/courses/call-monitoring-measure-quality,courses,Using Call Monitoring to Measure Quality,by Theresa Miller,Beginner,37m,17-Jan-17,NA
+https://www.pluralsight.com/courses/automating-excel-online-office-scripts,courses,Building Excel Online Automation with Office Scripts,by Brent Allen,Intermediate,1h 44m,10-Sep-20,NA
+https://www.pluralsight.com/courses/ps-live-2019-mainstage,courses,Pluralsight LIVE 2019: Mainstage,by Pluralsight LIVE,Beginner,3h 11m,18-Sep-19,NA
+https://www.pluralsight.com/courses/diversity-inclusion-terms-labels-acronyms,courses,"Diversity and Inclusion: What All the Terms, Labels, and Acronyms Really Mean",by Dr. Lyron H. Andrews,Beginner,1h 14m,25-Jun-21,17
+https://www.pluralsight.com/courses/getting-started-icagile-icp-tst,courses,ICAgile (ICP-TST): Getting Started,by Chris Behrens,Beginner,1h 1m,09-Dec-21,NA
+https://www.pluralsight.com/courses/generative-ai-leaders,courses,Generative AI for Leaders,by Alice Meredith,Beginner,58m,19-Mar-24,NA
+https://www.pluralsight.com/courses/generative-ai-healthcare,courses,Generative AI for Healthcare,by Google Cloud,Intermediate,35m,15-Jul-24,NA
+https://www.pluralsight.com/courses/navigate-2022-pluralsight-keynote-aaron-skonnard,courses,Navigate 2022 Pluralsight Keynote with Aaron Skonnard,by Pluralsight Navigate,Beginner,7m,05-Dec-22,NA
+https://www.pluralsight.com/courses/pluralsight-live-2020-iag,courses,Uplifting Your Team's Capability by Improving the Culture of Learning at IAG,by Pluralsight LIVE,Beginner,35m,19-Oct-20,NA
+https://www.pluralsight.com/courses/live-europe-2020-tech-talent,courses,Growing Your Tech Talent: How to Align Your Team and Foster Growth [Recorded 2/27/20],by Pluralsight LIVE,Beginner,1h 10m,08-Apr-20,NA
+https://www.pluralsight.com/courses/live-europe-2020-kickoff,courses,Pluralsight LIVE Europe Kickoff Video,by Pluralsight LIVE,Beginner,1m,18-Mar-20,NA
+https://www.pluralsight.com/courses/ps-live-2019-equality,courses,Pluralsight LIVE 2019: Breakouts (Equality),by Pluralsight LIVE,Intermediate,5h 19m,02-Oct-19,NA
+https://www.pluralsight.com/courses/pluralsight-live-2020-development-strategy,courses,Your Development Strategy Is Killing Your Business,by Pluralsight LIVE,Beginner,30m,19-Oct-20,NA
+https://www.pluralsight.com/courses/becoming-change-leader,courses,Becoming a Change Leader,by Alice Meredith,Intermediate,55m,15-Jul-20,68
+https://www.pluralsight.com/courses/windows-11-foundations,courses,Windows 11 Foundations,by ClipTraining,Beginner,2h 18m,13-Dec-22,NA
+https://www.pluralsight.com/courses/windows-11-power-users-1,courses,Windows 11 Power Users,by ClipTraining,Intermediate,1h 51m,31-Mar-23,NA
+https://www.pluralsight.com/courses/macos-essentials,courses,macOS Essentials,by ClipTraining,Beginner,1h 32m,20-Sep-22,10
+https://www.pluralsight.com/courses/generative-ai-foundations-prompt-engineering,courses,Generative AI Foundations: Prompt Engineering,by Hampton Paulk,Beginner,26m,13-Dec-23,412
+https://www.pluralsight.com/courses/iiba-cca-getting-started-cert,courses,Certificate in Cybersecurity Analysis (IIBA®-CCA): Getting Started,by Jamie Champagne,Intermediate,48m,13-Jan-22,NA
+https://www.pluralsight.com/courses/fostering-effective-team-collaboration-communication,courses,Fostering Effective Team Collaboration and Communication,by Shelley Benhoff,Intermediate,2h 35m,10-Dec-21,14
+https://www.pluralsight.com/courses/process-instructions,courses,Writing Process Instructions and Directions,by Alan Ackmann,Beginner,1h 2m,27-Mar-20,202
+https://www.pluralsight.com/courses/windows-11-pro,courses,Windows 11 Pro,by ClipTraining,Intermediate,3h 42m,19-Aug-22,NA
+https://www.pluralsight.com/courses/teams-calling,courses,Teams Calling,by ClipTraining,Beginner,1h 15m,18-Aug-22,NA
+https://www.pluralsight.com/courses/excel-365-essentials,courses,Excel 365 Essentials,by ClipTraining,Beginner,2h 33m,20-Apr-22,17
+https://www.pluralsight.com/courses/whats-new-office-2021,courses,What's New in Office 2021,by ClipTraining,Beginner,1h 36m,14-Feb-22,NA
+https://www.pluralsight.com/courses/windows-365-cloud-pc,courses,Windows 365 Cloud PC,by ClipTraining,Beginner,19m,26-Jan-22,NA
+https://www.pluralsight.com/courses/excel-2021-essentials,courses,Excel 2021 Essentials,by ClipTraining,Beginner,2h 31m,20-Apr-22,20
+https://www.pluralsight.com/courses/word-2016-power-users,courses,Word 2016 for Power Users,by Heather Ackmann,Beginner,2h 23m,21-Dec-16,19
+https://www.pluralsight.com/courses/change-management-google-workspace,courses,Change Management for Google Workspace,by Google Cloud,Intermediate,2h 22m,06-Jun-24,NA
+https://www.pluralsight.com/courses/gemini-google-sheets,courses,Gemini in Google Sheets,by Google Cloud,Beginner,8m,08-Apr-24,NA
+https://www.pluralsight.com/courses/dynamics-crm-what-everyone-needs-to-know,courses,The 35 Things Everyone Needs to Know About Dynamics CRM,by Julie Yack,Intermediate,2h 25m,08-Sep-16,30
+https://www.pluralsight.com/courses/covid-19-digital-epidemic-management,courses,"Emerging Digital Technologies for Epidemic Management: Obstacles, Opportunities and Outcomes",by Singularity University,Beginner,31m,29-Apr-20,NA
+https://www.pluralsight.com/courses/publisher-2016-using,courses,Using Publisher 2016,by Shari Oswald,Beginner,1h 2m,02-Mar-17,NA
+https://www.pluralsight.com/courses/learning-most-important-tech-skill,courses,Learning: The Most Important Tech Skill,by #TechSkillsDay,Beginner,28m,13-Jun-23,NA
+https://www.pluralsight.com/courses/our-path-success-was-failure-scott-hanselman-code-sophy,courses,Our Path to Success was Failure with Scott Hanselman and Code By Sophy,by #TechSkillsDay,Beginner,31m,13-Jun-23,NA
+https://www.pluralsight.com/courses/introducing-scrum-guide,courses,Introducing the Scrum Guide 2020,by Derek Davidson,Beginner,26m,05-Mar-21,63
+https://www.pluralsight.com/courses/fundamentals-agile,courses,Agile Fundamentals,by Matthew Pizzi,Beginner,1h 32m,15-Jun-23,111
+https://www.pluralsight.com/courses/forecasting-for-agile-teams,courses,Forecasting for Agile Teams,by William Davis,Intermediate,2h 47m,05-Feb-20,10
+https://www.pluralsight.com/courses/covid-19-leadership-change-remote-work,courses,Five Ways Your Leadership Must Change To Thrive With Remote Work,by Singularity University,Beginner,46m,29-Apr-20,28
+https://www.pluralsight.com/courses/implementing-scrum-avoiding-scrum-anti-patterns,courses,Implementing Scrum and Avoiding Scrum Anti-Patterns,by Derek Davidson,Beginner,34m,04-Jun-20,117
+https://www.pluralsight.com/courses/planning-managing-enterprise-level-agile-transformations,courses,Planning and Managing Enterprise-level Agile Transformations,by Chuck Cobb,Advanced,1h 35m,02-Jul-20,19
+https://www.pluralsight.com/courses/service-design-surveys-analysis,courses,Service Design Surveys and Analysis,by Ada Epistatu,Advanced,56m,08-Dec-21,NA
+https://www.pluralsight.com/courses/service-design-process-lifecycle-mapping,courses,Service Design Process and Lifecycle Mapping,by Ada Epistatu,Intermediate,1h 13m,08-Dec-21,NA
+https://www.pluralsight.com/courses/increasing-productivity-positivity,courses,Increasing Productivity through Positivity,by Ada Epistatu,Beginner,1h 21m,27-Jul-21,NA
+https://www.pluralsight.com/courses/covid-19-leadership,courses,Leadership in the Time of COVID-19,by Singularity University,Beginner,33m,29-Apr-20,10
+https://www.pluralsight.com/courses/iiba-cca-operational-components-cert,courses,Certificate in Cybersecurity Analysis (IIBA®-CCA): Cybersecurity Operational Components,by Jamie Champagne,Beginner,21m,30-Sep-22,NA
+https://www.pluralsight.com/courses/eliciting-information-stakeholders,courses,Eliciting Information from Stakeholders,by Heather Mylan-Mains,Intermediate,1h 31m,10-Jun-20,NA
+https://www.pluralsight.com/courses/identifying-saas-operational-challenges-it,courses,Identifying SaaS Operational Challenges for IT,by Sonia Cuff,Beginner,1h 19m,25-Aug-20,NA
+https://www.pluralsight.com/courses/google-meet-1,courses,Google Meet,by Google Cloud,Beginner,41m,26-Jul-23,NA
+https://www.pluralsight.com/courses/gmail-2,courses,Gmail,by Google Cloud,Beginner,58m,26-Jul-23,NA
+https://www.pluralsight.com/courses/understanding-culture-intelligence,courses,Understanding Culture Intelligence,by Adhithi Ravichandran,Intermediate,55m,12-Jul-21,31
+https://www.pluralsight.com/courses/setting-goals-guide,courses,Setting Goals- Your Guide to Focusing on What Is Important,by Tommy van Schaik,Beginner,28m,29-May-20,108
+https://www.pluralsight.com/courses/scaled-agile-for-enterprises,courses,What Is SAFe®: Scaled Agile for Enterprises,by Jeremy Jarrell,Intermediate,28m,27-Jun-22,39
+https://www.pluralsight.com/courses/business-basics,courses,Business Basics,by Joel Lamendola,Beginner,30m,25-Feb-21,27
+https://www.pluralsight.com/courses/scaling-impact,courses,Play by Play: Scaling Impact,by Gary Bolles,Beginner,1h 2m,20-Sep-19,NA
+https://www.pluralsight.com/courses/fundamentals-agile-transformation,courses,Agile Transformation: Fundamentals,by Tommy van Schaik,Beginner,2h 49m,23-Nov-22,NA
+https://www.pluralsight.com/courses/iiba-cca-analysis-techniques-cert,courses,Certificate in Cybersecurity Analysis (IIBA®- CCA): Cybersecurity Analysis Techniques,by Jamie Champagne,Beginner,55m,18-Mar-22,NA
+https://www.pluralsight.com/courses/profdev-series-womens-strengths-negotiation,courses,How Failures Taught Me to Negotiate: Women’s Strengths in Negotiation,by Aleksandra Majkic,Beginner,44m,23-Sep-22,13
+https://www.pluralsight.com/courses/onenote-2016,courses,OneNote 2016,by Heather Fitzpatrick,Beginner,1h 8m,21-Dec-16,88
+https://www.pluralsight.com/courses/using-negotiating-techniques-reach-agreements,courses,Using Negotiating Techniques to Reach Agreements,by Jan-Erik Sandberg,Beginner,2h 33m,25-Feb-21,24
+https://www.pluralsight.com/courses/effective-email-communication,courses,Effective Email Communication,by Jason Alba,Beginner,59m,05-Aug-24,791
+https://www.pluralsight.com/courses/irrational-customers-escalating-complaints-dealing,courses,Dealing with Irrational Customers and Escalating Complaints,by Theresa Miller,Beginner,40m,01-Mar-17,113
+https://www.pluralsight.com/courses/beginners-guide-project-management,courses,Beginner’s Guide to Project Management,by Casey Ayers,Beginner,3h 35m,06-Oct-22,32
+https://www.pluralsight.com/courses/microsoft-365-fundamentals-ms-900-intro-cert,courses,Introduction to the Microsoft 365 Fundamentals (MS-900) Exam,by Vlad Catrinescu,Beginner,33m,11-Oct-22,22
+https://www.pluralsight.com/courses/technologists-business-language,courses,Business Language for Technologists,by Dr. Lyron H. Andrews,Beginner,44m,15-Mar-23,NA
+https://www.pluralsight.com/courses/business-analysis-planning-monitoring-tasks-techniques,courses,Business Analysis: Planning and Ensuring Success,by Jamie Champagne,Beginner,1h 41m,08-Mar-19,49
+https://www.pluralsight.com/courses/openai-prompt-engineering-business-professionals,courses,OpenAI: Prompt Engineering for Business Professionals,by Jason Alba,Beginner,15m,03-Jan-24,26
+https://www.pluralsight.com/courses/business-analysis-techniques-agile-environments,courses,Applying Business Analysis Techniques in Agile Environments,by Milena Pajic,Advanced,1h 5m,08-Apr-20,23
+https://www.pluralsight.com/courses/business-analysis-techniques-evaluating-solutions,courses,Business Analysis Techniques: Evaluating Solutions,by Casey Ayers,Intermediate,3h 1m,06-Nov-19,NA
+https://www.pluralsight.com/courses/applying-business-analysis-skills,courses,Applying Business Analysis Skills in Your Organization,by Casey Ayers,Intermediate,3h 28m,16-May-19,20
+https://www.pluralsight.com/courses/agile-career-paths-certifications-intro,courses,Introduction to Agile Career Paths and Certifications,by Nimesh Soni,Beginner,1h 21m,14-Dec-23,NA
+https://www.pluralsight.com/courses/overview-business-data-iiba-cbda-certification,courses,Certification in Business Data Analytics (IIBA®-CBDA): Overview,by Jamie Champagne,Beginner,26m,15-Sep-21,NA
+https://www.pluralsight.com/courses/modern-business-professionals-communication-tips,courses,Communication Tips for Modern Business Professionals,by Madecraft,Beginner,1h 9m,18-Mar-24,NA
+https://www.pluralsight.com/courses/business-analysis-planning,courses,Planning for Business Analysis,by Casey Ayers,Beginner,3h 3m,13-Dec-16,88
+https://www.pluralsight.com/courses/where-do-rd-dollars-go-how-align-investments-outcomes,courses,Where Do R&D Dollars Go? How to Align Investments to Outcomes,by Pluralsight Navigate,Beginner,52m,06-Dec-22,NA
+https://www.pluralsight.com/courses/iiba-cca-overview-study-plan,courses,Certificate in Cybersecurity Analysis (IIBA®- CCA): Certification Overview and Study Plan,by Jamie Champagne,Beginner,25m,01-Dec-22,NA
+https://www.pluralsight.com/courses/becoming-better-negotiator,courses,Becoming a Better Negotiator,by Jason Alba,Beginner,1h 30m,12-Oct-23,NA
+https://www.pluralsight.com/courses/understanding-audience,courses,Understanding Your Audience,by Jason Alba,Beginner,1h 26m,05-Feb-20,116
+https://www.pluralsight.com/courses/formatting-excel-worksheets-cells,courses,Formatting Excel 2016 Worksheets and Cells,by Pratheerth Padman,Intermediate,1h 27m,08-Jun-22,242
+https://www.pluralsight.com/courses/searching-manipulating-data-excel,courses,Searching and Manipulating Data in Excel 2016,by Pratheerth Padman,Beginner,1h 11m,08-Jun-22,164
+https://www.pluralsight.com/courses/what-can-multicloud-do-for-you,courses,What Can Multicloud Do for You?,by Joseph Lowery,Intermediate,4m,15-Mar-24,NA
+https://www.pluralsight.com/courses/service-design-user-journey-mapping,courses,Service Design User Journey Mapping,by Jillian Kaplan,Beginner,59m,14-Sep-21,NA
+https://www.pluralsight.com/courses/building-trust-commitment-your-team,courses,Building Trust and Commitment on Your Team,by Dan Appleman,Beginner,1h 2m,02-Apr-18,231
+https://www.pluralsight.com/courses/technical-professionals-managing,courses,Managing Technical Professionals,by Shelley Benhoff,Beginner,2h 32m,13-May-22,NA
+https://www.pluralsight.com/courses/powerpoint-2019-essentials,courses,PowerPoint 2019 Essentials,by Bill Kulterman,Beginner,2h,29-Mar-19,73
+https://www.pluralsight.com/courses/excel-2019-essentials,courses,Excel 2019 Essentials,by Bill Kulterman,Beginner,2h 5m,15-Mar-19,339
+https://www.pluralsight.com/courses/excel-analytics-superhub,courses,Excel 2013: An Analytics Superhub,by Andrew Brust,Intermediate,3h 3m,08-Jun-22,331
+https://www.pluralsight.com/courses/fundamentals-scrum,courses,Scrum Fundamentals,by David Starr,Intermediate,3h 4m,22-Mar-22,47
+https://www.pluralsight.com/courses/enterprise-level-agile-implementation-frameworks,courses,Understanding Enterprise-level Agile Implementation and Agile Frameworks,by Chuck Cobb,Advanced,1h 53m,24-Jun-20,12
+https://www.pluralsight.com/courses/getting-started-service-design,courses,Service Design: Getting Started,by Megan Andrew,Beginner,1h 14m,18-Nov-21,NA
+https://www.pluralsight.com/courses/service-design-strategy-workshops,courses,Service Design Strategy Workshops,by Doru Catana,Intermediate,1h 14m,26-Jan-22,NA
+https://www.pluralsight.com/courses/excel-2021-power-users,courses,Excel 2021 Power Users,by ClipTraining,Intermediate,3h 41m,27-Apr-22,NA
+https://www.pluralsight.com/courses/profdev-series-agent-of-change,courses,Influencing without Authority: Becoming an Agent of Change,by Alice Meredith,Beginner,1h 7m,04-Nov-22,22
+https://www.pluralsight.com/courses/formulating-strategy-change-management,courses,Change Management: Formulating a Strategy,by Alice Meredith,Intermediate,1h 54m,24-Nov-21,24
+https://www.pluralsight.com/courses/powerpoint-365-power-users,courses,PowerPoint 365 Power Users,by ClipTraining,Intermediate,3h 23m,13-Dec-22,NA
+https://www.pluralsight.com/courses/powerpoint-2021-essentials,courses,PowerPoint 2021 Essentials,by ClipTraining,Beginner,3h 4m,21-Sep-22,NA
+https://www.pluralsight.com/courses/powerpoint-2021-power-users,courses,PowerPoint 2021 Power Users,by ClipTraining,Intermediate,3h 18m,13-Dec-22,NA
+https://www.pluralsight.com/courses/microsoft-edge-1,courses,Microsoft Edge,by ClipTraining,Beginner,2h 7m,20-Sep-22,NA
+https://www.pluralsight.com/courses/sharepoint-online-essentials,courses,SharePoint Online Essentials,by ClipTraining,Beginner,3h 14m,18-Aug-22,33
+https://www.pluralsight.com/courses/teams-essentials-2022,courses,Teams Essentials (2022),by ClipTraining,Beginner,1h 32m,18-Aug-22,NA
+https://www.pluralsight.com/courses/icagile-agile-fundamentals-knowledge-practice,courses,ICAgile Agile Fundamentals (ICP): Putting Your Knowledge into Practice,by Jeremy Jarrell,Beginner,41m,08-Sep-22,NA
+https://www.pluralsight.com/courses/becoming-great-product-owner,courses,Becoming a Great Product Owner,by Jeremy Jarrell,Beginner,58m,31-Aug-20,88
+https://www.pluralsight.com/courses/agile-practitioners-guide-quality-risk-management,courses,The Agile Practitioner's Guide to Quality and Risk Management,by Casey Ayers,Intermediate,3h 20m,06-Sep-23,NA
+https://www.pluralsight.com/courses/effective-project-leaders-skills,courses,The Skills of Effective Project Leaders,by Casey Ayers,Beginner,2h,06-Oct-22,34
+https://www.pluralsight.com/courses/pmp-right-for-me,courses,PMP®: Right for Me?,by Casey Ayers,Beginner,1h 22m,04-May-21,18
+https://www.pluralsight.com/courses/creating-culture-trust-your-team,courses,Creating a Culture of Trust on Your Team,by Madecraft,Beginner,1h 15m,11-Mar-24,NA
+https://www.pluralsight.com/courses/emotional-intelligence-leadership,courses,Leadership from Any Chair with Emotional Intelligence,by Madecraft,Beginner,1h 20m,01-Mar-24,NA
+https://www.pluralsight.com/courses/having-more-memorable-conversations,courses,Having More Memorable Conversations,by Madecraft,Beginner,1h 3m,05-Mar-24,NA
+https://www.pluralsight.com/courses/ai-office,courses,AI and Office,by ClipTraining,Intermediate,58m,12-Jul-23,NA
+https://www.pluralsight.com/courses/delivering-product-to-market,courses,Delivering Your Product to Market,by Casey Ayers,Beginner,1h 36m,10-Sep-20,42
+https://www.pluralsight.com/courses/getting-started-organization-agile-transformation,courses,Getting Started with Agile Transformation in Your Organization,by Casey Ayers,Beginner,1h 26m,25-Jun-20,11
+https://www.pluralsight.com/courses/big-picture-agile-transformation,courses,Agile Transformation: The Big Picture,by Casey Ayers,Beginner,1h 39m,24-Jun-20,102
+https://www.pluralsight.com/courses/microsoft-project-tracking-resources,courses,Tracking Progress and Using Resources and Costs in Microsoft Project,by Ben Howard,Intermediate,2h 37m,10-Jun-20,27
+https://www.pluralsight.com/courses/creating-culture-work-motivation,courses,Creating a Culture of Motivation at Work,by Madecraft,Beginner,10m,18-Mar-24,NA
+https://www.pluralsight.com/courses/delivering-value-product-ownership-analysis-cert,courses,Delivering Value with Product Ownership Analysis (IIBA®-CPOA),by Milena Pajic,Beginner,1h 56m,14-Jul-22,NA
+https://www.pluralsight.com/courses/strategies-building-cloud-education-program-ground,courses,Strategies for Building a Cloud Education Program from the Ground Up,by Pluralsight Navigate,Beginner,1h 7m,05-Dec-22,NA
+https://www.pluralsight.com/courses/workshop-measuring-impact-tech-skill-development,courses,Workshop: Measuring the Impact of Tech Skill Development,by Pluralsight Navigate,Beginner,53m,05-Dec-22,NA
+https://www.pluralsight.com/courses/aws-pluralsight-tech-talent-future-learning,courses,"AWS & Pluralsight: Tech, Talent, and the Future of Learning",by Pluralsight Navigate,Beginner,46m,05-Dec-22,NA
+https://www.pluralsight.com/courses/culture-cloud-innovation,courses,Creating a Culture of Cloud Innovation,by Pluralsight Navigate,Beginner,59m,05-Dec-22,NA
+https://www.pluralsight.com/courses/foundations-lean-six-sigma,courses,Lean Six Sigma Foundations,by Frederico Aranha,Beginner,2h 31m,28-Apr-20,1296
+https://www.pluralsight.com/courses/team-time-management-techniques,courses,Team Time Management Techniques,by Doru Catana,Beginner,1h 31m,28-Apr-20,40
+https://www.pluralsight.com/courses/icagile-icp-fdo-configuration-management,courses,ICAgile (ICP-FDO): Configuration Management,by Corneile Britz,Intermediate,40m,12-Nov-21,NA
+https://www.pluralsight.com/courses/adaptive-planning-agile-requirements-definition-practices,courses,Understanding Adaptive Planning and Agile Requirements Definition Practices,by Chuck Cobb,Intermediate,2h 1m,02-Jun-20,24
+https://www.pluralsight.com/courses/merging-predictive-prescriptive-analytics-data-literacy-executive-briefing,courses,Merging Predictive and Prescriptive Analytics with Data Literacy: Executive Briefing,by Jordan Morrow,Beginner,11m,08-Jan-20,49
+https://www.pluralsight.com/courses/yammer-2020,courses,Yammer (2020),by ClipTraining,Beginner,1h 48m,17-Apr-20,NA
+https://www.pluralsight.com/courses/sharepoint-online-pro-2020,courses,SharePoint Online Pro (2020),by ClipTraining,Intermediate,3h 28m,15-Sep-20,21
+https://www.pluralsight.com/courses/windows-10-foundations-2019,courses,Windows 10 Foundations (2019),by ClipTraining,Beginner,1h 44m,06-Jan-20,NA
+https://www.pluralsight.com/courses/windows-10-power-users-2019,courses,Windows 10 Power Users (2019),by ClipTraining,Intermediate,2h 12m,06-Jan-20,NA
+https://www.pluralsight.com/courses/outlook-web-2019,courses,Outlook on the Web (2019),by ClipTraining,Beginner,1h 6m,17-Dec-19,NA
+https://www.pluralsight.com/courses/sharepoint-online-pro,courses,SharePoint Online Pro,by ClipTraining,Intermediate,3h 52m,31-Mar-23,10
+https://www.pluralsight.com/courses/pluralsight-live-2020-open-source-way,courses,How the Open Source Way Promotes Creativity and Innovation,by Pluralsight LIVE,Beginner,16m,19-Oct-20,NA
+https://www.pluralsight.com/courses/liasing-saas-users-vendors,courses,Liaising with SaaS Users and Vendors,by Sonia Cuff,Intermediate,1h,19-Jul-18,NA
+https://www.pluralsight.com/courses/project-plus-right-for-me,courses,Project+: Right for Me?,by Casey Ayers,Beginner,1h 13m,08-Nov-22,NA
+https://www.pluralsight.com/courses/onenote-for-windows-10,courses,OneNote for Windows 10,by Heather Ackmann,Beginner,58m,10-May-19,41
+https://www.pluralsight.com/courses/project-2019-online-essentials,courses,Project 2019 Online Essentials,by Diane McSorley,Beginner,1h 47m,14-Oct-19,20
+https://www.pluralsight.com/courses/excel-2016-data,courses,Viewing and Manipulating Data in Excel 2016,by Diane McSorley,Intermediate,3h 34m,08-Sep-16,67
+https://www.pluralsight.com/courses/it-team-as-business-analyst,courses,Living in an IT Team as a Business Analyst,by Heather Mylan-Mains,Beginner,2h 20m,07-Dec-19,26
+https://www.pluralsight.com/courses/identifying-saas-operational-challenges-business,courses,Identifying SaaS Operational Challenges for the Business,by Sonia Cuff,Beginner,1h 22m,16-Apr-18,11
+https://www.pluralsight.com/courses/business-analysis-working-with-stakeholders,courses,Business Analysis: Working with Stakeholders Using Elicitation and Collaboration,by Casey Ayers,Intermediate,2h 3m,22-May-19,33
+https://www.pluralsight.com/courses/busy-tech-professional-productivity-tips,courses,Productivity Tips for the Busy Tech Professional,by Richard Seroter,Beginner,1h 16m,29-Sep-22,28
+https://www.pluralsight.com/courses/ps-live-2019-it-business-professionals,courses,Pluralsight LIVE 2019: Breakouts (Business Professionals),by Pluralsight LIVE,Intermediate,4h 10m,24-Sep-19,NA
+https://www.pluralsight.com/courses/microsoft-project-2021-fundamentals,courses,Microsoft Project 2021 Fundamentals,by Ben Howard,Beginner,1h 46m,27-Sep-23,NA
+https://www.pluralsight.com/courses/microsoft-project-advanced-resource-budget-cost,courses,"Advanced Resource, Budget, and Cost Management in Microsoft Project",by Ben Howard,Advanced,2h 32m,25-Feb-21,16
+https://www.pluralsight.com/courses/summarizing-organizing-data-excel,courses,Summarizing and Organizing Data in Excel,by Ben Howard,Beginner,1h 3m,20-Aug-19,194
+https://www.pluralsight.com/courses/preparing-cobit5-foundation-exam,courses,Preparing for the COBIT® 5 Foundation Exam,by Frederico Aranha,Beginner,57m,18-Jan-22,NA
+https://www.pluralsight.com/courses/diverse-inclusive-culture-improved-engagement,courses,Building a Diverse and Inclusive Culture through Improved Engagement,by Megan Andrew,Beginner,1h 8m,11-Jun-21,12
+https://www.pluralsight.com/courses/mindful-communication,courses,Mindful Communication,by Vesna Lakovic van Kempen,Beginner,29m,08-Dec-23,NA
+https://www.pluralsight.com/courses/profdev-series-managing-emotional-exhaustion,courses,Managing Emotional Exhaustion,by Vesna Lakovic van Kempen,Beginner,35m,12-Oct-23,10
+https://www.pluralsight.com/courses/service-design-conduct-interviews,courses,Service Design Conduct Interviews,by Oghenevovwero Enyoyi,Beginner,1h 18m,10-Dec-21,NA
+https://www.pluralsight.com/courses/working-communicating-with-different-personalities,courses,Working and Communicating with Different Personalities,by Jason Alba,Beginner,1h 54m,21-Jan-22,277
+https://www.pluralsight.com/courses/pluralsight-live-eu-2019-mainstage,courses,PLURALSIGHT LIVE EUROPE 2019: MAINSTAGE,by Pluralsight LIVE,Beginner,1h 57m,16-Jul-19,NA
+https://www.pluralsight.com/courses/microsoft-dynamics-365-customer-service,courses,Microsoft Dynamics 365 for Customer Service,by Amber Israelsen,Beginner,1h 33m,05-Feb-19,29
+https://www.pluralsight.com/courses/microsoft-dynamics-365-sales,courses,Microsoft Dynamics 365 for Sales,by Amber Israelsen,Beginner,1h 20m,18-Dec-18,36
+https://www.pluralsight.com/courses/pluralsight-live-2020-vuca,courses,What the VUCA? Digital responses to COVID-19,by Pluralsight LIVE,Beginner,42m,19-Oct-20,NA
+https://www.pluralsight.com/courses/pluralsight-live-2020-safety-culture,courses,Safety Culture & SESH: Bridging the Tech Gap with Pluralsight Skills,by Pluralsight LIVE,Beginner,39m,19-Oct-20,NA
+https://www.pluralsight.com/courses/service-design-service-blueprints,courses,Service Design Service Blueprints,by Gerry Scullion,Intermediate,1h 11m,28-Feb-22,NA
+https://www.pluralsight.com/courses/autocad-civil-3d-introduction-surveying-field-finish,courses,Introduction to Surveying: Field to Finish in AutoCAD Civil 3D,by Curtis Smith,Beginner,2h 55m,05-Dec-22,NA
+https://www.pluralsight.com/courses/camworks-milling-2dot5-3-axis-fundamentals,courses,CAMWorks Fundamentals - Milling 2.5 & 3 Axis,by Michael Buchli,Beginner,2h 31m,17-Dec-22,NA
+https://www.pluralsight.com/courses/vray-nuke-lighting-rendering-introduction-2493,courses,Introduction to Lighting and Rendering with V-Ray for NUKE,by Tony D'Agostino,Intermediate,3h 24m,01-Dec-22,10
+https://www.pluralsight.com/courses/revit-mechanical-systems-generating-fabrication-models,courses,Generating Fabrication Models from Revit Mechanical Systems,by Hendre Roesch,Intermediate,1h 4m,09-Dec-22,NA
+https://www.pluralsight.com/courses/deep-compositing-nuke-2268,courses,Deep Compositing in NUKE,by Tony D'Agostino,Advanced,1h 47m,31-Jul-21,12
+https://www.pluralsight.com/courses/indesign-cc-data-merge-variable-data-printing,courses,InDesign CC Data Merge and Variable Data Printing,by Pariah Burke,Intermediate,2h 1m,12-Dec-22,NA
+https://www.pluralsight.com/courses/your-first-day-wordpress-cms-1832,courses,Your First Day with WordPress CMS,by Susan Simkins,Beginner,2h 47m,31-Jul-21,189
+https://www.pluralsight.com/courses/physically-based-rendering-substance-painter-2233,courses,Physically-based Rendering in Substance Painter,by Gaetan Lassagne,Advanced,2h 22m,31-Jul-21,NA
+https://www.pluralsight.com/courses/animate-cc-mobile-app-development,courses,Animate CC Mobile App Development,by Joseph Labrecque,Intermediate,5h 20m,13-Dec-22,NA
+https://www.pluralsight.com/courses/acrobat-dc-forms,courses,Acrobat DC Working with Forms,by Bill Carberry,Beginner,4h 22m,21-Dec-22,NA
+https://www.pluralsight.com/courses/3ds-max-2011-motion-graphics-585,courses,3ds Max 2011 for Motion Graphics,by Chris Glick,Advanced,4h 53m,12-Mar-19,NA
+https://www.pluralsight.com/courses/unity-2018-2d-physics-fundamentals,courses,Unity 2D Physics Fundamentals,by Michael Taylor,Beginner,1h 17m,12-Jul-24,16
+https://www.pluralsight.com/courses/professional-site-design-plan-production-autocad-1934,courses,Professional Site Design and Plan Production in AutoCAD,by Curtis Smith,Advanced,2h 48m,31-Jul-21,12
+https://www.pluralsight.com/courses/designing-rocket-3d-printing-tinkercad-1986,courses,Designing a Rocket for 3D Printing in Tinkercad,by Samer Najia,Intermediate,2h 20m,31-Jul-21,NA
+https://www.pluralsight.com/courses/getting-started-solidworks-1212,courses,Getting Started in SolidWorks,by Dave Urasky,Beginner,1h 53m,31-Jul-21,16
+https://www.pluralsight.com/courses/work-planes-reference-planes-revit-1318,courses,Work Planes and Reference Planes in Revit,by Pierre Derenoncourt,Beginner,33m,31-Jul-21,NA
+https://www.pluralsight.com/courses/cinema-4d-dynamics-fundamentals,courses,CINEMA 4D Dynamics Fundamentals,by Alan Demafiles,Beginner,4h 21m,06-Dec-22,12
+https://www.pluralsight.com/courses/autodesk-alias-sketching-sports-car,courses,Sketching a Sports Car Using Autodesk Alias,by Cornelis Steenstra,Beginner,2h 12m,07-Dec-22,NA
+https://www.pluralsight.com/courses/realistic-insect-crowd-simulation-maya-1636,courses,Creating a Realistic Insect Crowd Simulation in Maya,by William Dwelly,Advanced,3h 47m,31-Jul-21,NA
+https://www.pluralsight.com/courses/monster-sculpting-techniques-zbrush-776,courses,Monster Sculpting Techniques in ZBrush,by Fabrizio Bortolussi,Advanced,3h 21m,28-Feb-19,NA
+https://www.pluralsight.com/courses/dynamic-grappling-hook-houdini-2136,courses,Creating a Dynamic Grappling Hook in Houdini,by Sam Rickles,Advanced,2h 40m,31-Jul-21,NA
+https://www.pluralsight.com/courses/designing-char-mobile-games-zbrush-2393,courses,Designing a Character for Mobile Games in ZBrush,by Daniel da Costa,Advanced,2h 30m,31-Jul-21,NA
+https://www.pluralsight.com/courses/modeling-realistic-helicopter-lightwave-3d-1943,courses,Modeling a Realistic Helicopter in LightWave 3D,by Phil Nolan,Advanced,4h 27m,31-Jul-21,NA
+https://www.pluralsight.com/courses/using-cloth-simulations-mechanical-rig-maya-1550,courses,Using Cloth Simulations with a Mechanical Rig in Maya,by David Knight,Advanced,2h 34m,31-Jul-21,NA
+https://www.pluralsight.com/courses/exploring-different-explosion-types-fumefx-1085,courses,Exploring Different Explosion Types in 3ds Max and FumeFX,by Haji Gadirov,Advanced,1h 23m,31-Jul-21,NA
+https://www.pluralsight.com/courses/photorealistic-female-3ds-max-706,courses,Rendering a Photorealistic Female in 3ds Max,by Andrius Balciunas,Advanced,1h 49m,28-Feb-19,NA
+https://www.pluralsight.com/courses/integrating-3d-vehicle-into-video-maya-nuke-1158,courses,Integrating a 3D Vehicle into Video in Maya and NUKE,by Rajiv Sharma,Advanced,2h 11m,31-Jul-21,NA
+https://www.pluralsight.com/courses/unity-beyond-basics-audio-tips-tricks,courses,Beyond the Basics - Audio Tips and Tricks in Unity,by Jeanine Cowen,Intermediate,2h 5m,02-Dec-22,NA
+https://www.pluralsight.com/courses/bring-website-life-edge-animate-1726,courses,Bringing Your Website to Life with Edge Animate,by Alex Hernandez,Beginner,1h,31-Jul-21,NA
+https://www.pluralsight.com/courses/twod-animated-char-unity-2299,courses,Creating a 2D Animated Character for Unity,by Shane Whelan,Intermediate,3h 52m,31-Jul-21,19
+https://www.pluralsight.com/courses/modeling-an-articulated-char-3d-printing-maya-2402,courses,Modeling an Articulated Character for 3D Printing with Maya,by Alex Rude,Beginner,1h 35m,31-Jul-21,NA
+https://www.pluralsight.com/courses/sci-fi-set-modeling-maya-895,courses,Sci-Fi Set Modeling in Maya,by Ashish Dani,Advanced,3h 28m,31-Jul-21,NA
+https://www.pluralsight.com/courses/an-endless-runner-game-mobile-unity-1764,courses,Creating an Endless Runner Game for Mobile in Unity,by Lars Alin,Advanced,1h 47m,06-Aug-18,32
+https://www.pluralsight.com/courses/swords-shovels-loot-system,courses,Swords and Shovels: Loot System,by Christopher Pellow,Intermediate,1h 31m,13-Oct-20,41
+https://www.pluralsight.com/courses/creative-perspective-techniques-artists-photoshop-1020,courses,Creative Perspective Techniques for Artists in Photoshop CS6,by Kurt Jones,Intermediate,1h 44m,08-Sep-16,NA
+https://www.pluralsight.com/courses/beginning-2d-computer-animation-after-effects,courses,Beginning 2D Computer Animation in After Effects,by Joshua Samson,Beginner,54m,31-Jul-21,32
+https://www.pluralsight.com/courses/manipulating-3d-geometry-autocad-1660,courses,Creating and Manipulating 3D Geometry in AutoCAD,by Pierre Derenoncourt,Beginner,57m,31-Jul-21,NA
+https://www.pluralsight.com/courses/comic-book-cover-illustrator-photoshop-2170,courses,Creating a Comic Book Cover in Illustrator and Photoshop,by Marcus Kiser,Advanced,2h 16m,01-Jun-18,NA
+https://www.pluralsight.com/courses/rendering-day-night-section-views-3ds-max-v-ray-1998,courses,Rendering Day and Night Section Views in 3ds Max and V-Ray,by Andy Butler,Advanced,3h 9m,31-Jul-21,NA
+https://www.pluralsight.com/courses/custom-dvd-premiere-pro-encore-1454,courses,Creating a Custom DVD in Premiere Pro and Encore,by Ron Friedman,Beginner,1h 21m,31-Jul-21,NA
+https://www.pluralsight.com/courses/inventor-advanced-filleting-techniques,courses,Inventor: Advanced Filleting Techniques,by Matt Perez,Advanced,56m,02-Dec-22,NA
+https://www.pluralsight.com/courses/motion-flow-rigging-maya-73,courses,Motion Flow Rigging in Maya,by Farley Chery,Advanced,7h 14m,14-Mar-19,NA
+https://www.pluralsight.com/courses/modeling-cocktail-ring-rhino-2055,courses,Modeling a Cocktail Ring in Rhino,by Jean Gorospe,Advanced,2h 59m,31-Jul-21,NA
+https://www.pluralsight.com/courses/vr-interaction-fundamentals,courses,VR Interaction Fundamentals,by Eric Weiss,Intermediate,1h 59m,20-Dec-22,NA
+https://www.pluralsight.com/courses/roofs-revit-1319,courses,Creating Roofs in Revit,by Pierre Derenoncourt,Beginner,42m,31-Jul-21,NA
+https://www.pluralsight.com/courses/stylized-textures-low-poly-models-photoshop-1683,courses,Creating Stylized Textures for Low Poly Models in Photoshop,by Lee Magalhaes,Advanced,2h 11m,01-May-18,NA
+https://www.pluralsight.com/courses/complex-surface-modeling-rhino-1713,courses,Complex Surface Modeling in Rhino,by Josh Lobel,Advanced,4h 27m,31-Jul-21,NA
+https://www.pluralsight.com/courses/prototype-eyewear-rhino-1677,courses,Creating a Prototype for Eyewear in Rhino,by Gamal Prather,Advanced,2h 59m,31-Jul-21,NA
+https://www.pluralsight.com/courses/dragon-scroll-asset-zbrush-1651,courses,Sculpting a Dragon Scroll Asset in ZBrush,by Pierre Rogers,Intermediate,3h 33m,31-Jul-21,NA
+https://www.pluralsight.com/courses/stylized-art-isometric-games-3ds-max-2230,courses,Creating Stylized Art for Isometric Games in 3ds Max,by Zaheer Mukhtar,Intermediate,1h 53m,31-Jul-21,27
+https://www.pluralsight.com/courses/techniques-sculpting-like-masters-zbrush-1357,courses,Techniques for Sculpting Like the Masters in ZBrush,by Jonathan Sabella,Advanced,2h 9m,31-Jul-21,NA
+https://www.pluralsight.com/courses/game-ready-tommy-gun-3ds-max-1084,courses,Creating a Game-ready Tommy Gun in 3ds Max,by Pluralsight,Advanced,6h 53m,22-Feb-19,NA
+https://www.pluralsight.com/courses/an-interior-walkthrough-unreal-engine-3ds-max-2157,courses,Creating an Interior Walkthrough in Unreal Engine and 3ds Max,by Chris Jennings,Advanced,4h,31-Jul-21,24
+https://www.pluralsight.com/courses/intro-dynamic-oceans-houdini-2116,courses,Introduction to Dynamic Oceans in Houdini,by John Moncrief,Beginner,1h 54m,31-Jul-21,12
+https://www.pluralsight.com/courses/lightroom-classic-cc-updates,courses,Lightroom Classic CC Updates,by D.A. Wagner,Beginner,34m,16-Dec-22,NA
+https://www.pluralsight.com/courses/autocad-lt-2018-essentials,courses,AutoCAD LT 2018 Essentials,by Jaiprakash Pandey,Beginner,4h 51m,17-Dec-22,11
+https://www.pluralsight.com/courses/innovative-package-design-theory,courses,Innovative Package Design Theory,by Simona Pfreundner,Intermediate,1h 21m,02-Dec-22,NA
+https://www.pluralsight.com/courses/photoshop-cc-video-editing,courses,Photoshop CC Video Editing,by Anastasia Mouyis,Intermediate,58m,15-Dec-22,23
+https://www.pluralsight.com/courses/maya-arnold-studio-lighting-techniques,courses,Studio Lighting Techniques with Maya and Arnold,by Simon Brown,Intermediate,2h 6m,20-Dec-22,34
+https://www.pluralsight.com/courses/solidworks-advanced-mates,courses,SOLIDWORKS - Advanced Mates,by Tim Strange,Advanced,1h 4m,02-Dec-22,NA
+https://www.pluralsight.com/courses/archicad-applying-filters,courses,Applying Filters in ARCHICAD,by Quinton Cooper,Beginner,1h 35m,02-Dec-22,NA
+https://www.pluralsight.com/courses/liquid-markup-adobe-business-catalyst,courses,Introduction to Liquid Markup for Adobe Business Catalyst,by Scott Reynolds,Beginner,1h 1m,16-Dec-22,NA
+https://www.pluralsight.com/courses/premiere-pro-cc-2018-updates,courses,Premiere Pro CC 2018 Updates,by Jason Cox,Intermediate,1h 33m,09-Dec-22,NA
+https://www.pluralsight.com/courses/photoshop-cc-color-management,courses,Photoshop CC Color Management,by Andrew Rodney,Intermediate,2h 50m,13-Dec-22,19
+https://www.pluralsight.com/courses/adobe-cc-color-grading-tips,courses,Adobe CC Color Grading Tips,by Chad Troftgruben,Intermediate,2h 14m,16-Dec-22,NA
+https://www.pluralsight.com/courses/after-effects-cc-puppet-tool,courses,After Effects CC Puppet Tool,by Jason Cox,Intermediate,2h 13m,20-Dec-22,12
+https://www.pluralsight.com/courses/expressive-face-hand-hybrid-animation,courses,Expressive Face and Hand Hybrid Animation,by Mark Butler,Advanced,1h 4m,06-Dec-22,NA
+https://www.pluralsight.com/courses/civil-3d-assemblies-corridor-modeling-fundamentals,courses,Civil 3D Assemblies & Corridor Modeling Fundamentals,by Curtis Smith,Beginner,3h 49m,08-Dec-22,NA
+https://www.pluralsight.com/courses/fusion-360-get-started-assemblies,courses,Get Started with Assemblies in Autodesk Fusion 360,by Jonathan Kriek,Beginner,22m,08-Dec-22,21
+https://www.pluralsight.com/courses/product-image-photoshop-2017,courses,Compositing a Product Image in Photoshop,by Josh Manore,Advanced,2h 19m,31-Jul-21,NA
+https://www.pluralsight.com/courses/illustrator-cc-crafting-visual-identity-2441,courses,Crafting a Visual Identity in Illustrator CC,by Gary Simon,Beginner,1h 30m,31-Jul-21,19
+https://www.pluralsight.com/courses/utilizing-flash-motion-graphics-1831,courses,Utilizing Flash for Motion Graphics,by Alex Hernandez,Beginner,1h 58m,06-Dec-17,NA
+https://www.pluralsight.com/courses/high-speed-camera-effect-after-effects-1845,courses,Creating a High-Speed Camera Effect with After Effects,by Alex Hernandez,Beginner,1h 43m,31-Jul-21,NA
+https://www.pluralsight.com/courses/maya-2019-introduction-csharp-plugin-development,courses,Introduction to C# Plug-in Development for Maya 2019,by Joshua Gaines,Intermediate,1h 35m,01-Dec-22,NA
+https://www.pluralsight.com/courses/illustratoring-laura-coyle,courses,Illustratoring with Laura Coyle,by Laura Coyle,Intermediate,2h 36m,07-Dec-22,NA
+https://www.pluralsight.com/courses/maya-fumefx-explosions,courses,Explosions with Maya and FumeFX,by Joel Berg,Intermediate,2h 37m,12-Mar-19,NA
+https://www.pluralsight.com/courses/wedding-filmmaking-fundamentals,courses,Wedding Filmmaking Fundamentals,by Dallin Seely,Beginner,1h 29m,13-Dec-22,10
+https://www.pluralsight.com/courses/an-action-adventure-3rd-person-puzzle-udk-1463,courses,Creating an Action-adventure 3rd Person Puzzle in UDK,by Christian Chang,Advanced,2h 17m,09-Jul-19,NA
+https://www.pluralsight.com/courses/architectural-visualization-cinema-4d-v-ray-180,courses,Architectural Visualization in CINEMA 4D and V-Ray,by Adam Chase,Advanced,3h 24m,31-Jul-21,NA
+https://www.pluralsight.com/courses/mixed-media-illustration-photoshop-painter-2139,courses,Creating a Mixed Media Illustration in Photoshop and Painter,by Igor Scekic,Advanced,2h 1m,08-Sep-16,NA
+https://www.pluralsight.com/courses/environment-concepts-characters-photoshop-884,courses,Environment Concepts for Characters in Photoshop,by Ismail Wamala,Advanced,1h 31m,01-May-18,NA
+https://www.pluralsight.com/courses/stereoscopy-basics-entering-third-dimension-1295,courses,Stereoscopy Basics: Entering the Third Dimension,by Anandh Ramesh,Advanced,2h 10m,31-Jul-21,NA
+https://www.pluralsight.com/courses/introduction-light-shading-harmony-premium-2293,courses,Introduction to Light Shading in Harmony Premium,by Kurt Jones,Intermediate,2h 2m,31-Jul-21,NA
+https://www.pluralsight.com/courses/utilizing-presentation-files-representations-inventor-1389,courses,Utilizing Presentation Files and Representations in Inventor,by Dan Halsell,Advanced,1h 30m,31-Jul-21,NA
+https://www.pluralsight.com/courses/drawing-site-plan-autocad-1571,courses,Drawing a Site Plan in AutoCAD,by Pierre Derenoncourt,Beginner,1h 41m,31-Jul-21,NA
+https://www.pluralsight.com/courses/master-art-toning-black-white-photographs,courses,Master the Art of Toning Black and White Photographs,by Kasia Zmokla,Intermediate,1h 32m,12-Dec-22,17
+https://www.pluralsight.com/courses/executing-an-context-assembly-design-solidworks-1674,courses,Executing an In-context Assembly Design in SolidWorks,by Chris Scarlett,Advanced,2h 22m,31-Jul-21,NA
+https://www.pluralsight.com/courses/scripting-python-houdini-1855,courses,Scripting with Python in Houdini,by Chris Roda,Advanced,2h 35m,31-Jul-21,NA
+https://www.pluralsight.com/courses/windmill-blade-solidworks-1990,courses,Creating a Windmill Blade in SolidWorks,by Chris Scarlett,Advanced,1h 41m,31-Jul-21,NA
+https://www.pluralsight.com/courses/digitally-painting-illustrations-photoshop-1723,courses,Digitally Painting Vivid Illustrations in Photoshop,by Valp Maciej Hajnrich,Advanced,2h 13m,04-Sep-18,NA
+https://www.pluralsight.com/courses/design-action-comp-illustrator-2096,courses,Designing an Action Composition in Illustrator,by Marcus Kiser,Advanced,2h 31m,27-Nov-18,NA
+https://www.pluralsight.com/courses/mastering-css-animations-2135,courses,Mastering CSS Animations,by Gary Simon,Advanced,1h 34m,31-Jul-21,47
+https://www.pluralsight.com/courses/insight360-revit-introduction-lighting-analysis,courses,Introduction to Lighting Analysis with Insight 360 & Revit,by John Pierson,Beginner,2h 3m,09-Dec-22,NA
+https://www.pluralsight.com/courses/onshape-essentials-design-molded-casted-parts,courses,Onshape Essentials: Designing Molded and Casted Parts,by Jason Durfee,Beginner,1h 26m,01-Dec-22,NA
+https://www.pluralsight.com/courses/solidworks-simulation-linear-static-assembly-analysis,courses,SOLIDWORKS Simulation - Linear Static Assembly Analysis,by Corey Bower,Beginner,58m,17-Dec-22,NA
+https://www.pluralsight.com/courses/solidworks-sheet-metal-enclosure-part-design-2403,courses,SOLIDWORKS Sheet Metal - Enclosure Part Design,by Chris Scarlett,Intermediate,2h 13m,31-Jul-21,NA
+https://www.pluralsight.com/courses/an-adaptive-responsive-layout-axure-1757,courses,Creating an Adaptive and Responsive Layout in Axure,by Antonia Anni,Advanced,1h 12m,31-Jul-21,24
+https://www.pluralsight.com/courses/logo-ios-icons-mobile-app-illustrator-2324,courses,Creating a Logo and iOS Icons for a Mobile App in Illustrator,by Anthony Putrino,Advanced,1h 9m,08-Sep-16,36
+https://www.pluralsight.com/courses/being-an-effective-animation-supervisor-1162,courses,Being an Effective Animation Supervisor,by Ron Friedman,Advanced,1h 37m,31-Jul-21,NA
+https://www.pluralsight.com/courses/fusion-360-file-structure-management,courses,Fusion 360 - File Structure and Management,by Matt Perez,Intermediate,1h 23m,13-Dec-22,NA
+https://www.pluralsight.com/courses/modeling-roof-formations-structures-materials-revit-1895,courses,"Modeling Roof Formations, Structures and Materials in Revit",by Pierre Derenoncourt,Intermediate,1h 35m,21-Dec-22,NA
+https://www.pluralsight.com/courses/sculpting-human-torsos-zbrush-1202,courses,Sculpting Human Torsos in ZBrush,by Lee Magalhaes,Advanced,2h 58m,31-Jul-21,19
+https://www.pluralsight.com/courses/zbrush-advanced-array-mesh-techniques,courses,Advanced Array Mesh Techniques in ZBrush,by Gabriele Maiocco,Intermediate,3h 52m,16-Dec-22,10
+https://www.pluralsight.com/courses/solving-common-issues-matchmoving-pftrack-maya-1887,courses,Solving Common Issues with Matchmoving in PFTrack and Maya,by Michael Raphaelovich,Intermediate,1h 21m,31-Jul-21,NA
+https://www.pluralsight.com/courses/solidworks-simulation-troubleshooting-common-errors,courses,SOLIDWORKS Simulation - Troubleshooting Common Errors,by Shivani Patel,Beginner,58m,01-Dec-22,NA
+https://www.pluralsight.com/courses/introduction-toon-boom-harmony-premium-2187,courses,Introduction to Toon Boom Harmony Premium,by Kurt Jones,Beginner,5h 41m,31-Jul-21,NA
+https://www.pluralsight.com/courses/poseable-2d-char-illustrator-2004,courses,Creating a Poseable 2D Character in Illustrator,by Alex Hernandez,Beginner,1h 38m,31-Jul-21,10
+https://www.pluralsight.com/courses/zbrush-keyshot-designing-hard-surface-characters,courses,Designing Hard Surface Characters with ZBrush and Keyshot,by Rafael Duffie,Intermediate,2h 2m,09-Dec-22,10
+https://www.pluralsight.com/courses/sculpting-anatomy-females-zbrush-834,courses,Sculpting Anatomy for Females in ZBrush,by Cezar Brandao,Advanced,6h 50m,31-Jul-21,10
+https://www.pluralsight.com/courses/modeling-dynamics-houdini-maya-2130,courses,Modeling For Dynamics In Houdini and Maya,by John Moncrief,Beginner,1h 14m,31-Jul-21,13
+https://www.pluralsight.com/courses/wheel-blade-bracket-solidworks-1836,courses,Creating a Wheel Blade Bracket in SolidWorks,by Chris Scarlett,Advanced,2h 1m,31-Jul-21,NA
+https://www.pluralsight.com/courses/houdini-exploring-sop-solver,courses,Exploring Houdini's SOP Solver,by Kolt Wilson,Intermediate,2h 12m,02-Dec-22,20
+https://www.pluralsight.com/courses/animating-advanced-body-mechanics-maya-1488,courses,Animating Advanced Body Mechanics in Maya,by Rodolfo Baez,Advanced,6h 26m,31-Jul-21,NA
+https://www.pluralsight.com/courses/conceptualizing-interior-designs-photoshop-1342,courses,Conceptualizing Interior Designs in Photoshop,by Kurt Jones,Intermediate,2h 9m,02-Feb-18,NA
+https://www.pluralsight.com/courses/realistic-candle-flame-maya-1383,courses,Creating a Realistic Candle Flame in Maya,by Pankaj Malik,Advanced,1h 32m,31-Jul-21,NA
+https://www.pluralsight.com/courses/modeling-press-frame-support-assembly-solidworks-1759,courses,Modeling a Press Frame Support Assembly in SolidWorks,by Chris Scarlett,Advanced,3h 5m,31-Jul-21,NA
+https://www.pluralsight.com/courses/avatar-photo-reference-831,courses,Creating a 2D Avatar from a Photo Reference,by Kurt Jones,Intermediate,1h 40m,28-Feb-19,NA
+https://www.pluralsight.com/courses/premiere-pro-cc-tips,courses,Premiere Pro CC Tips,by Chad Troftgruben,Beginner,3h 57m,05-Dec-22,NA
+https://www.pluralsight.com/courses/workflow-tips-web-design-photoshop-1664,courses,Workflow Tips for Web Design in Photoshop,by Kurt Jones,Beginner,1h 4m,27-Nov-17,NA
+https://www.pluralsight.com/courses/real-time-aging-decay-games-udk-photoshop-1524,courses,Real-Time Aging and Decay for Games in UDK and Photoshop,by Clinton Crumpler,Advanced,2h 49m,02-Jul-18,NA
+https://www.pluralsight.com/courses/editing-dialogue-premiere-pro-2197,courses,Editing Dialogue in Premiere Pro,by Joshua Samson,Beginner,1h 38m,31-Jul-21,NA
+https://www.pluralsight.com/courses/maya-dynamics-combining-ncloth-bifrost,courses,Maya Dynamics: Combining nCloth and Bifrost,by Todd Palamar,Intermediate,1h 32m,14-Dec-22,NA
+https://www.pluralsight.com/courses/solidworks-consumer-product-surfacing-design-techniques,courses,SOLIDWORKS: Consumer Product Surfacing Design Techniques,by Matt Perez,Advanced,3h 44m,06-Dec-22,NA
+https://www.pluralsight.com/courses/working-drawings-construction-documents-autocad-1534,courses,Creating Working Drawings for Your Construction Documents in AutoCAD,by Pierre Derenoncourt,Beginner,1h 26m,31-Jul-21,NA
+https://www.pluralsight.com/courses/cartoon-style-char-blender-1982,courses,Creating a Cartoon-style Character in Blender,by Costas Frost,Intermediate,3h 58m,31-Jul-21,32
+https://www.pluralsight.com/courses/swords-shovels-prototyping-game-systems,courses,Prototyping Game Systems for Swords and Shovels,by MJ Johns,Intermediate,2h 26m,14-Dec-22,23
+https://www.pluralsight.com/courses/revit-collaboration-worksharing,courses,Collaboration in Revit: Worksharing,by Kory Cox,Beginner,35m,05-Dec-22,NA
+https://www.pluralsight.com/courses/setting-construction-phases-revit-1411,courses,Setting Construction Phases in Revit,by Pierre Derenoncourt,Beginner,31m,31-Jul-21,NA
+https://www.pluralsight.com/courses/fusion-360-simulation-getting-started,courses,Fusion 360 – Getting Started with Simulation,by Matt Perez,Intermediate,1h 33m,07-Dec-22,NA
+https://www.pluralsight.com/courses/designing-electrical-circuits-revit-1485,courses,Designing Electrical Circuits in Revit,by Pierre Derenoncourt,Beginner,49m,31-Jul-21,NA
+https://www.pluralsight.com/courses/solidworks-design-communication-documents-consumer-products,courses,SOLIDWORKS - Design Communication Documentation - Consumer Products,by Robert Murdock,Intermediate,1h 22m,15-Dec-22,NA
+https://www.pluralsight.com/courses/transformable-flying-car-maya-silo-1293,courses,Creating a Transformable Flying Car in Maya and Silo,by Antony Ward,Advanced,4h 17m,31-Jul-21,NA
+https://www.pluralsight.com/courses/responsive-product-emails-photoshop-1962,courses,Creating Responsive Product Emails in Photoshop and HTML,by Andy Mitchell,Intermediate,2h 31m,02-Feb-18,NA
+https://www.pluralsight.com/courses/inventor-essentials-visual-styles-visualization-graphics,courses,"Inventor Essentials - Visual Styles, Visualization, and Graphics",by Neil Cross,Beginner,2h 31m,16-Dec-22,NA
+https://www.pluralsight.com/courses/unity-2d-physics-fundamentals,courses,Unity 2D Physics Fundamentals,by Michael Taylor,Beginner,1h 33m,01-Dec-22,20
+https://www.pluralsight.com/courses/guerrilla-commercial-design-concept-maya-617,courses,Guerrilla Commercial Design Concept in Maya,by Ed Whetstone,Advanced,2h 20m,12-Mar-19,NA
+https://www.pluralsight.com/courses/compositing-teleportation-effect-after-effects-1092,courses,Compositing a Teleportation Effect in After Effects,by Brad Groatman,Advanced,2h 55m,09-Jul-19,NA
+https://www.pluralsight.com/courses/simulating-flamethrower-effect-maya-1915,courses,Simulating a Flamethrower Effect in Maya,by Pankaj Malik,Advanced,1h 26m,31-Jul-21,11
+https://www.pluralsight.com/courses/unreal-designing-motion-controller-experiences,courses,Designing Motion Controller Experiences in Unreal,by Nathan Glemboski,Intermediate,1h 44m,05-Dec-22,NA
+https://www.pluralsight.com/courses/working-construction-template-revit-1746,courses,Working in the Construction Template in Revit,by Pierre Derenoncourt,Beginner,50m,31-Jul-21,NA
+https://www.pluralsight.com/courses/taking-modeling-skills-next-level-rhino-1672,courses,Taking Your Modeling Skills to the Next Level in Rhino,by Adam Fairless,Advanced,3h 41m,31-Jul-21,NA
+https://www.pluralsight.com/courses/swords-shovels-character-controller-ai,courses,Swords and Shovels Character Controller and AI,by Michael Baker,Intermediate,54m,14-Dec-22,70
+https://www.pluralsight.com/courses/joint-based-facial-rigging-maya-1133,courses,Joint-based Facial Rigging in Maya,by Tim Callaway,Advanced,3h 26m,31-Jul-21,16
+https://www.pluralsight.com/courses/aggregating-data-across-documents-mongodb,courses,Aggregating Data across Documents in MongoDB 4,by Axel Sirota,Advanced,1h 51m,02-Mar-22,35
+https://www.pluralsight.com/courses/clean-transform-and-load-data-power-bi,courses,"Clean, Transform, and Load Data with Power BI",by Thomas LeBlanc,Intermediate,1h,17-Dec-22,45
+https://www.pluralsight.com/courses/kafka-connect-fundamentals,courses,Kafka Connect Fundamentals,by Bogdan Sucaciu,Intermediate,2h 14m,24-Dec-19,52
+https://www.pluralsight.com/courses/build-first-dashboard-power-bi,courses,Build Your First Dashboard with Power BI,by Matthew Calderwood,Beginner,1h 28m,16-Jul-20,50
+https://www.pluralsight.com/courses/discovering-business-analysis-information-through-elicitation,courses,Discovering Business Analysis Information Through Elicitation,by Casey Ayers,Beginner,2h 35m,13-Dec-16,55
+https://www.pluralsight.com/courses/building-first-scikit-learn-solution,courses,Building Your First scikit-learn Solution,by Janani Ravi,Beginner,2h 7m,02-May-19,125
+https://www.pluralsight.com/courses/visualizing-data-pivotcharts,courses,Visualizing Data with PivotCharts,by Ben Howard,Advanced,1h 18m,11-Dec-19,156
+https://www.pluralsight.com/courses/data-literacy-essentials-microsoft-azure-cognitive-services,courses,Data Literacy: Essentials of Microsoft Azure Cognitive Services,by JS Padoan,Beginner,38m,25-May-21,53
+https://www.pluralsight.com/courses/tableau-desktop-building-effective-dashboards,courses,Building Effective Dashboards with Tableau Desktop,by Pooja Crahen,Advanced,3h 18m,11-Oct-19,53
+https://www.pluralsight.com/courses/sql-server-optimize-data-manipulation-performance,courses,Optimize Data Manipulation Performance in SQL Server,by Pinal Dave,Beginner,27m,21-Feb-24,NA
+https://www.pluralsight.com/courses/sql-server-advanced-query-optimization-techniques,courses,Advanced Query Optimization Techniques in SQL Server,by Pinal Dave,Beginner,30m,27-Jan-24,14
+https://www.pluralsight.com/courses/managing-users-roles-privileges-oracle,courses,"Managing Users, Roles, and Privileges with Oracle",by Agaba Philip,Intermediate,38m,23-Nov-22,NA
+https://www.pluralsight.com/courses/sql-server-query-tuning-action-real-world-scenarios,courses,Real-world Scenarios: SQL Server Query Tuning in Action,by Pinal Dave,Beginner,29m,05-Mar-24,NA
+https://www.pluralsight.com/courses/sql-server-transactions-getting-started,courses,Getting Started with SQL Server Transactions,by Dayo Bamikole,Beginner,31m,15-Mar-24,NA
+https://www.pluralsight.com/courses/sql-server-advanced-hierarchical-data-management,courses,Advanced Hierarchical Data Management in SQL Server,by Pinal Dave,Beginner,32m,13-Mar-24,NA
+https://www.pluralsight.com/courses/sql-server-stored-procedures-automate-data-workflows,courses,Automate Data Workflows with SQL Server Stored Procedures,by Pinal Dave,Beginner,24m,21-Feb-24,NA
+https://www.pluralsight.com/courses/langchain-intro-data-professionals,courses,Introduction to LangChain for Data Professionals,by Pinal Dave,Intermediate,38m,07-Dec-23,19
+https://www.pluralsight.com/courses/sql-server-advanced-data-retrieval-techniques,courses,Advanced Data Retrieval Techniques in SQL Server,by Pinal Dave,Beginner,26m,13-Feb-24,11
+https://www.pluralsight.com/courses/introduction-sql-server,courses,Introduction to SQL Server,by Ben Weissman,Beginner,1h 1m,12-Jul-23,41
+https://www.pluralsight.com/courses/ssrs-data-sourcing-playbook,courses,SSRS Data Sourcing Playbook,by Amruta Mahajan,Beginner,1h 40m,14-Dec-20,13
+https://www.pluralsight.com/courses/t-sql-data-manipulation-playbook,courses,T-SQL Data Manipulation Playbook,by Xavier Morera,Intermediate,2h 54m,27-Sep-19,100
+https://www.pluralsight.com/courses/build-first-data-visualization-epoch,courses,Build Your First Data Visualization with Epoch,by Pinal Dave,Beginner,40m,01-Feb-21,14
+https://www.pluralsight.com/courses/build-first-data-visualization-fusioncharts,courses,Build Your First Data Visualization with FusionCharts,by Pinal Dave,Beginner,47m,29-Jun-20,11
+https://www.pluralsight.com/courses/build-first-data-visualization-google-charts,courses,Build Your First Data Visualization with Google Charts,by Pinal Dave,Beginner,48m,26-Mar-20,12
+https://www.pluralsight.com/courses/identifying-understanding-business-problems-data-scientists,courses,Identifying and Understanding Business Problems for Data Scientists,by Pinal Dave,Intermediate,26m,16-Jan-24,NA
+https://www.pluralsight.com/courses/time-series-sequences-predictions-tensorflow-developer-cert,courses,"TensorFlow Developer Certificate - Time Series, Sequences, and Predictions",by Pinal Dave,Beginner,1h 6m,27-Nov-23,NA
+https://www.pluralsight.com/courses/tableau-desktop-collecting-preparing-data,courses,Collecting and Preparing Data for Tableau Desktop,by Pooja Crahen,Beginner,1h 23m,05-Feb-20,144
+https://www.pluralsight.com/courses/build-first-dashboard-idashboards,courses,Build Your First Dashboard with iDashboards,by Tim Boles,Beginner,44m,23-Dec-20,NA
+https://www.pluralsight.com/courses/sql-server-functions-smart-data-handling,courses,SQL Server Functions for Smart Data Handling,by Pinal Dave,Beginner,24m,16-Feb-24,NA
+https://www.pluralsight.com/courses/data-sec-champ-sql-injection-prevention,courses,Data Security Champion: SQL Injection and Prevention,by Laurentiu Raducu,Beginner,9m,01-Feb-24,NA
+https://www.pluralsight.com/courses/building-apex-applications-different-data-formats,courses,Building APEX Applications with Different Data Formats,by Tim Boles,Beginner,1h 4m,05-May-20,14
+https://www.pluralsight.com/courses/rnns-deep-learning-sequences-time-series,courses,Recurrent Neural Networks (RNNs): Deep Learning for Sequences and Time Series,by Pinal Dave,Beginner,31m,03-Jan-24,10
+https://www.pluralsight.com/courses/snowpro-core-snowflake-cloud-data-platform-features-architecture,courses,SnowPro Core: Snowflake Cloud Data Platform Features and Architecture,by Pinal Dave,Beginner,1h 2m,01-Nov-23,11
+https://www.pluralsight.com/courses/grouping-data-bins-categories,courses,Grouping Data into Bins and Categories,by Pinal Dave,Beginner,53m,10-Oct-23,NA
+https://www.pluralsight.com/courses/capturing-logic-stored-procedures-mariadb,courses,Capturing Logic with Stored Procedures in MariaDB,by Pinal Dave,Advanced,1h 9m,02-Dec-19,11
+https://www.pluralsight.com/courses/adv-sql-queries-oracle-sql-server,courses,Advanced SQL Queries in Oracle and SQL Server,by Scott Hecht,Intermediate,4h 25m,01-Oct-21,604
+https://www.pluralsight.com/courses/power-bi-data-import-playbook,courses,Power BI Data Import Playbook,by Rory Neary,Beginner,1h 46m,02-Dec-19,133
+https://www.pluralsight.com/courses/microsoft-azure-data-exploring,courses,Exploring Data in Microsoft Azure Using Kusto Query Language and Azure Data Explorer,by Neeraj Kumar,Intermediate,2h 45m,23-Sep-19,22
+https://www.pluralsight.com/courses/microsoft-azure-data-integrating,courses,Integrating Data in Microsoft Azure,by Marcelo Pastorino,Advanced,2h 23m,17-Jul-20,87
+https://www.pluralsight.com/courses/power-bi-m-query-shape-data,courses,Querying and Shaping Data in Power BI Using M,by Eugene Meidinger,Intermediate,2h 36m,11-Sep-19,44
+https://www.pluralsight.com/courses/getting-started-heroku,courses,Heroku-18: Getting Started,by Saravanan Dhandapani,Intermediate,1h 55m,25-Apr-22,11
+https://www.pluralsight.com/courses/sql-server-error-handling,courses,Error Handling in SQL Server,by Faisal Memon,Beginner,38m,26-Feb-24,NA
+https://www.pluralsight.com/courses/implementing-neural-network-solutions-enterprise-environments,courses,Implementing Neural Network Solutions in Enterprise Environments,by Tom Taulli,Beginner,33m,31-Jan-24,NA
+https://www.pluralsight.com/courses/principles-data-quality-measures,courses,Principles for Data Quality Measures,by Niraj Joshi,Advanced,43m,26-Mar-21,70
+https://www.pluralsight.com/courses/sql-server-getting-started-hierarchal-data,courses,Getting Started with Hierarchical Data in SQL Server,by JS Padoan,Beginner,31m,06-Feb-24,10
+https://www.pluralsight.com/courses/handling-streaming-data-apache-pulsar,courses,Handling Streaming Data with Apache Pulsar 2,by Axel Sirota,Intermediate,2h 7m,03-Mar-22,11
+https://www.pluralsight.com/courses/sql-server-functions-fundamentals,courses,SQL Server Functions Fundamentals: Building Your First Functions,by Ben Weissman,Beginner,20m,08-Feb-24,NA
+https://www.pluralsight.com/courses/administering-ssrs,courses,Administering SSRS 2017,by Thomas LeBlanc,Advanced,1h 42m,02-Jun-22,NA
+https://www.pluralsight.com/courses/data-modeling-querying-reporting-business-intelligence,courses,"Data Modeling, Querying, and Reporting for Business Intelligence",by Nikola Ilic,Intermediate,2h 46m,29-Aug-23,14
+https://www.pluralsight.com/courses/optimizing-query-performance-columnstoreindexes,courses,Optimizing Query Performance with Columnstore Indexes,by Jared Westover,Intermediate,2h 33m,24-Aug-23,NA
+https://www.pluralsight.com/courses/data-engineering-aws-machine-learning,courses,Data Engineering with AWS Machine Learning,by Kim Schmidt,Advanced,2h 55m,18-Jun-20,34
+https://www.pluralsight.com/courses/exploring-web-scraping-python,courses,Exploring Web Scraping with Python,by Clarke Bishop,Beginner,1h 34m,06-Oct-20,131
+https://www.pluralsight.com/courses/ssrs-report-publishing-playbook,courses,SSRS Report Publishing Playbook,by Javier Merino,Intermediate,2h,05-Feb-20,NA
+https://www.pluralsight.com/courses/build-your-first-dashboard-clicdata,courses,Build Your First Dashboard with ClicData,by Emmanuel Segui,Beginner,34m,08-Dec-20,NA
+https://www.pluralsight.com/courses/sql-server-power-bi-visualize-data-trends,courses,Visualize Data Trends with SQL Server and Power BI,by Bismark Adomako,Beginner,29m,07-Mar-24,NA
+https://www.pluralsight.com/courses/sql-server-mastering-stored-procedures,courses,Mastering Stored Procedures in SQL Server,by Nikola Ilic,Beginner,30m,27-Feb-24,12
+https://www.pluralsight.com/courses/querying-data-sql-server,courses,Querying Data with SQL Server,by Mihaela Danci,Beginner,1h 56m,12-Oct-23,33
+https://www.pluralsight.com/courses/data-storage-processing-approaches-requirement-analysis,courses,Approaches to Requirement Analysis for Efficient Data Storage and Processing,by Dayo Bamikole,Intermediate,34m,24-Jul-23,NA
+https://www.pluralsight.com/courses/build-conversational-ai-solution-microsoft-azure,courses,Build a Conversational AI Solution with Microsoft Azure,by Dayo Bamikole,Advanced,34m,14-Jul-21,12
+https://www.pluralsight.com/courses/large-language-models-intro-data-practitioners,courses,Introduction to Large Language Models for Data Practitioners,by Russ Thomas,Intermediate,39m,04-Jan-24,11
+https://www.pluralsight.com/courses/microsoft-azure-identifying-security-requirements-ai-solution,courses,Identifying Security Requirements of an AI Solution,by Brian Harrison,Beginner,1h 29m,12-Dec-19,14
+https://www.pluralsight.com/courses/building-first-vba-module,courses,Building Your First VBA Module,by Mike McQuillan,Advanced,1h 58m,06-Nov-19,17
+https://www.pluralsight.com/courses/data-warehousing-data-engineers,courses,Data Warehousing for Data Engineers,by Lucian Lazar,Beginner,47m,23-Jul-24,NA
+https://www.pluralsight.com/courses/build-video-indexer-microsoft-azure-cognitive-service,courses,Build a Video Indexer with Microsoft Azure Cognitive Service,by Niraj Joshi,Intermediate,22m,11-May-21,23
+https://www.pluralsight.com/courses/power-bi-power-query-data-preparation,courses,Data Preparation with Power Query in Power BI,by Ben Howard,Intermediate,17m,18-Jul-24,NA
+https://www.pluralsight.com/courses/apache-airflow-monitor-maintain,courses,Monitor and Maintain Apache Airflow,by Janani Ravi,Intermediate,22m,30-Jul-24,NA
+https://www.pluralsight.com/courses/big-data-engineers,courses,Big Data for Data Engineers,by Dayo Bamikole,Beginner,58m,02-Jul-24,NA
+https://www.pluralsight.com/courses/apache-airflow-create-complex-dags-task-dependencies,courses,Create Complex DAGs and Task Dependencies with Apache Airflow,by Janani Ravi,Intermediate,22m,25-Jul-24,NA
+https://www.pluralsight.com/courses/securing-ssrs-reporting-solutions,courses,Securing SSRS Reporting Solutions,by Stacia Misner Varga,Advanced,1h 56m,23-Dec-20,NA
+https://www.pluralsight.com/courses/snowflake-up-running,courses,Up and Running with Snowflake,by Tom Taulli,Intermediate,45m,30-Jul-24,NA
+https://www.pluralsight.com/courses/dax-formulas-power-bi-pivot-ssas,courses,"Getting Started with DAX Formulas in Power BI, Power Pivot, and SSAS",by Eugene Meidinger,Beginner,2h 58m,22-May-20,232
+https://www.pluralsight.com/courses/power-bi-import-data,courses,Import Data into Power BI,by Tim Warner,Intermediate,45m,12-Jul-24,NA
+https://www.pluralsight.com/courses/qlik-sense-load-prepare-data,courses,Loading and Preparing Data for Analysis in Qlik Sense,by Dixit Patel,Beginner,2h 17m,01-May-19,23
+https://www.pluralsight.com/courses/build-first-dashboard-gooddata,courses,Build Your First Dashboard with GoodData,by Charles Nurse,Beginner,47m,22-Dec-20,NA
+https://www.pluralsight.com/courses/big-data-amazon-web-services,courses,Big Data on Amazon Web Services,by Andrew Brust,Intermediate,3h 54m,26-Aug-21,181
+https://www.pluralsight.com/courses/tableau-certified-data-analyst-connect-transform-data-cert,courses,Tableau Certified Data Analyst: Connect to and Transform Data,"by Jason Browning, Ph.D.",Beginner,1h 40m,11-Jul-24,NA
+https://www.pluralsight.com/courses/microsoft-azure-building-streaming-data-pipelines,courses,Building Streaming Data Pipelines in Microsoft Azure,by Reza Salehi,Intermediate,3h 2m,30-Jun-20,60
+https://www.pluralsight.com/courses/adv-text-analytics-topic-model-named-entity-recog,courses,Advanced Text Analytics: Topic Modeling and Named Entity Recognition,by Ria Cheruvu,Intermediate,40m,13-Mar-24,NA
+https://www.pluralsight.com/courses/apache-airflow-create-dynamic-dags,courses,Create Dynamic DAGs with Apache Airflow,by Matt Stenzel,Intermediate,16m,15-Jul-24,NA
+https://www.pluralsight.com/courses/pre-trained-llms-build-solutions,courses,Build Solutions with Pre-trained LLMs,by Ria Cheruvu,Intermediate,38m,10-Jan-24,10
+https://www.pluralsight.com/courses/model-evaluation-selection-scikit-learn,courses,Model Evaluation and Selection Using scikit-learn,by Chetan Prabhu,Intermediate,1h 17m,22-Nov-19,19
+https://www.pluralsight.com/courses/data-sec-champ-data-privacy-ethics,courses,Data Security Champion: Data Privacy and Ethics,by Kevin James,Beginner,12m,15-Mar-24,NA
+https://www.pluralsight.com/courses/build-first-data-visualization-matplotlib,courses,Build Your First Data Visualization with Matplotlib,by Martin Burger,Beginner,1h 8m,16-Apr-20,NA
+https://www.pluralsight.com/courses/creating-visualizations-r-ggplot2-playbook,courses,Creating Visualizations in R Using ggplot2: R Playbook,by Emilee McWilliams,Beginner,1h 10m,26-Nov-19,NA
+https://www.pluralsight.com/courses/power-bi-data-preparation-playbook,courses,Power BI Data Preparation Playbook,by Eugene Meidinger,Intermediate,2h 2m,29-Apr-19,100
+https://www.pluralsight.com/courses/build-your-first-dashboard-dundas-bi,courses,Build Your First Dashboard with Dundas BI,by Venkatesh Muniyandi,Beginner,1h 16m,05-May-21,NA
+https://www.pluralsight.com/courses/build-your-first-data-visualization-amcharts,courses,Build Your First Data Visualization with amCharts 4,by Ervis Trupja,Beginner,45m,08-Jun-22,NA
+https://www.pluralsight.com/courses/implementing-data-visualizations,courses,Implementing Data Visualizations,by Mihaela Danci,Intermediate,2h 20m,04-Sep-20,41
+https://www.pluralsight.com/courses/monitoring-requirements-evaluating-business-analysis-solutions,courses,Monitoring Requirements & Evaluating Business Analysis Solutions,by Casey Ayers,Intermediate,2h 12m,13-Dec-16,43
+https://www.pluralsight.com/courses/sql-server-real-time-iot-data-stream-analysis,courses,Real-time IoT Data Stream Analysis with SQL Server,by JS Padoan,Beginner,35m,13-Jun-24,NA
+https://www.pluralsight.com/courses/prevent-overfitting-model-training,courses,Prevent Overfitting in Model Training,by Saravanan Dhandapani,Beginner,33m,20-Dec-23,NA
+https://www.pluralsight.com/courses/snowflake-analyze-semi-structured-data,courses,Analyze Semi-structured Data in Snowflake,by Warner Chaves,Intermediate,19m,15-Jul-24,NA
+https://www.pluralsight.com/courses/sql-server-integrate-transactions-error-handling,courses,Integrate Transactions and Error Handling in SQL Server,by Chris Behrens,Beginner,30m,06-Feb-24,NA
+https://www.pluralsight.com/courses/exploring-data-visually-r,courses,Exploring Data Visually with R,by Martin Burger,Beginner,2h 1m,07-Oct-19,NA
+https://www.pluralsight.com/courses/power-bi-intermediate-power-query-techniques,courses,Intermediate Power Query Techniques in Power BI,by Avdhesh Gaur,Intermediate,18m,03-Jul-24,NA
+https://www.pluralsight.com/courses/create-model-calculations-using-dax,courses,Create Model Calculations by Using DAX,by Brent Allen,Intermediate,1h 13m,06-Mar-24,11
+https://www.pluralsight.com/courses/certified-analytics-professional-analytics-problem-framing,courses,Certified Analytics Professional: Analytics Problem Framing,by Brayden Ross,Intermediate,1h 17m,14-Apr-23,NA
+https://www.pluralsight.com/courses/machine-learning-leaders,courses,Machine Learning for Leaders,by AWS,Beginner,10m,06-Oct-20,NA
+https://www.pluralsight.com/courses/java-machine-learning-environments,courses,Exploring Java Machine Learning Environments,by Nicolae Caprarescu,Intermediate,1h 36m,17-Feb-21,NA
+https://www.pluralsight.com/courses/what-is-artificial-intelligence,courses,What is Artificial Intelligence?,by AWS,Beginner,19m,06-Oct-20,301
+https://www.pluralsight.com/courses/data-sessions-chatgpt-roundtable-discussion,courses,The Data Sessions: ChatGPT Roundtable Discussion with Pluralsight Experts,by Pluralsight Skills,Beginner,57m,22-Aug-23,12
+https://www.pluralsight.com/courses/microsoft-azure-cleaning-preparing-data,courses,Cleaning and Preparing Data in Microsoft Azure,by Jared Rhodes,Beginner,1h 7m,16-Dec-19,NA
+https://www.pluralsight.com/courses/querying-converting-data-types-r,courses,Querying and Converting Data Types in R,by Martin Burger,Beginner,2h 6m,15-Aug-19,16
+https://www.pluralsight.com/courses/recommendation-systems-tensorflow-gcp,courses,Recommendation Systems with TensorFlow on GCP,by Google Cloud,Advanced,6h 46m,15-Apr-20,NA
+https://www.pluralsight.com/courses/so-you-want-to-be-a-business-analyst,courses,So You Want to Be a Business Analyst,by Casey Ayers,Beginner,1h 50m,05-Oct-18,132
+https://www.pluralsight.com/courses/putting-people-first-as-business-analyst,courses,Putting People First as a Business Analyst,by Heather Mylan-Mains,Beginner,1h 38m,28-Jun-19,40
+https://www.pluralsight.com/courses/nlp-models-working-pre-trained,courses,Working with Pre-trained NLP Models,by Axel Sirota,Beginner,40m,24-Jan-24,NA
+https://www.pluralsight.com/courses/machine-learning-operations-mlops-getting-started-1,courses,Machine Learning Operations (MLOps): Getting Started,by Google Cloud,Beginner,1h 3m,23-Aug-23,NA
+https://www.pluralsight.com/courses/bigquery-fundamentals-snowflake-professionals,courses,BigQuery Fundamentals for Snowflake Professionals,by Google Cloud,Beginner,1m,25-Apr-24,NA
+https://www.pluralsight.com/courses/bigquery-fundamentals-teradata-professionals,courses,BigQuery Fundamentals for Teradata Professionals,by Google Cloud,Beginner,1m,24-Apr-24,NA
+https://www.pluralsight.com/courses/hadoop-cloudera-cluster-databases,courses,Preparing a Production Hadoop Cluster with Cloudera: Databases,by Xavier Morera,Beginner,1h 31m,22-Jul-24,15
+https://www.pluralsight.com/courses/python-sqlalchemy-playbook-understanding-databases,courses,Understanding Databases with SQLAlchemy 1: Python Data Playbook,by Xavier Morera,Beginner,1h 23m,22-Jul-24,52
+https://www.pluralsight.com/courses/managing-azure-sql-server-database-performance,courses,Managing Azure SQL Server Database Performance,by Hugo Barona,Advanced,1h 32m,20-Jun-24,54
+https://www.pluralsight.com/courses/microsoft-azure-sql-data-warehouse-sql-database-deploying,courses,Deploying Microsoft Azure Synapse Analytics and Azure SQL Database,by Robert Lindley,Intermediate,1h 58m,01-Nov-23,55
+https://www.pluralsight.com/labs/aws/configure-dynamodb-auto-scaling-aws,labs,Configure DynamoDB Auto Scaling on AWS,by Mayank Pandey,Intermediate,15m,02-Sep-21,65
+https://www.pluralsight.com/labs/aws/deploy-application-using-elastic-beanstalk-aws,labs,Deploy an Application Using Elastic Beanstalk on AWS,by Carlos Souza,Intermediate,45m,01-Feb-22,572
+https://www.pluralsight.com/labs/aws/monitor-amazon-neptune-database,labs,Monitor an Amazon Neptune Database,by Jeff Hopper,Intermediate,1h 6m,15-Sep-21,NA
+https://www.pluralsight.com/labs/aws/create-load-query-data-amazon-aurora-serverless,labs,"Create, Load, and Query Data on Amazon Aurora Serverless",by Asmin Bhandari,Intermediate,55m,19-Aug-21,15
+https://www.pluralsight.com/labs/aws/create-clones-replicas-amazon-neptune-databases-instances,labs,Create Clones and Replicas of Amazon Neptune Databases and Instances,by Jeff Hopper,Intermediate,32m,15-Jun-21,NA
+https://www.pluralsight.com/labs/aws/create-configure-rds-database-for-high-availability-aws,labs,Create and Configure an RDS Database for High Availability on AWS,by Jeff Hopper,Intermediate,30m,22-Jun-21,142
+https://www.pluralsight.com/labs/azure/create-test-sql-database-microsoft-azure,labs,Microsoft Azure Lab: How to Create and Test a SQL Database,by Bismark Adomako,Intermediate,20m,19-Sep-22,743
+https://www.pluralsight.com/labs/aws/upgrade-amazon-rds-postgres-database-to-new-engine-version,labs,Amazon RDS Postgres Database Lab: Upgrading to a New Engine Version,by Wes Novack,Intermediate,25m,02-Jul-21,NA
+https://www.pluralsight.com/labs/aws/scale-database-servers-a-rds-multi-az-deployment-aws,labs,AWS Lab: Scale Database servers in a RDS Multi-AZ Deployment,by Mayank Pandey,Intermediate,1h 5m,12-May-21,63
+https://www.pluralsight.com/labs/aws/create-amazon-rds-instance-from-rds-database-snapshot,labs,Create an Amazon RDS Instance from an RDS Database Snapshot,by Wes Novack,Intermediate,30m,06-Sep-22,17
+https://www.pluralsight.com/labs/aws/implement-data-ingestion-solution-using-aws-database-migration-aws,labs,Implement a Data Ingestion Solution Using AWS Database Migration on AWS,by Miguel  Saavedra,Intermediate,50m,15-Aug-22,72
+https://www.pluralsight.com/labs/aws/interact-with-rds-databases-through-console-the-aws-javascript-sdk,labs,Interact with RDS Databases through the Console and the AWS JavaScript SDK,by Carlos Souza,Intermediate,1h 20m,07-Oct-22,486
+https://www.pluralsight.com/labs/aws/create-load-query-data-amazon-redshift,labs,"Create, Load, and Query Data on Amazon Redshift",by Asmin Bhandari,Intermediate,55m,04-Feb-22,152
+https://www.pluralsight.com/labs/aws/configure-redis-cluster-amazon-elasticache,labs,Configure a Redis Cluster in Amazon ElastiCache,by Tom Compagno,Intermediate,1h 5m,24-Jul-22,355
+https://www.pluralsight.com/labs/azure/manage-data-azure-storage,labs,Azure Storage Explorer Lab: How to Manage Data,by Matthew Soucoup,Intermediate,55m,15-Feb-22,695
+https://www.pluralsight.com/labs/azure/build-data-pipelines-for-batch-processing-solutions,labs,Azure SQL Database: Data Pipelines for Batch Processing Solutions,by Bismark Adomako,Intermediate,1h 30m,05-Jan-22,213
+https://www.pluralsight.com/labs/aws/build-your-own-highly-available-database-servers-amazon-ec2,labs,Build Your Own Highly Available Database Servers on Amazon EC2,by Craig Golightly,Intermediate,1h 5m,23-Sep-22,89
+https://www.pluralsight.com/labs/aws/enable-secure-credential-rotation-for-amazon-rds,labs,Enable Secure Credential Rotation for Amazon RDS,by Muhammad Sajid,Intermediate,35m,08-Jun-22,89
+https://www.pluralsight.com/labs/azure/manage-sensitive-data-with-dynamic-data-masking-data-encryption,labs,Azure SQL Database: Manage Sensitive Data with Dynamic Data Masking and Data Encryption,by Bismark Adomako,Intermediate,55m,02-Nov-21,121
+https://www.pluralsight.com/labs/azure/set-consistency-levels-for-operations-azure-cosmos-db-storage,labs,How to Set Azure Cosmos DB Consistency Levels for Storage Operations,by Amar Sonwani,Intermediate,45m,31-Oct-22,770
+https://www.pluralsight.com/labs/aws/load-data-from-s3-bucket-to-amazon-neptunes-sparql-environment,labs,Load Data from an S3 Bucket to Amazon Neptune's SPARQL Environment,by Jeff Hopper,Intermediate,40m,20-Apr-21,NA
+https://www.pluralsight.com/labs/aws/set-up-direct-integration-with-amazon-api-gateway-dynamodb,labs,Direct Integration with Amazon API Gateway and DynamoDB,by Pawan Puthran,Intermediate,45m,07-Sep-21,12
+https://www.pluralsight.com/labs/aws/create-amazon-rds-postgres-instance-with-encryption,labs,Create an Amazon RDS Postgres Instance with Encryption,by Wes Novack,Intermediate,25m,30-Apr-21,30
+https://www.pluralsight.com/labs/aws/backup-restore-amazon-neptune-instance-using-snapshots,labs,Backup and Restore an Amazon Neptune Instance Using Snapshots,by Jeff Hopper,Intermediate,45m,17-May-21,NA
+https://www.pluralsight.com/labs/azure/implement-scaling-azure-cosmos-db-storage,labs,Azure Cosmos DB Lab: How to Implement Scaling in Storage,by Rushabh Doshi,Intermediate,35m,20-Sep-21,404
+https://www.pluralsight.com/labs/aws/capture-process-item-level-changes-using-dynamodb-streams-aws-lambda,labs,Capture and Process Item-level Changes Using DynamoDB Streams and AWS Lambda,by Pawan Puthran,Intermediate,45m,04-Jul-22,40
+https://www.pluralsight.com/labs/aws/create-populate-query-dynamodb-table-using-aws-cli,labs,"Create, Populate, and Query a DynamoDB Table Using the AWS CLI",by Asmin Bhandari,Intermediate,45m,14-Mar-22,304
+https://www.pluralsight.com/labs/aws/enable-contributor-insights-amazon-dynamodb,labs,Enable Contributor Insights on Amazon DynamoDB,by Pawan Puthran,Intermediate,40m,10-Sep-21,NA
+https://www.pluralsight.com/labs/aws/load-data-from-s3-bucket-to-amazon-neptunes-gremlin-environment,labs,Load Data from an S3 Bucket to Amazon Neptune's Gremlin Environment,by Jeff Hopper,Intermediate,45m,20-Apr-21,NA
+https://www.pluralsight.com/labs/aws/secure-ec2-application-connection-to-dynamodb-aws,labs,AWS Lab: Secure an EC2 Application Connection to DynamoDB,by Sarah Holderness,Intermediate,1h 10m,26-Jul-22,363
+https://www.pluralsight.com/labs/aws/configure-dynamodb-with-aws-javascript-sdk,labs,Configure DynamoDB with the AWS JavaScript SDK,by Carlos Souza,Beginner,50m,28-Jan-22,387
+https://www.pluralsight.com/labs/aws/load-data-from-jupyter-notebook-to-amazon-neptune-run-queries-with-gremlin,labs,Load Data from a Jupyter Notebook to Amazon Neptune and Run Queries with Gremlin,by Jeff Hopper,Intermediate,35m,18-May-22,NA
+https://www.pluralsight.com/labs/azure/build-cassandra-app-with-python-sdk-azure-cosmos-db,labs,Azure Cosmos DB: Build a Cassandra App with Python SDK,by Michael Jenkins,Intermediate,55m,01-Feb-23,98
+https://www.pluralsight.com/labs/azure/build-table-api-app-with-python-azure-cosmosdb,labs,Azure CosmosDB Lab: Build a Table API App with Python,by Axel Sirota,Intermediate,45m,01-Oct-22,131
+https://www.pluralsight.com/labs/aws/speed-up-queries-with-amazon-dynamodb-accelerator-dax,labs,Speed up Queries with Amazon DynamoDB Accelerator (DAX),by Garrett Hopper,Intermediate,1h 20m,03-Sep-21,NA
+https://www.pluralsight.com/labs/aws/query-neptune-from-aws-lambda-using-sparql-query-language,labs,AWS Lambda Lab: Query Neptune with the SPARQL Query Language,by Jeff Hopper,Intermediate,1h,20-Sep-21,NA
+https://www.pluralsight.com/labs/aws/load-data-from-jupyter-notebook-to-amazon-neptune-run-queries-with-sparql,labs,Load Data from a Jupyter Notebook to Amazon Neptune and Run Queries with SPARQL,by Jeff Hopper,Intermediate,45m,09-Apr-21,NA
+https://www.pluralsight.com/labs/azure/manage-authorization-through-column-row-level-security,labs,Azure Dedicated SQL Lab: Manage Authorization through Column and Row Level Security,by Bismark Adomako,Intermediate,1h 25m,16-Nov-22,113
+https://www.pluralsight.com/labs/azure/implement-microsoft-azure-queue-storage-queues,labs,Microsoft Azure: How to Implement Azure Queue Storage Queues,by Andy Butland,Intermediate,1h 30m,02-Feb-22,466
+https://www.pluralsight.com/labs/aws/web-attacks-sql-injection,labs,Web Attacks: SQL Injection,by Gavin Johnson-Lynn,Beginner,1h,12-Sep-23,205
+https://www.pluralsight.com/labs/aws/lambda-functions-within-stateless-architecture-aws,labs,Use Lambda Functions within a Stateless Architecture on AWS,by Shikhar Verma,Intermediate,40m,15-Mar-22,195
+https://www.pluralsight.com/labs/azure/configure-load-balancer-microsoft-azure,labs,Microsoft Azure Lab: How to Configure a Load Balancer,by Michael Bender,Intermediate,1h 50m,03-Oct-22,656
+https://www.pluralsight.com/labs/aws/package-applications-with-helm-for-kubernetes,labs,Package Applications with Helm for Kubernetes,by Antonio Jesús Piedra,Beginner,1h 30m,13-Sep-23,15
+https://www.pluralsight.com/labs/aws/access-elasticache-from-amazon-eks-cluster,labs,Access ElastiCache from an Amazon EKS Cluster,by Yashita Shah,Intermediate,50m,10-Sep-21,30
+https://www.pluralsight.com/labs/azure/configure-azure-files-storage,labs,How to Configure Azure Files Storage,by Garrett Hopper,Intermediate,1h,26-Jan-22,1241
+https://www.pluralsight.com/labs/aws/query-neptune-from-aws-lambda-using-gremlin-traversal-language,labs,AWS Lambda Lab: Query Neptune using the Gremlin Traversal Language,by Jeff Hopper,Intermediate,50m,20-Sep-21,NA
+https://www.pluralsight.com/labs/aws/deploy-lambda-function-into-amazon-vpc,labs,Deploy a Lambda Function Into Amazon VPC,by Pawan Puthran,Intermediate,55m,20-Sep-22,16
+https://www.pluralsight.com/labs/aws/implement-auto-scaling-for-amazon-aurora-serverless,labs,Implement Auto Scaling for Amazon Aurora Serverless,by Armen Avanesi,Intermediate,20m,06-Jan-21,NA
+https://www.pluralsight.com/labs/aws/create-cloudwatch-alarm-aws,labs,Create a CloudWatch Alarm on AWS,by AJ Foster,Intermediate,30m,13-Jun-22,1411
+https://www.pluralsight.com/labs/aws/create-use-amazon-ebs-volume-based-projected-iops-requirements,labs,Create and Use an Amazon EBS Volume Based on Projected IOPS Requirements,by Stefan Roman,Intermediate,1h 10m,29-Jun-21,70
+https://www.pluralsight.com/labs/aws/powershell-hands-exercises-primer-4,labs,PowerShell Hands-On Exercises Primer 4,by Liam Cleary,Beginner,3h 25m,30-Jan-24,NA
+https://www.pluralsight.com/labs/aws/store-secrets-for-amazon-ec2-the-parameter-store,labs,AWS Systems Manager Parameter Store: Storing Secrets,by Miguel  Saavedra,Intermediate,30m,05-Oct-21,32
+https://www.pluralsight.com/labs/aws/build-production-ready-ansible-playbook,labs,Build a Production Ready Ansible Playbook,by Christopher Hart,Beginner,1h 10m,26-Feb-24,33
+https://www.pluralsight.com/labs/aws/configure-amazon-sqs-an-event-source-for-lambda-functions,labs,Configure Amazon SQS as an Event Source for Lambda Functions,by Pawan Puthran,Intermediate,25m,07-Sep-21,101
+https://www.pluralsight.com/labs/aws/add-aws-security-group-rule-that-references-another-security-group,labs,Add an AWS Security Group Rule that References Another Security Group,by Wes Novack,Intermediate,50m,17-Aug-21,239
+https://www.pluralsight.com/labs/aws/monitor-resources-deployed-configurations-using-aws-cloudwatch,labs,AWS CloudWatch Lab: Monitor Resources and Deployed Configurations,by Aaron Rosenmund,Intermediate,1h 5m,21-Dec-21,433
+https://www.pluralsight.com/labs/aws/parameter-store-from-aws-lambda,labs,AWS Lambda Lab: Parameter Store,by Lane Stevens,Intermediate,35m,03-May-22,173
+https://www.pluralsight.com/labs/aws/configure-amazon-s3-static-website-using-aws-javascript-sdk,labs,Configure an Amazon S3 Static Website Using the AWS JavaScript SDK,by Tom Bell,Intermediate,35m,29-Jul-21,185
+https://www.pluralsight.com/labs/aws/configure-network-load-balancer-using-tls-protocol-aws,labs,Configure a Network Load Balancer Using the TLS Protocol on AWS,by Chris Blackden,Intermediate,40m,21-Sep-21,54
+https://www.pluralsight.com/labs/aws/configure-access-encryption-amazon-s3-buckets,labs,Configure Access and Encryption on Amazon S3 Buckets,by Michael Bender,Intermediate,45m,24-Mar-22,415
+https://www.pluralsight.com/labs/aws/implementing-highly-available-web-server-across-multiple-availability-zones,labs,Implementing a Highly Available Web Server Across Multiple Availability Zones,by Pawan Puthran,Intermediate,35m,01-Sep-22,75
+https://www.pluralsight.com/labs/aws/implement-traffic-shifting-aws-lambda-using-weighted-alias,labs,Implement Traffic Shifting in AWS Lambda Using Weighted Alias,by Pawan Puthran,Intermediate,30m,26-Jul-21,NA
+https://www.pluralsight.com/labs/aws/visualizing-network-traffic-with-wireshark,labs,Wireshark Lab: Visualizing Network Traffic,by Aaron Rosenmund,Intermediate,2h 30m,02-Nov-23,NA
+https://www.pluralsight.com/labs/aws/enhanced-fan-out-consumers-with-kinesis-data-streams,labs,Use Enhanced Fan-Out Consumers with Kinesis Data Streams,by Pawan Puthran,Intermediate,1h,29-Apr-21,NA
+https://www.pluralsight.com/labs/aws/log4j-vulnerability-lab-emulation-detection,labs,Log4j Vulnerability Lab: Emulation and Detection,by Brandon DeVault,Intermediate,2h 45m,31-Jan-24,185
+https://www.pluralsight.com/labs/aws/create-serverless-application-using-aws-cdk,labs,Create a Serverless Application Using the AWS CDK,by Asmin Bhandari,Intermediate,1h,12-Jan-24,56
+https://www.pluralsight.com/labs/aws/launch-spot-instances-amazon-ec2,labs,Launch Spot Instances on Amazon EC2,by Carlos Souza,Intermediate,35m,11-Oct-21,58
+https://www.pluralsight.com/labs/aws/protect-amazon-api-gateway-using-token-based-lambda-authorizer,labs,Amazon API Gateway Lab: Token-based Lambda Authorizer,by Pawan Puthran,Intermediate,50m,20-Aug-21,35
+https://www.pluralsight.com/labs/aws/implement-detailed-metrics-alarms-alerting-dashboards-for-amazon-ec2,labs,"Implement Detailed Metrics Alarms, Alerting, and Dashboards for Amazon EC2",by Yashita Shah,Intermediate,40m,12-Apr-22,315
+https://www.pluralsight.com/labs/aws/create-manage-ec2-instances-using-aws-javascript-sdk,labs,Create and Manage EC2 Instances Using the AWS JavaScript SDK,by Tom Bell,Intermediate,1h 5m,04-May-22,255
+https://www.pluralsight.com/labs/aws/3-learning-essentials-centos-enterprise-linux-7-administration,labs,Lab 3 - Learning the Essentials of CentOS Enterprise Linux 7 Administration,by Aaron Rosenmund,Beginner,3h 45m,08-Jun-23,45
+https://www.pluralsight.com/labs/aws/getting-started-with-wireshark,labs,Lab - Getting Started with Wireshark,by Aaron Rosenmund,Beginner,3h 15m,07-Jul-23,35
+https://www.pluralsight.com/labs/aws/threat-hunting-network-hunting,labs,Lab - Threat Hunting: Network Hunting,by Brandon DeVault,Intermediate,6h 15m,12-Jun-23,15
+https://www.pluralsight.com/labs/aws/devops-foundations-examine-your-code-with-static-analysis,labs,DevOps Foundations: Examine Your Code with Static Analysis,by Chris Behrens,Beginner,55m,07-Feb-24,NA
+https://www.pluralsight.com/labs/aws/provision-bastion-host-to-access-vpc-resources-aws,labs,Provision a Bastion Host to Access VPC Resources on AWS,by Nick Stockhauser,Intermediate,20m,08-Feb-21,59
+https://www.pluralsight.com/labs/aws/mastering-tcp-analysis-with-wireshark,labs,Lab - Mastering TCP Analysis with Wireshark,by Aaron Rosenmund,Advanced,4h 15m,28-Jul-23,NA
+https://www.pluralsight.com/labs/aws/implement-custom-lifecycle-rules-data-protection-amazon-s3,labs,Implement Custom Lifecycle Rules and Data Protection on Amazon S3,by Carlos Souza,Intermediate,40m,17-Jun-21,115
+https://www.pluralsight.com/labs/aws/reconnaissance-with-owasp-amass,labs,Reconnaissance with OWASP Amass,by Zach Roof,Intermediate,2h 45m,31-Jan-24,58
+https://www.pluralsight.com/labs/aws/modern-malware-analysis,labs,Modern Malware Analysis,by Aaron Rosenmund,Advanced,5h 15m,06-Sep-23,25
+https://www.pluralsight.com/labs/aws/configure-aws-iam-policies-with-mfa-ip-restrictions,labs,Configure AWS IAM Policies with MFA and IP Restrictions,by Paolo Cruschelli,Intermediate,45m,11-Feb-21,56
+https://www.pluralsight.com/labs/aws/1-learning-essentials-centos-enterprise-linux-7-administration,labs,Lab 1 - Learning the Essentials of CentOS Enterprise Linux 7 Administration,by Aaron Rosenmund,Beginner,3h 15m,06-Jun-23,165
+https://www.pluralsight.com/labs/aws/gain-privileges-using-broken-access-control,labs,Gain Privileges Using Broken Access Control,by Lee Allen,Beginner,2h 15m,15-Nov-23,NA
+https://www.pluralsight.com/labs/aws/2-troubleshooting-slow-networks-using-wireshark,labs,Lab 2 - Troubleshooting Slow Networks Using Wireshark,by Aaron Rosenmund,Intermediate,1h 50m,10-Nov-23,NA
+https://www.pluralsight.com/labs/aws/deploy-operationalize-ml-solution-using-amazon-sagemaker-aws,labs,Deploy and Operationalize a ML Solution Using Amazon SageMaker on AWS,by Nicolas Moy,Intermediate,55m,09-Feb-21,57
+https://www.pluralsight.com/labs/azure/set-retrieve-properties-metadata-azure-blob-storage,labs,Azure Blob Storage Lab: How to Set and Retrieve Properties and Metadata,by Pietro Libro,Intermediate,1h,14-Nov-22,515
+https://www.pluralsight.com/labs/azure/create-azure-logic-app,labs,How to Create an Azure Logic App,by Alex Wolf,Intermediate,1h,08-Feb-22,543
+https://www.pluralsight.com/labs/azure/implement-azure-event-grid,labs,Implement Azure Event Grid,by Tom Bell,Intermediate,1h 5m,06-Jul-22,526
+https://www.pluralsight.com/labs/azure/manage-storage-accounts-azure,labs,Azure Storage Lab: How to Manage Storage Accounts,by Sidney Andrews,Intermediate,1h 30m,20-Jun-22,475
+https://www.pluralsight.com/labs/azure/configure-cache-expiration-policies-azure-cdn,labs,Azure CDN Lab: Configure Cache and Expiration Policies,by Wes Novack,Intermediate,30m,21-Jun-21,253
+https://www.pluralsight.com/labs/azure/secure-azure-application-data-using-app-configuration-keyvault-api,labs,How to Secure Data with Azure App Configuration and KeyVault API,by David Cobb,Beginner,1h,13-Sep-21,215
+https://www.pluralsight.com/labs/aws/create-ami-amazon-machine-image-from-existing-ec2-instance,labs,Create an AMI (Amazon Machine Image) from an Existing EC2 Instance,by Wes Novack,Intermediate,35m,12-May-22,65
+https://www.pluralsight.com/labs/aws/create-security-group-within-multi-tier-aws-application-using-cli,labs,Create a Security Group within a Multi-tier AWS Application Using the CLI,by David Cobb,Intermediate,1h 15m,23-Nov-21,559
+https://www.pluralsight.com/labs/aws/1-wireshark-traffic-analysis-customizing-interface-arp-icmp-dns,labs,"Lab 1 - Wireshark Traffic Analysis: Customizing the Interface, ARP, ICMP, and DNS",by Aaron Rosenmund,Intermediate,1h 50m,06-Nov-23,NA
+https://www.pluralsight.com/labs/aws/3-centos-enterprise-linux-7-user-group-management,labs,Lab 3 - CentOS Enterprise Linux 7 User and Group Management,by Aaron Rosenmund,Beginner,3h 45m,15-Jun-23,15
+https://www.pluralsight.com/labs/aws/3-ethical-hacking-enumeration,labs,Lab 3 - Ethical Hacking: Enumeration,by Aaron Rosenmund,Intermediate,2h 45m,29-Aug-23,NA
+https://www.pluralsight.com/labs/aws/deploy-execute-aws-lambda-function,labs,Deploy and Execute an AWS Lambda Function,by Peter Mbanugo,Intermediate,20m,30-Jun-21,552
+https://www.pluralsight.com/labs/aws/network-protocols-for-security-tcp-udp,labs,Network Protocols for Security: TCP and UDP,by Brandon DeVault,Beginner,2h 15m,31-Jan-24,51
+https://www.pluralsight.com/labs/aws/implement-network-event-alarms-using-amazon-cloudwatch,labs,Implement Network Event Alarms Using Amazon CloudWatch,by Nick Stockhauser,Intermediate,25m,09-Nov-21,56
+https://www.pluralsight.com/labs/aws/create-snapshot-for-ebs-volume,labs,Create a Snapshot for an EBS Volume,by Amar Sonwani,Intermediate,30m,17-May-22,353
+https://www.pluralsight.com/labs/aws/docker-kubernetes-big-picture,labs,Lab - Docker and Kubernetes: The Big Picture,by Aaron Rosenmund,Beginner,1h 15m,22-Jun-23,657
+https://www.pluralsight.com/labs/aws/manage-docker-networking,labs,Manage Docker Networking,by Matt Conran,Beginner,1h 50m,22-Feb-24,15
+https://www.pluralsight.com/labs/aws/test-basic-network-connectivity-part-1,labs,Test Basic Network Connectivity - Part 1,by Matt Conran,Beginner,1h 35m,19-Sep-23,95
+https://www.pluralsight.com/labs/aws/create-manage-users-with-aws-iam,labs,Create and Manage Users with AWS IAM,by Aaron Rosenmund,Intermediate,45m,06-Oct-23,5723
+https://www.pluralsight.com/labs/aws/scanning-report-prioritize-vulnerabilities,labs,Scanning: Report and Prioritize Vulnerabilities,by Matthew Lloyd Davies,Beginner,1h 10m,31-Jan-24,NA
+https://www.pluralsight.com/labs/aws/implement-amazon-kinesis-producerconsumer-with-lambda-the-javascript-sdk,labs,Implement an Amazon Kinesis Producer/Consumer with Lambda and the JavaScript SDK,by Carlos Souza,Intermediate,40m,26-Apr-22,159
+https://www.pluralsight.com/labs/aws/getting-started-with-bash-z-shell,labs,Lab - Getting Started with Bash and Z Shell,by Aaron Rosenmund,Beginner,4h 45m,15-Jun-23,157
+https://www.pluralsight.com/labs/aws/1-managing-files-using-bash-z-shell,labs,Lab 1 - Managing Files Using Bash and Z Shell,by Aaron Rosenmund,Beginner,3h 45m,20-Jun-23,52
+https://www.pluralsight.com/labs/aws/conducting-passive-reconnaissance-for-comptia-pentest,labs,Lab - Conducting Passive Reconnaissance for CompTIA PenTest+,by Aaron Rosenmund,Intermediate,4h 45m,06-Sep-23,25
+https://www.pluralsight.com/labs/aws/configure-amazon-s3-bucket-access-with-resource-based-policy,labs,Configure Amazon S3 Bucket Access with a Resource-based Policy,by Nicolas Moy,Intermediate,45m,22-Jun-22,541
+https://www.pluralsight.com/labs/aws/amazon-s3-to-create-static-single-page-website,labs,Use Amazon S3 to Create a Static Single-page Website,by Michael Jenkins,Intermediate,30m,20-Jul-21,159
+https://www.pluralsight.com/labs/aws/implement-cloudwatch-events-rule-that-calls-aws-lambda-function,labs,Implement a CloudWatch Events Rule That Calls an AWS Lambda Function,by Carlos Souza,Intermediate,30m,19-Sep-22,59
+https://www.pluralsight.com/labs/aws/generate-aws-iam-credential-report-using-console-cli-api,labs,"Generate an AWS IAM Credential Report Using the Console, CLI, and API",by David Cobb,Intermediate,55m,23-Aug-21,265
+https://www.pluralsight.com/labs/aws/create-manage-delete-stack-the-console-aws-cloudformation,labs,"Create, Manage, and Delete a Stack in the Console and AWS CloudFormation",by Mayank Pandey,Intermediate,40m,12-Feb-21,175
+https://www.pluralsight.com/labs/aws/train-machine-learning-model-with-amazon-sagemaker,labs,Amazon SageMaker Lab: Train a Machine Learning Model,by Garrett Hopper,Intermediate,55m,26-Apr-22,51
+https://www.pluralsight.com/labs/aws/zeek-hands-sandbox,labs,Zeek Hands-on Sandbox,by Thomas Reyes-Cairo,Beginner,3h 10m,19-Oct-23,NA
+https://www.pluralsight.com/labs/aws/implement-basic-network-security,labs,Implement Basic Network Security,by Matt Conran,Beginner,1h 35m,15-Nov-23,15
+https://www.pluralsight.com/labs/aws/query-analyze-vpc-flow-logs-aws-cloudwatch-logs,labs,AWS CloudWatch Lab: Query and Analyze VPC Flow Logs,by Wes Novack,Intermediate,35m,29-Jun-21,25
+https://www.pluralsight.com/labs/aws/monitor-containerized-application-health-with-docker,labs,Monitor Containerized Application Health with Docker,by Matt Conran,Beginner,1h 35m,24-Aug-23,NA
+https://www.pluralsight.com/labs/aws/putting-powershell-to-work,labs,PowerShell Lab: Putting PowerShell to Work,by Michael Bender,Intermediate,3h 30m,06-Jul-23,52
+https://www.pluralsight.com/labs/aws/deploy-application-elastic-beanstalk-using-aws-cli,labs,Deploy an Application on Elastic Beanstalk Using the AWS CLI,by Tom Compagno,Intermediate,40m,14-Sep-23,158
+https://www.pluralsight.com/labs/aws/technical-information-gathering-with-theharvester,labs,theHarvester Lab: Technical Information Gathering,by Zach Roof,Intermediate,2h 45m,13-Jun-23,25
+https://www.pluralsight.com/labs/aws/enumeration-build-target-list,labs,Enumeration: Build a Target List,by Matthew Lloyd Davies,Beginner,1h 15m,31-Jan-24,15
+https://www.pluralsight.com/labs/aws/apache-commons-text-emulation-detection,labs,Apache Commons Text: Emulation and Detection,"by Aaron Rosenmund, Thomas Reyes-Cairo",Advanced,1h 30m,07-Jun-23,55
+https://www.pluralsight.com/labs/aws/configure-cloudfront-distribution-for-amazon-s3-bucket,labs,Configure a CloudFront Distribution for an Amazon S3 Bucket,by Garrett Hopper,Intermediate,1h,19-Sep-22,435
+https://www.pluralsight.com/labs/aws/analyze-visualize-data-with-amazon-sagemaker,labs,Analyze and Visualize Data with Amazon SageMaker,by Wes Novack,Intermediate,50m,13-Jul-21,85
+https://www.pluralsight.com/labs/aws/network-protocols-for-security-dns,labs,Network Protocols for Security: DNS,by Brandon DeVault,Beginner,2h 15m,13-Feb-23,50
+https://www.pluralsight.com/labs/aws/get-started-with-powershell-commands,labs,Get Started with PowerShell Commands,by Michael Bender,Beginner,2h 15m,09-Jan-24,56
+https://www.pluralsight.com/labs/aws/network-protocols-for-security-ipv4-arp,labs,Network Protocols for Security: IPv4 and ARP,by Brandon DeVault,Beginner,2h 15m,01-Feb-24,25
+https://www.pluralsight.com/labs/aws/implement-data-ingestion-solution-using-aws-glue,labs,Implement a Data Ingestion Solution Using AWS Glue,by Steve Mueller,Intermediate,50m,26-Aug-21,395
+https://www.pluralsight.com/labs/aws/translate-text-using-amazon-translate,labs,Using Amazon Translate to Translate Text,by Pawan Puthran,Intermediate,15m,16-Sep-21,NA
+https://www.pluralsight.com/labs/aws/technical-weakness-identification-with-nikto,labs,Nikto Lab: Technical Weakness Identification,by Zach Roof,Intermediate,2h 45m,13-Jun-23,25
+https://www.pluralsight.com/labs/aws/program-the-cloud-using-aws-cloud9-ide,labs,AWS Cloud9 IDE Lab: Programming in the Cloud,by Garrett Hopper,Intermediate,1h 5m,17-Mar-22,15
+https://www.pluralsight.com/labs/aws/optimize-amazon-s3-performance,labs,Amazon S3 Lab: Optimize Amazon S3 Performance,by Jeff Christman,Intermediate,30m,28-Feb-22,563
+https://www.pluralsight.com/labs/aws/detect-image-labels-using-amazon-rekognition,labs,Detect Image Labels Using Amazon Rekognition,by Pawan Puthran,Intermediate,35m,27-Sep-21,15
+https://www.pluralsight.com/labs/aws/store-rotate-passwords-using-aws-secrets-manager,labs,AWS Secrets Manager: Store and Rotate Passwords,by Garrett Hopper,Intermediate,25m,18-Aug-22,191
+https://www.pluralsight.com/labs/aws/automate-continuous-delivery-infrastructure-with-aws-cloudformation,labs,Automate Continuous Delivery of Infrastructure with AWS CloudFormation,by Lane Stevens,Intermediate,55m,11-Jan-23,122
+https://www.pluralsight.com/labs/aws/2-centos-enterprise-linux-7-service-management,labs,Lab 2 - CentOS Enterprise Linux 7 Service Management,by Aaron Rosenmund,Intermediate,1h 15m,30-Jan-24,10
+https://www.pluralsight.com/labs/aws/automate-command-execution-for-multiple-amazon-ec2-instances,labs,Automate Command Execution for Multiple Amazon EC2 Instances,by Miguel  Saavedra,Intermediate,45m,31-May-22,133
+https://www.pluralsight.com/labs/aws/network-security-monitoring-with-suricata,labs,Lab - Network Security Monitoring with Suricata,by Open Information Security Foundation (OISF),Beginner,3h,12-Sep-23,NA
+https://www.pluralsight.com/labs/aws/access-amazon-eks-cluster-with-api-gateway,labs,Access an Amazon EKS Cluster with an API Gateway,by Sandeep Pareek,Intermediate,1h 30m,20-Sep-22,90
+https://www.pluralsight.com/labs/aws/create-canary-release-deployment-amazon-api-gateway,labs,Create a Canary Release Deployment in Amazon API Gateway,by Pawan Puthran,Intermediate,40m,06-Nov-23,NA
+https://www.pluralsight.com/labs/aws/creating-configuring-auto-scaling-group-with-custom-scaling-policy,labs,Creating and Configuring an Auto Scaling Group with a Custom Scaling Policy,by Sandeep Pareek,Intermediate,1h 10m,05-Apr-21,42
+https://www.pluralsight.com/labs/aws/implement-hybrid-dns-name-resolution-aws,labs,Implement Hybrid DNS Name Resolution on AWS,by Daniel Wilcox,Intermediate,45m,30-Aug-21,73
+https://www.pluralsight.com/labs/aws/manage-docker-swarm,labs,Manage Docker Swarm,by Matt Conran,Beginner,1h 35m,29-Aug-23,12
+https://www.pluralsight.com/labs/aws/serve-static-content-using-amazon-s3-cloudfront,labs,Serve Static Content Using Amazon S3 and CloudFront,by Armen Avanesi,Intermediate,1h,18-Nov-22,2039
+https://www.pluralsight.com/labs/aws/web-attacks-xss,labs,Web Attacks: XSS,by Laurentiu Raducu,Beginner,40m,29-Jan-24,46
+https://www.pluralsight.com/labs/aws/build-multi-container-app-with-docker,labs,Build a Multi-Container App with Docker,by Tim Warner,Beginner,1h 10m,12-Jun-23,47
+https://www.pluralsight.com/labs/aws/aws-sandbox,labs,AWS Sandbox,by Pluralsight Skills,Beginner,2h,09-May-22,1036
+https://www.pluralsight.com/labs/aws/windows-endpoint-security-processes,labs,Windows Endpoint Security Lab: Processes,by Aaron Rosenmund,Beginner,2h,31-Jan-24,71
+https://www.pluralsight.com/labs/aws/encrypt-amazon-s3-objects-with-kms-managed-keys,labs,Encrypt Amazon S3 Objects with KMS Managed Keys,by Lane Stevens,Intermediate,30m,26-Apr-21,108
+https://www.pluralsight.com/labs/aws/create-connections-routing-between-multiple-amazon-vpcs,labs,Create Connections and Routing Between Multiple Amazon VPCs,by Ronika Mehta,Intermediate,30m,18-Mar-22,114
+https://www.pluralsight.com/labs/aws/create-amazon-eks-cluster,labs,Create an Amazon EKS Cluster,by Garrett Hopper,Intermediate,1h 15m,24-Mar-22,264
+https://www.pluralsight.com/labs/aws/create-internet-facing-internal-app-load-balancers-for-web-app-aws,labs,Create Internet-facing and Internal App Load Balancers for a Web App on AWS,by Nicolas Moy,Intermediate,35m,06-May-22,39
+https://www.pluralsight.com/labs/aws/create-serverless-workflow-using-aws-step-functions,labs,Create a Serverless Workflow Using AWS Step Functions,by Pawan Puthran,Intermediate,50m,27-May-22,169
+https://www.pluralsight.com/labs/aws/2-centos-enterprise-linux-7-network-management,labs,Lab 2 - CentOS Enterprise Linux 7 Network Management,by Aaron Rosenmund,Intermediate,3h 45m,18-May-23,18
+https://www.pluralsight.com/labs/aws/linux-troubleshooting-troubleshoot-storage-issues,labs,Linux+ Troubleshooting: Troubleshoot Storage Issues,by false,Beginner,50m,21-Feb-24,NA
+https://www.pluralsight.com/labs/aws/test-basic-network-connectivity-part-2,labs,Test Basic Network Connectivity - Part 2,by Matt Conran,Beginner,1h 35m,20-Feb-24,40
+https://www.pluralsight.com/labs/aws/create-sqs-first-first-out-fifo-queue-using-aws-management-console,labs,Create SQS First in First Out (FIFO) Queue Using the AWS Management Console,by Pawan Puthran,Intermediate,25m,02-Nov-21,26
+https://www.pluralsight.com/labs/aws/trigger-lambda-function-using-aws-application-load-balancer-alb,labs,Use AWS Application Load Balancer (ALB) to Trigger a Lambda Function,by Pawan Puthran,Intermediate,20m,18-Apr-22,44
+https://www.pluralsight.com/labs/aws/1-centos-enterprise-linux-7-operation-essentials,labs,Lab 1 - CentOS Enterprise Linux 7 Operation Essentials,by Aaron Rosenmund,Intermediate,3h 5m,16-May-23,32
+https://www.pluralsight.com/labs/aws/3-centos-enterprise-linux-7-operation-essentials,labs,Lab 3 - CentOS Enterprise Linux 7 Operation Essentials,by Aaron Rosenmund,Beginner,4h 45m,08-Jun-23,37
+https://www.pluralsight.com/labs/aws/1-ethical-hacking-scanning-networks,labs,Lab 1 - Ethical Hacking: Scanning Networks,by Dale Meredith,Intermediate,3h 45m,08-Sep-23,33
+https://www.pluralsight.com/labs/aws/foundational-tcp-analysis-with-wireshark,labs,Lab - Foundational TCP Analysis with Wireshark,by Aaron Rosenmund,Intermediate,4h 15m,19-Jul-23,11
+https://www.pluralsight.com/labs/aws/schedule-serverless-workflow-aws-with-step-functions-cloudwatch,labs,Serverless Workflow on AWS with Step Functions and CloudWatch,by Yashita Shah,Intermediate,35m,21-Apr-22,34
+https://www.pluralsight.com/labs/aws/deploy-auto-scaling-strategy-using-aws-javascript-sdk,labs,Deploy an Auto Scaling Strategy Using the AWS JavaScript SDK,by Tom Bell,Intermediate,35m,02-Dec-21,189
+https://www.pluralsight.com/labs/aws/performing-non-technical-tests-for-comptia-pentest,labs,CompTIA PenTest+ Lab: Performing Non-Technical Tests,by Aaron Rosenmund,Intermediate,4h 45m,24-Apr-23,10
+https://www.pluralsight.com/labs/aws/provision-ebs-volume-with-provisioned-iops-aws,labs,Provision an EBS Volume with Provisioned IOPS on AWS,by Daniel Wilcox,Intermediate,30m,01-Dec-21,NA
+https://www.pluralsight.com/labs/aws/send-notifications-with-aws-sns-using-javascript-sdk,labs,AWS SNS Lab: Send Notifications with the JavaScript SDK,by Carlos Souza,Intermediate,30m,07-Aug-20,167
+https://www.pluralsight.com/labs/aws/linux-security-manage-file-permissions,labs,Linux+ Security: Manage File Permissions,by Agaba Philip,Beginner,1h 11m,05-Dec-23,NA
+https://www.pluralsight.com/labs/aws/formatting-data-powershell,labs,Lab - Formatting Data in PowerShell,by Michael Bender,Intermediate,3h 30m,09-May-23,14
+https://www.pluralsight.com/labs/aws/automate-commands-using-aws-systems-manager-run-commands,labs,Automate Commands Using AWS Systems Manager Run Commands,by Garrett Hopper,Intermediate,45m,25-Jun-21,121
+https://www.pluralsight.com/labs/aws/create-deploy-api-gateway-using-aws-cloudformation,labs,Create and Deploy an API Gateway Using AWS CloudFormation,by Carlos Souza,Intermediate,40m,30-Jun-21,46
+https://www.pluralsight.com/labs/aws/route53-resolvers-traffic-flow-policies-aws,labs,AWS Lab: Route53 Resolvers and Traffic Flow Policies,by Daniel Wilcox,Intermediate,50m,31-Aug-21,119
+https://www.pluralsight.com/labs/aws/security-solutions-for-infrastructure-management-for-comptia-cysa,labs,CompTIA CySA+ Security Solutions for Infrastructure Management,by Aaron Rosenmund,Intermediate,3h 45m,31-Aug-23,37
+https://www.pluralsight.com/labs/aws/update-aws-auto-scaling-group-to-use-new-ami,labs,AWS Lab: Update an Auto Scaling Group to Use a New AMI,by Wes Novack,Intermediate,53m,19-Apr-22,13
+,,,,,,,NA
