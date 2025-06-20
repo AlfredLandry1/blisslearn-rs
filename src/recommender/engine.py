@@ -17,7 +17,7 @@ import nltk
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 import string
-from collections import defaultdict
+from collections import defaultdict, Counter
 from nltk.stem import WordNetLemmatizer
 
 class ContentBasedRecommender:
@@ -38,6 +38,8 @@ class ContentBasedRecommender:
         self.lemmatizer = WordNetLemmatizer()
         self.courses_df = None
         self.tfidf_matrix = None
+        self.feedback_scores = defaultdict(int)
+        self.user_history = defaultdict(Counter)
         
         # Poids des différentes plateformes
         self.platform_weights = {
@@ -46,7 +48,9 @@ class ContentBasedRecommender:
             'MIT': 1.3,
             'Harvard': 1.3,
             'Stanford': 1.3,
-            'Udemy': 0.9
+            'Udemy': 0.9,
+            "aws": 1.1,
+            "google cloud": 1.1
         }
         
         # Dictionnaire enrichi des termes techniques et leurs variantes
@@ -68,6 +72,17 @@ class ContentBasedRecommender:
         
         # Cache pour les termes fréquents par domaine
         self.domain_terms_cache = {}
+        
+        # Graphe de compétences associées (pour recherche sémantique approchée)
+        self.skill_graph = {
+            "python": {"data science", "machine learning", "web"},
+            "data science": {"python", "machine learning", "sql", "statistiques"},
+            "machine learning": {"python", "data science", "deep learning"},
+            "web": {"javascript", "html", "css", "react", "python"},
+            "javascript": {"web", "react", "nodejs"},
+            "react": {"web", "javascript"},
+            "cybersécurité": {"réseau", "pentesting"},
+        }
     
     def safe_float(self, value: Any) -> float:
         """Convertit une valeur en float de manière sécurisée."""
@@ -203,7 +218,24 @@ class ContentBasedRecommender:
             elif price < 20:
                 score *= 1.1
         
+        # Prise en compte du feedback utilisateur
+        course_id = course.get('course_id')
+        if course_id is not None and course_id in self.feedback_scores:
+            feedback_score = self.feedback_scores[course_id]
+            if feedback_score > 0:
+                score *= (1 + 0.2 * feedback_score) # Bonus pour like
+            else:
+                score *= (1 - 0.2 * abs(feedback_score)) # Pénalité pour dislike
+        
         return score
+    
+    def record_feedback(self, course_id: int, rating: int):
+        """Enregistre un feedback (+1 ou -1) pour un cours."""
+        self.feedback_scores[course_id] += rating
+    
+    def record_user_search(self, username: str, skills: List[str]):
+        """Enregistre les compétences recherchées par un utilisateur."""
+        self.user_history[username].update(skills)
     
     def prepare_course_features(self, df: pd.DataFrame) -> pd.DataFrame:
         """
@@ -281,48 +313,41 @@ class ContentBasedRecommender:
     def get_recommendations(
         self,
         objectifs: List[str],
+        n_recommendations: int = 10,
         niveau: Optional[str] = None,
-        domaines_interet: Optional[List[str]] = None,
-        duree_disponible: Optional[float] = None,
-        n_recommendations: int = 10
-    ) -> List[Dict[str, Any]]:
+        duree_max: Optional[float] = None,
+        plateforme: Optional[str] = None,
+        prix_max: Optional[float] = None,
+        username: Optional[str] = None
+    ) -> List[dict]:
         """
         Génère des recommandations de cours.
         
         Args:
             objectifs (List[str]): Liste des objectifs d'apprentissage
-            niveau (Optional[str]): Niveau souhaité
-            domaines_interet (Optional[List[str]]): Domaines d'intérêt
-            duree_disponible (Optional[float]): Durée disponible en heures
             n_recommendations (int): Nombre de recommandations à retourner
+            niveau (Optional[str]): Niveau souhaité
+            duree_max (Optional[float]): Durée maximale disponible en heures
+            plateforme (Optional[str]): Plateforme souhaitée
+            prix_max (Optional[float]): Prix maximal accepté
+            username (Optional[str]): Nom d'utilisateur
             
         Returns:
-            List[Dict[str, Any]]: Liste des cours recommandés
+            List[dict]: Liste des cours recommandés
         """
-        if not self.courses_df is not None or not self.tfidf_matrix is not None:
-            raise ValueError("Le recommender n'a pas été entraîné")
-            
-        # Créer le texte de requête
-        query_parts = []
-        
-        # Ajouter les objectifs avec plus de poids
+        if self.courses_df is None or self.tfidf_matrix is None:
+            raise ValueError("Le moteur de recommandation n'est pas initialisé.")
+
+        # Enrichissement des objectifs avec des compétences associées (recherche sémantique approchée)
+        expanded_objectifs = set(objectifs)
         for obj in objectifs:
-            query_parts.extend([obj] * 3)
-            
-        # Ajouter le niveau si spécifié
-        if niveau:
-            query_parts.append(niveau)
-            
-        # Ajouter les domaines d'intérêt
-        if domaines_interet:
-            query_parts.extend(domaines_interet)
-            
-        query_text = " ".join(query_parts).lower()
-        
-        # Vectoriser la requête
+            if obj in self.skill_graph:
+                expanded_objectifs.update(self.skill_graph[obj])
+
+        query_text = " ".join(expanded_objectifs)
         query_vector = self.vectorizer.transform([query_text])
         
-        # Calculer les similarités
+        # Calcul de la similarité cosinus
         similarities = cosine_similarity(query_vector, self.tfidf_matrix).flatten()
         
         # Créer un masque pour le filtrage
@@ -333,8 +358,16 @@ class ContentBasedRecommender:
             mask &= (self.courses_df['level'].str.lower() == niveau.lower())
             
         # Filtrer par durée si spécifiée
-        if duree_disponible is not None:
-            mask &= (self.courses_df['duration'].fillna(np.inf) <= duree_disponible)
+        if duree_max is not None:
+            mask &= (self.courses_df['duration'].fillna(np.inf) <= duree_max)
+            
+        # Filtrer par plateforme si spécifiée
+        if plateforme:
+            mask &= (self.courses_df['platform'].str.lower() == plateforme.lower())
+            
+        # Filtrer par prix si spécifié
+        if prix_max is not None:
+            mask &= (self.courses_df['price'].fillna(np.inf) <= prix_max)
             
         # Appliquer le masque aux similarités
         similarities[~mask] = -1
@@ -366,6 +399,16 @@ class ContentBasedRecommender:
                 continue
             # Calcul du score enrichi
             score = self.calculate_course_quality_score(course)
+            
+            # Bonus de personnalisation basé sur l'historique
+            personalization_bonus = 0
+            if username and username in self.user_history:
+                user_prefs = self.user_history[username]
+                course_skills = course.get('skills', [])
+                # Calcule un bonus basé sur la fréquence des compétences recherchées par l'utilisateur
+                personalization_bonus = sum(user_prefs.get(skill, 0) for skill in course_skills) / max(1, sum(user_prefs.values()))
+
+            combined_score = (similarities[idx] * 0.6) + (score * 0.4) + (personalization_bonus * 0.2)
             recommendations.append({
                 'titre': course['title'],
                 'plateforme': course['platform'],
@@ -373,7 +416,7 @@ class ContentBasedRecommender:
                 'niveau': course['level'],
                 'duree': course['duration'] if pd.notna(course['duration']) else None,
                 'skills': course['skills'],
-                'score': float(similarities[idx]) * score
+                'score': float(combined_score)
             })
             seen_titles.add(course['title'])
             if main_skill:

@@ -99,6 +99,22 @@
         ],
         "url": { "raw": "{{base_url}}/stats/", "host": ["{{base_url}}"], "path": ["stats"] }
       }
+    },
+    {
+      "name": "Feedback Utilisateur (Like/Dislike)",
+      "request": {
+        "method": "POST",
+        "header": [
+          { "key": "Authorization", "value": "Bearer {{access_token}}" },
+          { "key": "Content-Type", "value": "application/json" }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"course_id\": 0,\n  \"rating\": 1\n}"
+        },
+        "url": { "raw": "{{base_url}}/feedback/", "host": ["{{base_url}}"], "path": ["feedback"] }
+      },
+      "description": "Envoyer un feedback pour un cours. 'rating': 1 pour 'like', -1 pour 'dislike'."
     }
   ],
   "event": [],

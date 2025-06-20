@@ -12,6 +12,8 @@ from datetime import timedelta
 import logging
 from fastapi.responses import JSONResponse
 import re
+import unicodedata
+from fastapi.middleware.cors import CORSMiddleware
 
 from src.recommender.engine import ContentBasedRecommender
 from src.recommender.preprocessor import DataPreprocessor
@@ -81,6 +83,10 @@ class CourseResponse(BaseModel):
 class PromptRequest(BaseModel):
     prompt: str
 
+class FeedbackRequest(BaseModel):
+    course_id: int
+    rating: int # +1 for like, -1 for dislike
+
 # Variables globales pour stocker les instances
 recommender = None
 preprocessor = None
@@ -125,8 +131,17 @@ async def lifespan(app: FastAPI):
 app = FastAPI(
     title="BlissLearn API",
     description="API de recommandation de cours en ligne",
-    version="2.2.0",
+    version="2.3.0",
     lifespan=lifespan
+)
+
+# Configuration CORS
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Attention: en production, il faut lister les domaines autorisés
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 @app.get("/")
@@ -134,7 +149,7 @@ async def root():
     """Page d'accueil de l'API."""
     return {
         "message": "Bienvenue sur l'API BlissLearn",
-        "version": "2.2.0",
+        "version": "2.3.0",
         "status": "online"
     }
 
@@ -170,37 +185,23 @@ async def get_recommendations(
     current_user: User = Depends(get_current_active_user)
 ):
     """
-    Génère des recommandations de cours personnalisées.
-    
-    Args:
-        request (RecommendationRequest): Les préférences de l'utilisateur
-        current_user (User): L'utilisateur authentifié
-        
-    Returns:
-        List[RecommendationResponse]: Liste des cours recommandés
+    Génère des recommandations de cours basées sur les objectifs, le niveau, la durée et les préférences de l'utilisateur.
     """
     try:
-        if not recommender:
-            logger.error("Le système de recommandation n'est pas initialisé")
-            raise HTTPException(
-                status_code=503,
-                detail="Le système de recommandation n'est pas initialisé"
-            )
-        
-        logger.info(f"Génération de recommandations pour {current_user.username}")
-        logger.info(f"Objectifs : {request.objectifs}")
-        
-        recommendations = recommender.get_recommendations(
+        # Enregistrement de la recherche pour la personnalisation
+        if recommender and request.objectifs:
+            recommender.record_user_search(current_user.username, request.objectifs)
+
+        recommandations = recommender.get_recommendations(
             objectifs=request.objectifs,
+            n_recommendations=request.n_recommendations,
             niveau=request.niveau,
-            domaines_interet=request.domaines_interet,
-            duree_disponible=request.duree_disponible,
-            n_recommendations=request.n_recommendations
+            duree_max=request.duree_disponible,
+            username=current_user.username
         )
-        
-        # Convertir les recommandations en format de réponse
+        # Formatage de la réponse
         response = []
-        for rec in recommendations:
+        for rec in recommandations:
             explications = []
             if any(obj.lower() in (s.lower() for s in rec['skills']) for obj in request.objectifs):
                 explications.append("Correspond à vos objectifs de compétences")
@@ -492,6 +493,24 @@ ENRICHED_SKILLS = competences = {
     ]
 }
 
+def normalize_text(text: str) -> str:
+    """
+    Normalise un texte en :
+    - supprimant les accents
+    - mettant en minuscules
+    - supprimant les caractères non alphanumériques (sauf espaces)
+    """
+    if not isinstance(text, str):
+        return ""
+    # Normalisation NFD (décomposition) pour séparer lettres et accents
+    text = unicodedata.normalize('NFD', text.lower())
+    # Suppression des accents (marques diacritiques)
+    text = re.sub("[\u0300-\u036f]", "", text)
+    # Remplacement des caractères non alphanumériques par des espaces
+    text = re.sub(r'[^a-z0-9\s]', ' ', text)
+    # Suppression des espaces multiples
+    text = re.sub(r'\s+', ' ', text).strip()
+    return text
 
 @app.post("/recommandation-prompt/", response_model=List[RecommendationResponse])
 async def get_recommendations_from_prompt(
@@ -502,29 +521,38 @@ async def get_recommendations_from_prompt(
     Génère des recommandations à partir d'un prompt textuel libre (intelligence automatique, extraction enrichie sans spaCy).
     """
     try:
-        prompt = request.prompt.lower()
+        prompt_normalized = normalize_text(request.prompt)
+        
         # Extraction enrichie des objectifs
         objectifs = set()
         for skill, variants in ENRICHED_SKILLS.items():
             for variant in variants:
-                if variant in prompt:
+                if variant in prompt_normalized:
                     objectifs.add(skill)
+        
         # Fallback : extraire tous les mots de plus de 4 lettres non stopwords
         if not objectifs:
-            mots = re.findall(r"\b\w{4,}\b", prompt)
-            stopwords = set(["cours", "formation", "apprendre", "envie", "souhaite", "rapide", "gratuit", "niveau", "débutant", "avancé", "intermédiaire", "heures", "jours", "semaines", "mois", "projet", "certification", "diplôme", "obtenir", "meilleur", "en", "de", "le", "la", "les", "des", "pour", "avec", "sur", "dans", "et", "ou", "par", "un", "une", "du", "au", "aux", "à", "mon", "ma", "mes", "ton", "ta", "tes", "son", "sa", "ses"])
-            objectifs = set([w for w in mots if w not in stopwords])
+            stopwords = set(["cours", "formation", "apprendre", "envie", "souhaite", "rapide", "gratuit", "niveau", "debutant", "avance", "intermediaire", "heures", "jours", "semaines", "mois", "projet", "certification", "diplome", "obtenir", "meilleur", "en", "de", "le", "la", "les", "des", "pour", "avec", "sur", "dans", "et", "ou", "par", "un", "une", "du", "au", "aux", "a", "mon", "ma", "mes", "ton", "ta", "tes", "son", "sa", "ses"])
+            mots = [word for word in prompt_normalized.split() if word not in stopwords and len(word) >= 4]
+            objectifs = set(mots)
+
+        # Enregistrement de la recherche pour la personnalisation
+        if recommender and objectifs:
+            recommender.record_user_search(current_user.username, list(objectifs))
+
+        prompt_lower = request.prompt.lower()
         # Niveau
         niveau = None
-        if re.search(r"débutant|beginner", prompt):
+        if re.search(r"débutant|beginner", prompt_lower):
             niveau = "Beginner"
-        elif re.search(r"intermédiaire|intermediate", prompt):
+        elif re.search(r"intermédiaire|intermediate", prompt_lower):
             niveau = "Intermediate"
-        elif re.search(r"avancé|advanced", prompt):
+        elif re.search(r"avancé|advanced", prompt_lower):
             niveau = "Advanced"
+        
         # Durée
         duree = None
-        m = re.search(r"(\d+)\s*(heures|h|jours|j|semaines|mois)", prompt)
+        m = re.search(r"(\d+)\s*(heures|h|jours|j|semaines|mois)", prompt_lower)
         if m:
             val, unite = m.groups()
             val = float(val)
@@ -536,18 +564,21 @@ async def get_recommendations_from_prompt(
                 duree = val * 160
             else:
                 duree = val
+        
         # Prix
         prix_max = None
-        if 'gratuit' in prompt or 'free' in prompt:
+        if 'gratuit' in prompt_lower or 'free' in prompt_lower:
             prix_max = 0
-        elif re.search(r"moins de (\d+)[ €$]?", prompt):
-            prix_max = float(re.search(r"moins de (\d+)[ €$]?", prompt).group(1))
+        elif re.search(r"moins de (\d+)[ €$]?", prompt_lower):
+            prix_max = float(re.search(r"moins de (\d+)[ €$]?", prompt_lower).group(1))
+        
         # Appel du moteur de recommandation
         recommandations = recommender.get_recommendations(
             objectifs=list(objectifs) or ["Python"],
             niveau=niveau,
-            duree_disponible=duree,
-            n_recommendations=5
+            duree_max=duree,
+            prix_max=prix_max,
+            username=current_user.username
         )
         # Filtrer par prix si besoin
         if prix_max is not None:
@@ -574,11 +605,32 @@ async def get_recommendations_from_prompt(
                 score=rec['score'],
                 explication="; ".join(explications)
             ))
-        logger.info(f"Prompt: {prompt} => {len(response)} recommandations générées")
+        logger.info(f"Prompt: {request.prompt} => {len(response)} recommandations générées")
         return response
     except Exception as e:
         logger.error(f"Erreur lors de la recommandation via prompt : {str(e)}")
         raise HTTPException(status_code=500, detail=f"Erreur lors de la recommandation via prompt : {str(e)}")
+
+@app.post("/feedback/")
+async def record_user_feedback(
+    request: FeedbackRequest,
+    current_user: User = Depends(get_current_active_user)
+):
+    """
+    Enregistre le feedback d'un utilisateur pour un cours (like/dislike).
+    """
+    try:
+        if not recommender:
+            raise HTTPException(status_code=503, detail="Le système de recommandation n'est pas initialisé")
+        
+        recommender.record_feedback(request.course_id, request.rating)
+        
+        logger.info(f"Feedback reçu de {current_user.username}: course_id={request.course_id}, rating={request.rating}")
+        return {"status": "success", "message": "Feedback enregistré avec succès"}
+        
+    except Exception as e:
+        logger.error(f"Erreur lors de l'enregistrement du feedback : {str(e)}")
+        raise HTTPException(status_code=500, detail=f"Erreur lors de l'enregistrement du feedback : {str(e)}")
 
 if __name__ == "__main__":
     uvicorn.run(
