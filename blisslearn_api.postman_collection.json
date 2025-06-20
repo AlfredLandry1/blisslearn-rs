@@ -1,0 +1,109 @@
+{
+  "info": {
+    "_postman_id": "blisslearn-api-collection-001",
+    "name": "BlissLearn API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Authentification - Obtenir Token",
+      "request": {
+        "method": "POST",
+        "header": [
+          { "key": "Content-Type", "value": "application/x-www-form-urlencoded" }
+        ],
+        "body": {
+          "mode": "urlencoded",
+          "urlencoded": [
+            { "key": "username", "value": "test", "type": "text" },
+            { "key": "password", "value": "test123", "type": "text" }
+          ]
+        },
+        "url": { "raw": "{{base_url}}/token", "host": ["{{base_url}}"], "path": ["token"] }
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "exec": [
+              "var json = pm.response.json();",
+              "pm.environment.set('access_token', json.access_token);",
+              "pm.test('Token reçu', function () { pm.expect(json.access_token).to.be.a('string'); });"
+            ],
+            "type": "text/javascript"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Liste paginée des cours",
+      "request": {
+        "method": "GET",
+        "header": [
+          { "key": "Authorization", "value": "Bearer {{access_token}}" }
+        ],
+        "url": { "raw": "{{base_url}}/cours/?skip=0&limit=5", "host": ["{{base_url}}"], "path": ["cours"], "query": [ { "key": "skip", "value": "0" }, { "key": "limit", "value": "5" } ] }
+      }
+    },
+    {
+      "name": "Recherche intelligente",
+      "request": {
+        "method": "GET",
+        "header": [
+          { "key": "Authorization", "value": "Bearer {{access_token}}" }
+        ],
+        "url": { "raw": "{{base_url}}/recherche/?q=python&limit=3", "host": ["{{base_url}}"], "path": ["recherche"], "query": [ { "key": "q", "value": "python" }, { "key": "limit", "value": "3" } ] }
+      }
+    },
+    {
+      "name": "Recommandations personnalisées",
+      "request": {
+        "method": "POST",
+        "header": [
+          { "key": "Authorization", "value": "Bearer {{access_token}}" },
+          { "key": "Content-Type", "value": "application/json" }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"objectifs\": [\"Python\", \"Machine Learning\"],\n  \"niveau\": \"Beginner\",\n  \"domaines_interet\": [\"Data Science\"],\n  \"duree_disponible\": 40,\n  \"n_recommendations\": 3\n}"
+        },
+        "url": { "raw": "{{base_url}}/recommandations/", "host": ["{{base_url}}"], "path": ["recommandations"] }
+      }
+    },
+    {
+      "name": "Détail d'un cours (id=0)",
+      "request": {
+        "method": "GET",
+        "header": [
+          { "key": "Authorization", "value": "Bearer {{access_token}}" }
+        ],
+        "url": { "raw": "{{base_url}}/cours/0", "host": ["{{base_url}}"], "path": ["cours", "0"] }
+      }
+    },
+    {
+      "name": "Liste des plateformes",
+      "request": {
+        "method": "GET",
+        "header": [
+          { "key": "Authorization", "value": "Bearer {{access_token}}" }
+        ],
+        "url": { "raw": "{{base_url}}/plateformes/", "host": ["{{base_url}}"], "path": ["plateformes"] }
+      }
+    },
+    {
+      "name": "Statistiques globales",
+      "request": {
+        "method": "GET",
+        "header": [
+          { "key": "Authorization", "value": "Bearer {{access_token}}" }
+        ],
+        "url": { "raw": "{{base_url}}/stats/", "host": ["{{base_url}}"], "path": ["stats"] }
+      }
+    }
+  ],
+  "event": [],
+  "variable": [
+    { "key": "base_url", "value": "http://localhost:8000" },
+    { "key": "access_token", "value": "" }
+  ]
+} 

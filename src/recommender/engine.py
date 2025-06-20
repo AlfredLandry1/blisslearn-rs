@@ -191,6 +191,18 @@ class ContentBasedRecommender:
         elif len(skills) >= 3:
             score *= 1.1
         
+        # Bonus pour les cours gratuits ou peu chers
+        price = course.get('price', None)
+        try:
+            price = float(price) if price is not None and price != '' else None
+        except Exception:
+            price = None
+        if price is not None:
+            if price == 0:
+                score *= 1.2
+            elif price < 20:
+                score *= 1.1
+        
         return score
     
     def prepare_course_features(self, df: pd.DataFrame) -> pd.DataFrame:
@@ -333,19 +345,27 @@ class ContentBasedRecommender:
         # Préparer les recommandations
         recommendations = []
         seen_titles = set()
-        
+        seen_main_skills = set()
+        seen_platforms = set()
         for idx in course_indices:
             if similarities[idx] <= 0:
                 break
-                
             course = self.courses_df.iloc[idx]
-            
-            # Éviter les doublons
+            # Éviter les doublons de titre
             if course['title'] in seen_titles:
                 continue
-                
-            seen_titles.add(course['title'])
-            
+            # Diversité thématique : éviter les doublons de compétence principale
+            main_skill = None
+            if isinstance(course['skills'], list) and len(course['skills']) > 0:
+                main_skill = course['skills'][0].lower()
+            if main_skill and main_skill in seen_main_skills:
+                continue
+            # Diversité plateforme : éviter trop de répétitions
+            platform = course['platform']
+            if platform in seen_platforms and len(seen_platforms) < 3:
+                continue
+            # Calcul du score enrichi
+            score = self.calculate_course_quality_score(course)
             recommendations.append({
                 'titre': course['title'],
                 'plateforme': course['platform'],
@@ -353,10 +373,12 @@ class ContentBasedRecommender:
                 'niveau': course['level'],
                 'duree': course['duration'] if pd.notna(course['duration']) else None,
                 'skills': course['skills'],
-                'score': float(similarities[idx])
+                'score': float(similarities[idx]) * score
             })
-            
+            seen_titles.add(course['title'])
+            if main_skill:
+                seen_main_skills.add(main_skill)
+            seen_platforms.add(platform)
             if len(recommendations) >= n_recommendations:
                 break
-                
         return recommendations 

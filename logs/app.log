@@ -33,3 +33,94 @@ AttributeError: module 'bcrypt' has no attribute '__about__'
 2025-06-11 05:13:23,324 - main - INFO - Génération de recommandations pour test
 2025-06-11 05:13:23,325 - main - INFO - Objectifs : ['Mobile Development', 'React Native', 'Flutter', 'iOS Development', 'Android Development']
 2025-06-11 05:13:23,366 - main - INFO - 5 recommandations générées
+2025-06-20 17:23:22,909 - main - INFO - Chargement et prétraitement des données...
+2025-06-20 17:23:23,528 - main - INFO - Nombre total de cours : 27742
+2025-06-20 17:23:23,528 - main - INFO - Initialisation du système de recommandation...
+2025-06-20 17:23:27,484 - main - INFO - Système de recommandation initialisé avec succès
+2025-06-20 17:32:35,096 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "D:\Licence projects\blisslearn-rs\.venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-06-20 17:32:35,427 - main - INFO - Génération de recommandations pour test
+2025-06-20 17:32:35,427 - main - INFO - Objectifs : ['create a game']
+2025-06-20 17:32:35,450 - main - INFO - 0 recommandations générées
+2025-06-20 17:33:08,699 - main - INFO - 50 cours retournés via /cours/ (pagination: skip=0, limit=50)
+2025-06-20 17:33:14,258 - main - INFO - 50 cours retournés via /cours/ (pagination: skip=1, limit=50)
+2025-06-20 17:34:09,515 - main - INFO - Statistiques globales calculées : {'nombre_total_cours': 27742, 'nombre_plateformes': 3, 'nombre_competences_uniques': 833, 'repartition_niveaux': {'All Levels': 16059, 'Beginner': 8028, 'Intermediate': 3587, 'Advanced': 68}}
+2025-06-20 17:39:14,517 - main - INFO - 5 cours retournés via /cours/ (pagination: skip=0, limit=5)
+2025-06-20 17:39:15,016 - main - INFO - Recherche /recherche/ : 3 résultats pour q=python, plateforme=None, niveau=None, prix_min=None, prix_max=None
+2025-06-20 17:39:15,417 - main - INFO - Génération de recommandations pour test
+2025-06-20 17:39:15,417 - main - INFO - Objectifs : ['Python', 'Machine Learning']
+2025-06-20 17:39:15,446 - main - INFO - 1 recommandations générées
+2025-06-20 17:39:15,828 - main - ERROR - Erreur lors de la récupération du détail du cours : 404: Identifiant de cours non disponible
+2025-06-20 17:39:16,596 - main - INFO - Statistiques globales calculées : {'nombre_total_cours': 27742, 'nombre_plateformes': 3, 'nombre_competences_uniques': 833, 'repartition_niveaux': {'All Levels': 16059, 'Beginner': 8028, 'Intermediate': 3587, 'Advanced': 68}}
+2025-06-20 17:39:41,902 - main - INFO - Génération de recommandations pour test
+2025-06-20 17:39:41,903 - main - INFO - Objectifs : ['Python', 'Machine Learning']
+2025-06-20 17:39:41,935 - main - INFO - 1 recommandations générées
+2025-06-20 17:40:25,276 - main - ERROR - Erreur lors de la récupération du détail du cours : 404: Identifiant de cours non disponible
+2025-06-20 17:40:48,650 - main - INFO - 5 cours retournés via /cours/ (pagination: skip=0, limit=5)
+2025-06-20 17:41:09,680 - main - INFO - Génération de recommandations pour test
+2025-06-20 17:41:09,680 - main - INFO - Objectifs : ['Python', 'Machine Learning']
+2025-06-20 17:41:09,710 - main - INFO - 1 recommandations générées
+2025-06-20 17:41:59,095 - main - INFO - Génération de recommandations pour test
+2025-06-20 17:41:59,095 - main - INFO - Objectifs : ['web', 'web application']
+2025-06-20 17:41:59,123 - main - INFO - 1 recommandations générées
+2025-06-20 17:52:39,612 - main - INFO - Arrêt du système...
+2025-06-20 17:52:43,853 - main - INFO - Chargement et prétraitement des données...
+2025-06-20 17:52:44,418 - main - INFO - Nombre total de cours : 27742
+2025-06-20 17:52:44,419 - main - INFO - Initialisation du système de recommandation...
+2025-06-20 17:52:49,212 - main - INFO - Système de recommandation initialisé avec succès
+2025-06-20 17:52:53,332 - main - INFO - Arrêt du système...
+2025-06-20 17:52:57,710 - main - INFO - Chargement et prétraitement des données...
+2025-06-20 17:52:58,330 - main - INFO - Nombre total de cours : 27742
+2025-06-20 17:52:58,330 - main - INFO - Initialisation du système de recommandation...
+2025-06-20 17:53:01,711 - main - INFO - Système de recommandation initialisé avec succès
+2025-06-20 17:54:10,904 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "D:\Licence projects\blisslearn-rs\.venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-06-20 17:54:11,245 - main - INFO - Prompt: je veux apprendre le développement web rapidement et gratuitement => 5 recommandations générées
+2025-06-20 17:56:38,438 - main - INFO - Prompt: je veux apprendre la cuisine => 5 recommandations générées
+2025-06-20 17:56:48,342 - main - INFO - Prompt: je veux apprendre la cuisine => 5 recommandations générées
+2025-06-20 17:57:04,656 - main - INFO - Prompt: je veux apprendre le code de l'ia => 5 recommandations générées
+2025-06-20 17:59:57,997 - main - INFO - Arrêt du système...
+2025-06-20 18:00:01,689 - main - INFO - Chargement et prétraitement des données...
+2025-06-20 18:00:02,460 - main - INFO - Nombre total de cours : 27742
+2025-06-20 18:00:02,460 - main - INFO - Initialisation du système de recommandation...
+2025-06-20 18:00:08,468 - main - INFO - Système de recommandation initialisé avec succès
+2025-06-20 18:02:11,480 - main - INFO - Arrêt du système...
+2025-06-20 18:02:15,266 - main - INFO - Chargement et prétraitement des données...
+2025-06-20 18:02:15,808 - main - INFO - Nombre total de cours : 27742
+2025-06-20 18:02:15,808 - main - INFO - Initialisation du système de recommandation...
+2025-06-20 18:02:19,821 - main - INFO - Système de recommandation initialisé avec succès
+2025-06-20 18:02:52,907 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "D:\Licence projects\blisslearn-rs\.venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-06-20 18:02:53,237 - main - INFO - Prompt: je veux apprendre le code de l'ia avec python => 5 recommandations générées
+2025-06-20 18:12:29,257 - main - INFO - Prompt: je veux apprendre la programmation mobile => 5 recommandations générées
+2025-06-20 18:21:45,302 - main - INFO - Arrêt du système...
+2025-06-20 18:22:26,245 - main - INFO - Chargement et prétraitement des données...
+2025-06-20 18:22:27,537 - main - INFO - Nombre total de cours : 27742
+2025-06-20 18:22:27,539 - main - INFO - Initialisation du système de recommandation...
+2025-06-20 18:22:34,916 - main - INFO - Système de recommandation initialisé avec succès
+2025-06-20 18:22:34,959 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "D:\Licence projects\blisslearn-rs\.venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-06-20 18:22:35,702 - main - INFO - Prompt: je veux apprendre la programmation mobile => 2 recommandations générées
+2025-06-20 18:23:11,379 - main - INFO - Prompt: je veux excel gratuitement => 5 recommandations générées
+2025-06-20 18:45:29,227 - main - INFO - Arrêt du système...
+2025-06-20 18:45:32,846 - main - INFO - Chargement et prétraitement des données...
+2025-06-20 18:45:33,421 - main - INFO - Nombre total de cours : 27742
+2025-06-20 18:45:33,421 - main - INFO - Initialisation du système de recommandation...
+2025-06-20 18:45:37,496 - main - INFO - Système de recommandation initialisé avec succès
+2025-06-20 18:45:43,995 - main - INFO - Arrêt du système...
